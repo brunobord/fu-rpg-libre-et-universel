@@ -24,12 +24,7 @@ Pour résoudre une action dont l'issue est incertaine, lancez un d6. Votre but e
 
 ## Avant de jouer
 
-Avant tout, vous et vos amis devrez vous accorder sur le type de jeu que vous voulez jouer, quels seront vos personnages, et dans quel univers prendra place l'histoire. En sachant cel, vous aiderez les joueurs à créer des personnages sympas, et cela donnera des indications au Narrateur sur le rôle qu'ils endosseront. Ces décisions ont peut-être déjà été prises, soit par le Narrateur, soit par l'intermédiaire d'un module déjà écrit. Si ce n'est pas le cas, oeuvrez ensemble pour construire un univers dans lequel tout le monde aura envie de jouer.
-
-[Knowing this will help players create cool characters, and direct the
-Narrator in the role they will take. These decisions might already be made,
-either by the Narrator, or a pre-made setting module. If not, work together to
-come up with something everyone is excited to play.]
+Avant tout, vous et vos amis devrez vous accorder sur le type de jeu que vous voulez jouer, quels seront vos personnages, et dans quel univers prendra place l'histoire. En sachant cela, vous aiderez les joueurs à créer des personnages sympas, et cela donnera des indications au Narrateur sur le rôle qu'ils endosseront. Ces décisions ont peut-être déjà été prises, soit par le Narrateur, soit par l'intermédiaire d'un module déjà écrit. Si ce n'est pas le cas, oeuvrez ensemble pour construire un univers dans lequel tout le monde aura envie de jouer.
 
 -----
 
