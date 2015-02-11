@@ -31,7 +31,7 @@ En décrivant une scène il faut la dépeindre dans tous les sens : pointer les 
 
 ### Qu'est-ce qu'un objectif ?
 
-Un objectif peut être ce que le joueur ou le personnage veut. Les objectifs du personnages peuvent être de trouver une information, défaire un ennemi, discuter avec quelqu'un, voyager sur une courte ou une longue distance, se préparer pour une bataille, [conning a mark] ou voler un objet. Les objectifs des joueurs peuvent être de voir leur personnage impliqué dans un beau combat, résoudre une énigme, révéler un secret à propos de leur personnage ou interagir avec un autre personnage ou joueur. Souvent, les objectifs du personnage et du joueur se rejoignent.
+Un objectif peut être ce que le joueur ou le personnage veut. Les objectifs du personnages peuvent être de trouver une information, défaire un ennemi, discuter avec quelqu'un, voyager sur une courte ou une longue distance, se préparer pour une bataille, duper un pigeon ou voler un objet. Les objectifs des joueurs peuvent être de voir leur personnage impliqué dans un beau combat, résoudre une énigme, révéler un secret à propos de leur personnage ou interagir avec un autre personnage ou joueur. Souvent, les objectifs du personnage et du joueur se rejoignent.
 
 
 ### Est-ce que les scènes doivent être dans l'ordre ?
