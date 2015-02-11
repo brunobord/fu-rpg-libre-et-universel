@@ -1,51 +1,22 @@
 # Introduction
 
-FU est un jeu d'action et d'aventure tout en restant amusant ! C'est un jeu de rôle
-avec de grandes intentions, tout en restant d'une simplicité stupéfiante.
-FU vous laisse créer des histoires enthousiasmantes dans n'importe quel décor
-imaginable, avec un minimum de [FUSS], ou même de préparation.
+FU est un jeu d'action et d'aventure tout en restant amusant ! C'est un jeu de rôle avec de grandes intentions, tout en restant d'une simplicité stupéfiante. FU vous laisse créer des histoires enthousiasmantes dans n'importe quel décor imaginable, avec un minimum de [FUSS], ou même de préparation.
 
-FU est avant tout un jeu simple. Ce livre vous aidera à passer d'une idée du style :
-*"Et si on faisait un jeu de rôle dans cet univers..."* à la concrétisation du jeu
-en quelques minutes. La création des personnages est rapide et intuitive, permettant
-de jouer n'importe quel type de personnage, et le jeu en lui-même est aisé à
-apprendre et simple d'utilisation.
+FU est avant tout un jeu simple. Ce livre vous aidera à passer d'une idée du style : *"Et si on faisait un jeu de rôle dans cet univers..."* à la concrétisation du jeu en quelques minutes. La création des personnages est rapide et intuitive, permettant de jouer n'importe quel type de personnage, et le jeu en lui-même est aisé à apprendre et simple d'utilisation.
 
-FU est universel. Ou générique. Ou quelle que soit l'appellation que vous voulez.
-Ces règles de base ne sont pas liées à un univers spécifique, et s'attachent à
-ne surtout rien présupposer de celui-ci. C'est un système basique autour duquel
-vous pourrez créer vos propres univers de jeu et vos histoires.
-Cela dit, FU a quelques préférences concernant la manière de jouer.
+FU est universel. Ou générique. Ou quelle que soit l'appellation que vous voulez. Ces règles de base ne sont pas liées à un univers spécifique, et s'attachent à ne surtout rien présupposer de celui-ci. C'est un système basique autour duquel vous pourrez créer vos propres univers de jeu et vos histoires. Cela dit, FU a quelques préférences concernant la manière de jouer.
 
-[FU lends itself to a ‘seat of your pants’ style, where little preparation is
-needed.]
+[FU lends itself to a ‘seat of your pants’ style, where little preparation is needed.]
 
-Les Narrateurs qui aiment vivre des aventures "au fil de l'eau" apprécieront
-certainement FU, tout autant que les joueurs qui en ont assez qu'on leur dise ce
-qu'ils ne peuvent pas faire, au lieu de ce qu'ils peuvent accomplir.
+Les Narrateurs qui aiment vivre des aventures "au fil de l'eau" apprécieront certainement FU, tout autant que les joueurs qui en ont assez qu'on leur dise ce qu'ils ne peuvent pas faire, au lieu de ce qu'ils peuvent accomplir.
 
 ## Comment utiliser ce livre
 
-Ce livre renferme deux types d'informations. Premièrement, les règles à
-proprement parler - celles qui expliquent comment jouer. Ces règles sont
-présentées de façon informative sur cette page, avec des titres et des
-sous-titres clairs. FU est assez limpide et vous n'aurez probablement pas besoin
-de vous référer au livre des règles après votre première partie. Tout ce
-que vous avez besoin de savoir est présenté comme cela.
+Ce livre renferme deux types d'informations. Premièrement, les règles à proprement parler - celles qui expliquent comment jouer. Ces règles sont présentées de façon informative sur cette page, avec des titres et des sous-titres clairs. FU est assez limpide et vous n'aurez probablement pas besoin de vous référer au livre des règles après votre première partie. Tout ce que vous avez besoin de savoir est présenté comme cela.
 
-> Les exemples d'utilisation des règles sont formattés comme ceci.
-> Ils sont [répandus] au milieu du texte principal et vous aident à voir comment
-> utiliser les règles. Vous n'aurez probablement pas besoin de les relire après
-> votre première partie.
+> Les exemples d'utilisation des règles sont formattés comme ceci. Ils sont [répandus] au milieu du texte principal et vous aident à voir comment utiliser les règles. Vous n'aurez probablement pas besoin de les relire après votre première partie.
 
-Il y a également des encarts au bas des pages. Vous y trouverez des explications
-des règles, des exemples détaillés, des guides sur l'utilisation des règles en
-jeu, et des règles optionnelles que vous pourrez incorporer dans vos parties.
-Ces encarts sont facilement repérables puisqu'ils sont séparés du texte
-principal par une ligne, et présentés sous trois colonnes. Référez-vous à ces
-informations si vous avez besoin de comprendre le "comment" ou le "pourquoi" de
-certaines règles.
-
+Il y a également des encarts au bas des pages. Vous y trouverez des explications des règles, des exemples détaillés, des guides sur l'utilisation des règles en jeu, et des règles optionnelles que vous pourrez incorporer dans vos parties. Ces encarts sont facilement repérables puisqu'ils sont séparés du texte principal par une ligne, et présentés sous trois colonnes. Référez-vous à ces informations si vous avez besoin de comprendre le "comment" ou le "pourquoi" de certaines règles.
 
 ----
 
