@@ -30,9 +30,9 @@ Avant tout, vous et vos amis devrez vous accorder sur le type de jeu que vous vo
 
 ### Discuter avant de jouer !
 
-Conversez au sujet du type de jeu auquel vous jouerez, afin que tout le monde démarre avec les mêmes bases. Définissez un ton, un thème et/ou des attentes. Il est important de comprendre qui sera félicité ou honni pour une réaction exagérée, ou des actes de violence gratuite. Lancez des idées à propos du décor, des images, des [set-pieces] ou des chouettes clichés ou des scènes enthousiasmantes. De cette façon, tout le monde a une idée claire de ce à quoi le jeu peut ressembler.
+Conversez au sujet du type de jeu auquel vous jouerez, afin que tout le monde démarre avec les mêmes bases. Définissez un ton, un thème et/ou des attentes. Il est important de comprendre qui sera félicité ou honni pour une réaction exagérée, ou des actes de violence gratuite. Lancez des idées à propos du décor, des images, des scènes classiques et enthousiasmantes ou des chouettes clichés. De cette façon, tout le monde a une idée claire de ce à quoi le jeu peut ressembler.
 
-Cette discussion peut amener des éléments au Narrateur sur que veulent les joueurs (ou leurs besoins) en terme de jeu. Il saura alors si les joueurs veulent ressentir le soufflé de l'épopée, vivre en [down-trodden underdogs] ou être de tragiques anti-héros.
+Cette discussion peut amener des éléments au Narrateur sur que veulent les joueurs (ou leurs besoins) en terme de jeu. Il saura alors si les joueurs veulent ressentir le soufflé de l'épopée, vivre en opprimés ou être de tragiques anti-héros.
 
 ### Le Générateur Insta-Genre
 
