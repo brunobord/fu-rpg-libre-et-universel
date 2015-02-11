@@ -146,13 +146,13 @@ Il est mieux d'utiliser un nom spécifique, précis : Sabre est mieux qu'Épée,
 
 ### Parlez de votre Équipement
 
-Discutez de votre Équipement. Tout le monde doit avoir une vision claire de ce que vous décrivez, son utilisation [and when it might be a hindrance].
+Discutez de votre Équipement. Tout le monde doit avoir une vision claire de ce que vous décrivez, son utilisation et quand l'outil devient un obstacle.
 
 Un Équipement n'est pas "bon" ou "mauvais" en soi. C'est ce que vous en ferez et en fonction des situations que vous verrez dans quelle mesure il est utile ou pas.
 
 ### Bon Équipement / Mauvais Équipement
 
-Vous pouvez, si vous voulez, imposer qu'un des éléments ait un "bon" qualificatif, tandis que l'autre en aura un "mauvais". Vous pouvez avoir un Blouson Chaud et un Pistolet Rouillé ; ou une Moto Rapide et une Carte de Crédit [maxed-out].
+Vous pouvez, si vous voulez, imposer qu'un des éléments ait un "bon" qualificatif, tandis que l'autre en aura un "mauvais". Vous pouvez avoir un Blouson Chaud et un Pistolet Rouillé ; ou une Moto Rapide et une Carte de Crédit Vidée.
 
 ### Les choses qui ne sont pas de l'Équipement
 
@@ -171,7 +171,7 @@ Tous les objets, les "équipements" qui ne sont pas listés comme "Équipement" 
 >
 > La description de Nina pour son Ambassadeur Alien est la suivante :
 >
-> Lumina est une diplomate importante en provenance de Jupiter, qui est dirigée par le Terrible Seigneur Kang. Comme ses semblables, elle a la peau violette, le crâne chauve et [delicate features]. Lumina travaille pour le mouvement Jupiter Clandestin, qui tente de reverser le Seigneur Kang.
+> Lumina est une diplomate importante en provenance de Jupiter, qui est dirigée par le Terrible Seigneur Kang. Comme ses semblables, elle a la peau violette, le crâne chauve et les traits délicats. Lumina travaille pour le mouvement Jupiter Clandestin, qui tente de reverser le Seigneur Kang.
 
 ## Motivations
 
