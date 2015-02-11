@@ -10,7 +10,7 @@ Le concept doit définir le type de personnage, ou son activité principale, com
 
 Bien évidemment, le concept du personnage doit correspondre à l'univers choisi et au type d'aventures. Un "flic des rues" n'a pas sa place dans l'Angleterre médiévale, alors qu'un "Shérif du comté" sonnera plus juste. Inspirez-vous de l'environnement choisi pour votre personnage.
 
-> À travers ce chapitre nous suivrons David et Nina lors de la création de leurs personnages. Avec Thomas, le Narrateur, ils ont décidé de jouer dans un univers inspiré des "pulps" des années 1930, et dans un ton [whismical] et plein d'action. David pense à ses films préférés et décide que le concept de son personnage sera "Explorateur intrépide". Nina a envie de jouer quelque chose de plus inhabituel, et après avoir discuté avec Thomas et David, elle décide que son personnage sera un "Ambassadeur Alien".
+> À travers ce chapitre nous suivrons David et Nina lors de la création de leurs personnages. Avec Thomas, le Narrateur, ils ont décidé de jouer dans un univers inspiré des "pulps" des années 1930, et dans un ton mystérieux et plein d'action. David pense à ses films préférés et décide que le concept de son personnage sera "Explorateur intrépide". Nina a envie de jouer quelque chose de plus inhabituel, et après avoir discuté avec Thomas et David, elle décide que son personnage sera un "Ambassadeur Alien".
 
 ## Descripteurs
 
@@ -21,10 +21,10 @@ Les personnages ont quatre descripteurs : Corps, Esprit, Atout et Faille. Choisi
 > En pensant à son Explorateur intrépide, et tout ce qu'il a pu vivre dans sa vie, David a porté son choix sur les Descripteurs suivants :
 >
 >
-> Corps: [Nimble]
-> Esprit: [Level Headed]
-> Atout: Maniement du fouet
-> Faille: A peur des hauteurs
+> Corps : Agile
+> Esprit : Équilibré
+> Atout : Maniement du fouet
+> Faille : A peur des hauteurs
 >
 >
 > Nina, inspirée par les classiques de la science-fiction a décidé d'utiliser les Descripteurs suivants pour son Ambassadeur Alien :
@@ -40,9 +40,9 @@ Ceci n'est en aucun cas une liste exaustive, mais quelques idées pour vous aide
 
 > **Corps**: Agile, Ambidextre, Blond(e), Couvert de fourrure, Bronzage orange factice, Séduisant(e), Gigantesque, Obèse, De faible constitution, Rapide, Griffes aiguisées comme des rasoirs, Petit(e), Lent(e), Fort(e), Grand(e), Élancé(e), Laid(e), Vigoureu(x)(se), Faible
 >
-> **Esprit**: Perdu(e) dans ses pensées, Rat de bibliothèque, Génie de l'informatique, [Dim-Witted], Empathique, Concentré(e), [Lateral Thinker], Mathématicien(ne), Observat(eur)(trice), Lent(e), Illétré(e), Sage, [Witty].
+> **Esprit**: Perdu(e) dans ses pensées, Rat de bibliothèque, Génie de l'informatique, Gourde, Empathique, Concentré(e), Imaginati(f)(ve), Mathématicien(ne), Observat(eur)(trice), Lent(e), Illétré(e), Sage, Spirituel.
 >
-> **Atout**: Acrobaties, Connaissances occultes, Courage, Meneu(r)(se), Escrime, Bonne mémoire, [Hunting], Vue acérée, Linguistique, Magie, Médecine, Morsure vicieuse, Riche, Bagarre.
+> **Atout**: Acrobaties, Connaissances occultes, Courage, Meneu(r)(se), Escrime, Bonne mémoire, Chasse, Vue acérée, Linguistique, Magie, Médecine, Morsure vicieuse, Riche, Bagarre.
 >
 > **Faille**: Aveugle, Couard(e), Maladroit(e), Avare, Apparence inhumaine, Amputé(e) d'une jambe, Âgé(e), Pauvre, Myope, Primiti(f)(ve), Puant(e), Recherché(e), Jeune.
 
@@ -77,15 +77,15 @@ Certains Descripteurs peuvent facilement entrer dans plus d'une catégorie - **B
 
 #### Qu'est-ce qui fait un bon Atout & Faille ?
 
-Les choses qu'on appelle "talents", ou "spécialités" ou "avantages" dans les autres jeux font de très bon [Edges] ; comme "**combattre à l'épée**", "**respirer sous l'eau**" ou "**un sourire ravageur**".
+Les choses qu'on appelle "talents", ou "spécialités" ou "avantages" dans les autres jeux font de très bon Atouts ; comme "**combattre à l'épée**", "**respirer sous l'eau**" ou "**un sourire ravageur**".
 
-Les meilleures Failles sont des traits de personnalité ou des [incapacités (shortcomings)] physiques. Par exemple, **sent toujours mauvais** ou **sourd(e)** est un meilleur choix que **ne sait pas conduire** ou **ne parle pas français**. Évidemment, il y a des exceptions. Si le personnage est un espion Britannique pendant les guerres Napoléoniennes, ne pas connaître le français peut être un vrai handicap. De même, la Faille **ne sait pas nager** est tout à fait appropriée dans un univers de pirates et de combats navals. Essayez de trouver des situations où il faudra mettre votre personnage au défi, ajoutez du piment au jeu, et proposez-lui des obstacles à surpasser.
+Les meilleures Failles sont des traits de personnalité ou des incapacités physiques. Par exemple, **sent toujours mauvais** ou **sourd(e)** est un meilleur choix que **ne sait pas conduire** ou **ne parle pas français**. Évidemment, il y a des exceptions. Si le personnage est un espion Britannique pendant les guerres Napoléoniennes, ne pas connaître le français peut être un vrai handicap. De même, la Faille **ne sait pas nager** est tout à fait appropriée dans un univers de pirates et de combats navals. Essayez de trouver des situations où il faudra mettre votre personnage au défi, ajoutez du piment au jeu, et proposez-lui des obstacles à surpasser.
 
 #### Dois-je me spécialiser ?
 
-Vous pouvez concentrer vos Descripteurs sur un unique concept et le "spécialiser". Pour obtenir un grand guerrier, proposez un Corps : **Fort**, Esprit : **Tacticien**, Atout : **Combat en mêlée** et Faille : [**Reckless**]. Il serait facile de faire intervenir chacun de ses Descripteurs en jeu pendant un combat. MAIS ils ont peu de profondeur et vous seriez bloqué pendant les phases hors-combat. À la place, choisissez des options plus polyvalentes : Corps : **Résistant**, Esprit : **Concentré**, Atout : **Combat en mêlée** et Faille : [**Reckless**].
+Vous pouvez concentrer vos Descripteurs sur un unique concept et le "spécialiser". Pour obtenir un grand guerrier, proposez un Corps : **Fort**, Esprit : **Tacticien**, Atout : **Combat en mêlée** et Faille : **Imprudent**. Il serait facile de faire intervenir chacun de ses Descripteurs en jeu pendant un combat. MAIS ils ont peu de profondeur et vous seriez bloqué pendant les phases hors-combat. À la place, choisissez des options plus polyvalentes : Corps : **Résistant**, Esprit : **Concentré**, Atout : **Combat en mêlée** et Faille : **Imprudent**.
 
-Décrivez le Corps de votre personnage comme **Gigantesque** et son Atout comme **Fort** si vous voulez un combattant body-buildé ou un super-héros vert et en colère ! Pour un scientifique, offrez-vous un Esprit : **Rat de bibliothèque** et un Atout : **[Rocket science]**. Soyez juste conscient qu'en vous spécialisant, toutes les scènes sans lien avec votre point fort vous seront plus difficiles. Certains joueurs aiment ce type de défi.
+Décrivez le Corps de votre personnage comme **Gigantesque** et son Atout comme **Fort** si vous voulez un combattant body-buildé ou un super-héros vert et en colère ! Pour un scientifique, offrez-vous un Esprit : **Rat de bibliothèque** et un Atout : **Science des fusées**. Soyez juste conscient qu'en vous spécialisant, toutes les scènes sans lien avec votre point fort vous seront plus difficiles. Certains joueurs aiment ce type de défi.
 
 #### Descripteurs alternatifs
 
@@ -109,11 +109,11 @@ Votre personnage a deux éléments d'Équipement. Choisissez donc deux élément
 
 Comme pour les exemples de Descripteurs, cette liste n'est en aucun cas exaustive. Elle effleure à peine ce que votre personnage peut posséder.
 
-**Vêtements** : Jeans de Couturier, Petite Robe Noire (la "robe noire" est comptée comme un nom), Sous-vêtements Sales, Blouson Usé, Costume Spatial Dernier Cri, Costume de Soirée en Soie, [beat-up fedora], Haute Perruque Poudrée.
+**Vêtements** : Jeans de Couturier, Petite Robe Noire (la "robe noire" est comptée comme un nom), Sous-vêtements Sales, Blouson Usé, Costume Spatial Dernier Cri, Costume de Soirée en Soie, Fedora Abimé, Haute Perruque Poudrée.
 
 **Armes** : Sabre Rouillé, Hache Lourde, Le Révolver de service de mon père, Dague Dissimulée, Lance-flamme Expérimental, Révolver Factice, AK-47 Fiable, Malette en Carton
 
-**Transport** : Cheval Fidèle, Buick en Bout de Course, Limousine Pare-Balles, Chaussures de Clown Couinantes, Voiture de Course Gonflée, Bicyclette de Fille, Coupé Éxténué, [Rickety Wagon], Moto Rapide, Déambulateur de Grand-Mère
+**Transport** : Cheval Fidèle, Buick en Bout de Course, Limousine Pare-Balles, Chaussures de Clown Couinantes, Voiture de Course Gonflée, Bicyclette de Fille, Coupé Déglingué, Chariot Bancal, Moto Rapide, Déambulateur de Grand-Mère
 
 **Autres** : Énorme Sac à Dos, Drapeau Miniature, Ouvrages de JDR Pesants, Chien Fidèle, Poële à Fire Rouillée, Carnet de Notes Rongé par l'Humidité, Antique Livre de Sorts, Caillou Apprivoisé.
 
@@ -123,7 +123,7 @@ Comme pour les exemples de Descripteurs, cette liste n'est en aucun cas exaustiv
 
 Les objets doivent être à l'image de votre personnage. Pensez à la Tenue Noire de Batman, les Packs-Protoniques Instables de Ghostbusters, le Berretta Inusable de James Bond, ou la Lame Éclair de Zorro.
 
-Chaque élément de l'Équipement doit ajouter un [élément] à l'histoire de votre personnage, sa personnalité, ses objectifs. Il doit être l'affirmation de ce qu'est le personage, et ce qu'il fait.
+Chaque élément de l'Équipement doit ajouter un détail à l'histoire de votre personnage, sa personnalité, ses objectifs. Il doit être l'affirmation de ce qu'est le personage, et ce qu'il fait.
 
 ### L'Équiment, c'est de l'équipement
 
