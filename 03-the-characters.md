@@ -16,14 +16,14 @@ Bien évidemment, le concept du personnage doit correspondre à l'univers choisi
 
 Les Descripteurs sont des qualificatifs ou de très courtes expressions qui identifient les talents et les failles du personnage, les choses qui lui rendent la vie plus facile ou plus difficile et qui fait d'eux ce qu'ils sont. Ils indiquent les domaines dans lesquels les personnages sont bons, à travers leurs triats physiques et mentaux, et leurs capacités ou désavantages. Ce sont à la fois des guides concernant l'interprétation du personnage et des modificateurs pour les jets de dés.
 
-Les personnages ont quatre descripteurs : Corps, Esprit, [Edge] et Faille. Choisissez un qualificatif ou une phrase pour décrire les caractéristiques les plus pertinentes de votre personnage.
+Les personnages ont quatre descripteurs : Corps, Esprit, Atout et Faille. Choisissez un qualificatif ou une phrase pour décrire les caractéristiques les plus pertinentes de votre personnage.
 
 > En pensant à son Explorateur intrépide, et tout ce qu'il a pu vivre dans sa vie, David a porté son choix sur les Descripteurs suivants :
 >
 >
 > Corps: [Nimble]
 > Esprit: [Level Headed]
-> [Edge]: Maniement du fouet
+> Atout: Maniement du fouet
 > Faille: A peur des hauteurs
 >
 >
@@ -31,7 +31,7 @@ Les personnages ont quatre descripteurs : Corps, Esprit, [Edge] et Faille. Chois
 >
 > Corps: Fragile
 > Esprit: Observatrice
-> [Edge]: Lit dans les pensées
+> Atout: Lit dans les pensées
 > Faille: Le point de vue Alien
 
 ### Exemples de Descripteurs
@@ -42,7 +42,7 @@ Ceci n'est en aucun cas une liste exaustive, mais quelques idées pour vous aide
 >
 > **Esprit**: Perdu(e) dans ses pensées, Rat de bibliothèque, Génie de l'informatique, [Dim-Witted], Empathique, Concentré(e), [Lateral Thinker], Mathématicien(ne), Observat(eur)(trice), Lent(e), Illétré(e), Sage, [Witty].
 >
-> **[Edge]**: Acrobaties, Connaissances occultes, Courage, Meneu(r)(se), Escrime, Bonne mémoire, [Hunting], Vue acérée, Linguistique, Magie, Médecine, Morsure vicieuse, Riche, Bagarre.
+> **Atout**: Acrobaties, Connaissances occultes, Courage, Meneu(r)(se), Escrime, Bonne mémoire, [Hunting], Vue acérée, Linguistique, Magie, Médecine, Morsure vicieuse, Riche, Bagarre.
 >
 > **Faille**: Aveugle, Couard(e), Maladroit(e), Avare, Apparence inhumaine, Amputé(e) d'une jambe, Âgé(e), Pauvre, Myope, Primiti(f)(ve), Puant(e), Recherché(e), Jeune.
 
@@ -73,9 +73,9 @@ Chaque Descripteur doit avoir un ou deux cas d'utilisation spécifiques. Il peut
 
 #### De quelle sorte de Descripteur s'agit-il ?
 
-Certains Descripteurs peuvent facilement entrer dans plus d'une catégorie - **Bonne mémoire** peut être un Descripteur d'Esprit ou de [Edge] ; **Laid(e)** peut être une Faille ou un Descripteur de Corps. Pas de problème. C'est à vous de choisir, entre le Narrateur et les autres joueurs de dire si un Descripteur est adapté ou pas aux histoires que vous allez raconter.
+Certains Descripteurs peuvent facilement entrer dans plus d'une catégorie - **Bonne mémoire** peut être un Descripteur d'Esprit ou d'Atout ; **Laid(e)** peut être une Faille ou un Descripteur de Corps. Pas de problème. C'est à vous de choisir, entre le Narrateur et les autres joueurs de dire si un Descripteur est adapté ou pas aux histoires que vous allez raconter.
 
-#### Qu'est-ce qui fait un bon [Edge] & Faille ?
+#### Qu'est-ce qui fait un bon Atout & Faille ?
 
 Les choses qu'on appelle "talents", ou "spécialités" ou "avantages" dans les autres jeux font de très bon [Edges] ; comme "**combattre à l'épée**", "**respirer sous l'eau**" ou "**un sourire ravageur**".
 
@@ -83,13 +83,13 @@ Les meilleures Failles sont des traits de personnalité ou des [incapacités (sh
 
 #### Dois-je me spécialiser ?
 
-Vous pouvez concentrer vos Descripteurs sur un unique concept et le "spécialiser". Pour obtenir un grand guerrier, proposez un Corps : **Fort**, Esprit : **Tacticien**, [Edge] : **Combat en mêlée** et Faille : [**Reckless**]. Il serait facile de faire intervenir chacun de ses Descripteurs en jeu pendant un combat. MAIS ils ont peu de profondeur et vous seriez bloqué pendant les phases hors-combat. À la place, choisissez des options plus polyvalentes : Corps : **Résistant**, Esprit : **Concentré**, [Edge] : **Combat en mêlée** et Faille : [**Reckless**].
+Vous pouvez concentrer vos Descripteurs sur un unique concept et le "spécialiser". Pour obtenir un grand guerrier, proposez un Corps : **Fort**, Esprit : **Tacticien**, Atout : **Combat en mêlée** et Faille : [**Reckless**]. Il serait facile de faire intervenir chacun de ses Descripteurs en jeu pendant un combat. MAIS ils ont peu de profondeur et vous seriez bloqué pendant les phases hors-combat. À la place, choisissez des options plus polyvalentes : Corps : **Résistant**, Esprit : **Concentré**, Atout : **Combat en mêlée** et Faille : [**Reckless**].
 
-Décrivez le Corps de votre personnage comme **Gigantesque** et son [Edge] comme **Fort** si vous voulez un combattant body-buildé ou un super-héros vert et en colère ! Pour un scientifique, offrez-vous un Esprit : **Rat de bibliothèque** et un [Edge] : **[Rocket science]**. Soyez juste conscient qu'en vous spécialisant, toutes les scènes sans lien avec votre point fort vous seront plus difficiles. Certains joueurs aiment ce type de défi.
+Décrivez le Corps de votre personnage comme **Gigantesque** et son Atout comme **Fort** si vous voulez un combattant body-buildé ou un super-héros vert et en colère ! Pour un scientifique, offrez-vous un Esprit : **Rat de bibliothèque** et un Atout : **[Rocket science]**. Soyez juste conscient qu'en vous spécialisant, toutes les scènes sans lien avec votre point fort vous seront plus difficiles. Certains joueurs aiment ce type de défi.
 
 #### Descripteurs alternatifs
 
-Les quatre Descripteurs par défaut (Corps, Esprit, [Edge] et Faille) ne sont pas les seules manières de définir votre personnage. Changez-les ou remplacez-les pour qu'ils correspondent à votre jeu, son univers et ses histoires. Dans un jeu avec des robots géants vous voudrez probablement remplacer Corps et Esprit par Châssis et Pilotage, par exemple. Dans un jeu ou on jouera des créatures métamorphes, un descripteur pourrait devenir "Forme Animale". Dans ce cas-là, les conseils donnés dans cet encart peuvent être ajustés ; une Forme Animale: **Jaguar** est plus vaste que les Descripteurs dont on parlait ici, mais c'est totalement dans l'esprit du jeu. Utilisez votre imagination et modifiez les à votre guise !
+Les quatre Descripteurs par défaut (Corps, Esprit, Atout et Faille) ne sont pas les seules manières de définir votre personnage. Changez-les ou remplacez-les pour qu'ils correspondent à votre jeu, son univers et ses histoires. Dans un jeu avec des robots géants vous voudrez probablement remplacer Corps et Esprit par Châssis et Pilotage, par exemple. Dans un jeu ou on jouera des créatures métamorphes, un descripteur pourrait devenir "Forme Animale". Dans ce cas-là, les conseils donnés dans cet encart peuvent être ajustés ; une Forme Animale: **Jaguar** est plus vaste que les Descripteurs dont on parlait ici, mais c'est totalement dans l'esprit du jeu. Utilisez votre imagination et modifiez les à votre guise !
 
 ----
 
