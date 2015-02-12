@@ -1,5 +1,4 @@
-# FU
-
+# FU : Libre et Universel
 
 Ceci est une traduction du jeu de rôle [FU: The Freeform Universal RPG](http://perilplanet.com/fu-rpg/) en français.
 
