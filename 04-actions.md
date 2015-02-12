@@ -103,3 +103,29 @@ Certains joueurs ne sont pas à l'aise avec les résultats en mode pair/impair. 
 | 5    | Non, mais...                      |
 | 3    | Non...                            |
 | 1    | Non, et...                        |
+
+----
+
+## Succès & Échec
+
+Quand vous faites un lancer de dés votre personnage réussit ou échoue dans sa tentative. C'est généralement suffisant pour faire avancer l'histoire, mais d'autres événements peuvent intervenir.
+
+Quand vous tentez une action, vous posez la question : "Est-ce que mon personnage obtient ce qu'il veut ?" Il y a six réponses possibles à cette question :
+
+> Oui, et...
+>
+> Oui...
+>
+> Oui, mais...
+>
+> Non, mais...
+>
+> Non...
+>
+> Non, et...
+
+*Oui* and *Non* sont assez simples à comprendre - ils vous disent si l'action tentée est réussie ou non. Le *et* et le *mais* sont des qualificatifs qui infléchissent le niveau de l'échec et du succès. Quand vous obtenez un qualificatif vous avez un élément supplémentaire pour comprendre en quoi l'action a succédé ou échoué. Cet élément supplémentaire peut ajouter une Condition ou un Détail à propos de la scène.
+
+**Conditions**: Ce sont des effets physiques, mentaux ou sociaux qui changent le comportement d'un personnage ou influent ses chances de tenter une action.Les Conditions comprennent les termes *en colère*, *sonné*, *fatigué* and *inconscient*. Certains d'entre eux sont listés sur la feuille de personnage de FU, mais il y a des emplacements pour que vous puissiez intégrer les vôtres.
+
+**Détails**: Ce sont les caractéristiques de l'environnement ou de la scène qui peut influer sur le résultat d'une action. Un Détail peut se manifester par un rideau qui prend feu, une fenêtre qui se brise, un animal qui fuit, ou un moteur qui cale. Les Détails sont toujours liés intimement à la scène ou l'action en cours.
