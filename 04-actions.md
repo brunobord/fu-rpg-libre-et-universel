@@ -41,3 +41,65 @@ Vous pouvez utiliser toutes les techniques du conte, des romans ou des films, ce
 ### Suis-je obligé d'avoir des tours ?
 
 Les tours sont des règles optionnelles de la gestion des temps, ce qui est utile quand un grand nombre d'actions est tenté par plusieurs personnages en même temps. Utilisez-les pour organiser vos actions si nécessaire. Certaines scènes se découperont naturellement en tours, alors que d'autres seront jouées sans avoir à y recourir.
+
+----
+
+## Ne pas faire d'impair
+
+Quand un personnage tente une action dont l'issue n'est pas immédiatement et/ou compètement évidente, vous devez lancer les dés.
+
+Pour résoudre l'action, lancez un d6. Votre objectif est de ne "pas faire d'impair" en obtenant un score pair. Plus le chiffre est haut, meilleur est le résultat. Si vous obtenez un nombre impair, l'action a échoué, ou n'est pas aussi réussie qu'on l'attendait. Plus le chiffre est bas, pire est le résultat. Il y a un tableau ci-dessous pour illustrer cette idée.
+
+Le fait de devoir vaincre les probabilités est au coeur de FU. Mais si la plupart du temps les nombres pairs sont des succès et les impairs sont décevants, c'est la situation qui confirmera la nature du résultat. Il se peut qu'un résultat de 1 n'indique pas forcément un échec total, mais peut-être un succès avec une marge de manoeuvre minimale.
+
+
+> Nous suivons les tribulations de deux personnages évoluants dans deux univers différents dans ce chapitre :
+>
+> Sire Camden chevauche à la poursuite du seigneur Kane. Il voit le seigneur Kane sauter au-dessus d'une haute haie, et disparaître dans la forêt. Sire Camden essaie de sauter lui-aussi, aussi vous lancez un d6 obtenant un 2. Le cheval de Sire Camden passe l'obstacle, mais Sire Camden est légèrement désarçonné et reste un peu désorienté pendant un moment.
+>
+> Le Capitaine Vance se jette à couvert alors que les balles fusent au travers du mur derrière lui. Il s'empare de la radio endommagée, trifouille les boutons et essaie d'appeler des renforts. Vous lancez un d6 et c'est un 1. Vance n'arrive pas du tout à trouver la bonne fréquence et une balle perdue détruit la radio.
+
+| Jet | Obtenez-vous ce que vous voulez ?                                                           |
+| ---- | ------------------------------------------------------------------------------------------ |
+| 6    | **Oui, et...** Vous obtenez ce que vous voulez, et autre chose.                            |
+| 4    | **Oui...** Vous obtenez ce que vous voulez.                                                |
+| 2    | **Oui, mais...** Vous obtenez ce que vous voulez, mais il y a un coût                      |
+| 5    | **Non, mais...** Vous n'obtenez pas ce que vous voulez, mais ce n'est pas un échec total.  |
+| 3    | **Non...** Vous n'obtenez pas ce que vous vouliez.                                         |
+| 1    | **Non, et...** Vous n'obtenez pas ce que vous voulez, et les choses empirent               |
+
+----
+
+### Questions fermées
+
+FU utilise des questions à choix multiples pour aider à résoudre une action. On ne répond à une question fermée que par un "oui" ou un "non". Quand vous atteignez une situation qui doit être résolue par un jet de dés, proposez une question fermée : "Est-ce que je saute au-dessus du gouffre ?", "Est-ce que je cogne cet imbécile sur le nez ?", "Est-ce la jolie serveuse de la taverne va succomber à mon charme et mon sourire ?". Le jet de dé donnera la réponse à la question et vous guidera.
+
+Souvent vous n'aurez pas besoin de poser la question de manière explicite - elle sera évidente à partir de l'action tentée : "tu prends ton élan et tu sautes depuis le rebord du gouffre. Lance le dé."
+
+### Questions alternatives
+
+Vous pouvez poser une question différemment si vous voulez, mais il vous faudra changer la table des résultats. Une question évidente pourrait être : "De quelle manière ai-je réussi ?", ce qui produirait les résultats suivants :
+
+| Jet  | De quelle manière ai-je réussi ? |
+| ---- | -------------------------------- |
+| 6    | Succès légendaire                |
+| 4    | Succès complet                   |
+| 2    | Juste un succès                  |
+| 5    | Échec au plus juste              |
+| 3    | Échec total                      |
+| 1    | Échec absolu, et pire encore     |
+
+Libre à vous de composer vos propres questions et réponses, en fonction des besoins de votre groupe, du jeu et de l'histoire.
+
+### Jets de dés alternatifs
+
+Certains joueurs ne sont pas à l'aise avec les résultats en mode pair/impair. Ils préfèrent les résultats sous la forme 1-3 Mauvais, 4-6 Bon résultat. Dans ce cas la table des résultats ressemblera à ceci :
+
+| Jet  | Obtenez-vous ce que vous voulez ? |
+| ---- | --------------------------------- |
+| 6    | Oui, et...                        |
+| 4    | Oui...                            |
+| 2    | Oui, mais...                      |
+| 5    | Non, mais...                      |
+| 3    | Non...                            |
+| 1    | Non, et...                        |
