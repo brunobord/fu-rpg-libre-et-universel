@@ -129,3 +129,45 @@ Quand vous tentez une action, vous posez la question : "Est-ce que mon personnag
 **Conditions**: Ce sont des effets physiques, mentaux ou sociaux qui changent le comportement d'un personnage ou influent ses chances de tenter une action.Les Conditions comprennent les termes *en colère*, *sonné*, *fatigué* and *inconscient*. Certains d'entre eux sont listés sur la feuille de personnage de FU, mais il y a des emplacements pour que vous puissiez intégrer les vôtres.
 
 **Détails**: Ce sont les caractéristiques de l'environnement ou de la scène qui peut influer sur le résultat d'une action. Un Détail peut se manifester par un rideau qui prend feu, une fenêtre qui se brise, un animal qui fuit, ou un moteur qui cale. Les Détails sont toujours liés intimement à la scène ou l'action en cours.
+
+----
+
+### Examples de succès & d'échecs
+
+À partir de l'exemple qui précède, essayons de voir ce qui a pu arriver en fonction des réponses possibles à la question :
+
+**"Est-ce que Sire Camden arrive à sauter au-dessus de la haie ?"**
+
+**Oui, et** il rattrape le Seigneur Kane. Ceci est un Détail qui change la teneur de la scène.
+
+**Oui**, il franchit la haie. Il n'y a pas de et/mais à ajouter ; ni Condition ni Détail supplémentaire.
+
+**Oui, mais** Sire Camden est désorienté et temporairement **confus**. C'est une Condition à infliger au personnage.
+
+**Non, mais** il repère une ouverture dans la haie plus loin. Ce Détail donne au personnage une opportunité pour continuer sa poursuite.
+
+**Non**, le cheval refuse l'obstacle. Il n'y a pas de et/mais, donc aucune Condition ou Détail est ajouté.
+
+**Non, et** son cheval rue, le projetant au sol, ce qui lui inflige une **blessure**. C'est une Condition.
+
+### Qui choisit les Conditions et les Détails ?
+
+Tout le monde peut suggérer une Condition ou un Détail qui lui semble approprié en fonction de l'action et du résultat. Habituellement le joueur qui a lancé les dés et le Narrateur travailleront de concert pour trouver une issue pertinente. Mais en fait, n'importe qui à la table peut proposer une idée qui lui paraît intéressante.
+
+Le Narrateur a toujours le dernier mot concernant la Condition ou le Détail à appliquer au résultat.
+
+### Quand utiliser les Conditions ?
+
+Comme tous les qualificatifs, tout dépend de la situation. Dans les exemples précédents les Conditions sont imposées au joueur courant quand les événements ne se déroulent pas comme il le pensait (**Oui, mais / Non, et**). Les Conditions peuvent rendre la vie du personnage un petit peu plus difficile à cause d'un succès trop léger ou d'un échec cuisant.
+
+Vous pouvez aussi utiliser les Conditions à la cible d'une action, quand les événements se déroulent bien pour les personnages. Si vous débattez avec un bureaucrate et obtenez un **Oui, et**, vous pouvez imposer une Condition **confus** à votre opposant. Si vous essayez de semer un ennemi et que vous obtenez un **Non, mais**, peut-être que votre poursuivant vous rattrape, mais vous pouvez aussi lui infliger une Condition **fatigué**. En applicant ces Conditions vous donnerez une chance supplémentaire au personnage dans la suite de la scène.
+
+### Quand utiliser les Détails ?
+
+Utilisez les Détails quand l'action est susceptible de modifier la scène ou l'environnement d'une certaine manière. Ce peut être un changement dans la dynamique de la scène ("**Oui** il franchit l'obstacle **et** il rattrape le Seigneur Kane") ; ou un changement de l'environnement ("**Non, mais** il repère un passage dans la haie").
+
+Les Détails s'appliquent souvent quand le personnage qui agit obtient un avantage (**Oui, et / Non, mais**). Ils peuvent être utilisés avec un gros impact pour rendre l'action plus enthousiasmante et/ou dangereuse.
+
+"Est-ce que j'arrive à me balancer au travers de la pièce à l'aide du chandelier ?" "**Oui, mais** une bougie en tombe et met le feu à la taverne."
+
+Les Détails peuvent avoir des effets instantanés ou sur la durée, en fonction des circonstances. Un passage dans la haie peut être immédiatement utilisé pour continuer la poursuite ; une taverne en feu reste un événement sans importance jusqu'à ce que le feu se propage !
