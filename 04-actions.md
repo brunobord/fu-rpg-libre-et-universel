@@ -171,3 +171,23 @@ Les Détails s'appliquent souvent quand le personnage qui agit obtient un avanta
 "Est-ce que j'arrive à me balancer au travers de la pièce à l'aide du chandelier ?" "**Oui, mais** une bougie en tombe et met le feu à la taverne."
 
 Les Détails peuvent avoir des effets instantanés ou sur la durée, en fonction des circonstances. Un passage dans la haie peut être immédiatement utilisé pour continuer la poursuite ; une taverne en feu reste un événement sans importance jusqu'à ce que le feu se propage !
+
+----
+
+## Modificateurs
+
+Certaines circonstances, équipements et compétences, peuvent vous rendre la vie plus facile ou plus difficile. Les modificateurs changent le nombre de dés que vous aurez à lancer.
+
+**Rendre plus facile** : Lancez un dé supplémentaire pour chaque Descripteur, élément d'Équipement, Condition ou Détail qui fournit un avantage sur l'action à effectuer. Le résultat le plus avantageux sera retenu, au choix du joueur.
+
+> Dans les bois, Sire Camden essaie de traquer le Seigneur Kane. Vous soulignez que le chevalier est un **bon chasseur**, ce qui donne un d6 supplémentaire. Après avoir lancé 2d6, vous obtenez 5 et 4. Le joueur décide de garder le 4 et il conclut qu'après un petite recherche Sire Camden retrouve la trace du Seigneur Kane et la suit vers une citadelle sinistre...
+
+**Rendre plus difficile** : Lancez un dé supplémentaire pour chaque Descripteur, élément d'Équipement, Condition ou Détail qui rend l'action plus difficile. Le résultat se lit sur le plus mauvais dé.
+
+> Le Capitaine Vance décide de se ruer vers une jeep toute proche. Le Narrateur souligne qu'il n'y a **aucune couverture** entre l'endroit où se cache Vance et le véhicule. "Est-ce que Vance atteint la jeep sans être blessé ?". Après avoir lancé 2d6, vous avez un 3 et un 5. Il vous faut accepter le 3 et le Capitaine Vance est **blessé** avant d'atteindre la jeep.
+
+**Annulation des effets** : Un dé de bénéfice annule un dé de malus, aussi vous ne lancerez jamais un dé "négatif" et un "positif" au même moment.
+
+> Plus tard dans sa quête, Sire Camden doit escalader un paroi **très raide** (-). Le chevalier est **fort** (+) et possède une corde (+). En conclusion, il n'ya qu'un seul dé de bonus (la difficulté de la paroi et la force du personnage s'annulent, ce qui laisse la corde). Vous lancerez 2d6.
+
+-----
