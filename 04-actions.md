@@ -214,3 +214,68 @@ Les combats à l'épée, les débats politiques, les courses spatiales, les guer
 Si vous lancez des doubles ou des triples (ou des quadruples), ils peuvent encore améliorer ou empirer votre jet. Si le résultat des dés a une combinaison, ses effets s'accentueront. Vous pourrez ajouter un "et..." pour chaque dé qui correspond. Si l'action est un échec, elle sera pire. Si c'est un succès, chaque ajout rendra l'action encore plus brillante.
 
 Par exemple, le Seigneur Camden fait face aux hommes de main du Seigneur Kane. "Est-ce que Sire Camden arrive a vaincre ces hommes ?". Il est blessé et en sous-nombre, aussi il doit lancer deux dés de pénalité. Son score est de 3, 3 et 2. Il faut prendre le pire résultat : le double 3 ! Normalement, ce devrait être un "**Non...**", mais le double 3 le transforme en "**Non, et...**". S'il avait été triplé, le résultat aurait été "**Non, et... et...**" !
+
+----
+
+## Les points FU
+
+Les points FU sont une ressource que vous pourrez dépenser pour augmenter les chances de succès de votre personnage pour une action. On peut les utiliser de deux manières :
+
+**Un dé de Bonus :** Dépensez un point de FU avant de lancer les dés pour ajouter un dé de bonus. C'est exactement comme un dé de bonus normal. Vous pouvez dépenser autant de points de FU que vous en avez, mais il faut qu'ils soient annoncés au même moment.
+
+**Relancer :** Dépenser un point de FU après votre jet de dé vous permet de relancer un seul dé. Le second résultat est conservé - on ne peut pas relancer une relance. Vous pouvez relancer autant de dés qu'il vous reste de points de FU, mais vous devez annoncer ces relances au même moment, en une seule fois.
+
+Vous pouvez dépenser plusieurs points de FU pour une unique action en cumulant les effets. Il est permis de dépenser un point de FU pour ajouter un dé de bonus avant le jet, et un autre pour relancer un dé après coup.
+
+> De retour au quartier général, le Captaine Vance essaie de convaincre le Général Wallace de lui confier le commandement de l'artillerie. Vance n'a pas trop d'atouts l'aider dans cette situation, en terme de Descripteurs, aussi il décide de dépenser deux points de FU pour ce jet. En plus de son dé de base, il lance donc deux dés de bonus, pour un score de 1, 1 et 3. Loin d'être satisfait, il dépense un dernier point de FU pour une relance. Il choisit un des "1" et relance son dé.
+
+**Récupérer des points de FU  :** Ces points peuvent être récupérés en jeu en accomplissant de belles actions ou en incarnant à la perfection votre rôle. Quand vous faites une action qui impose le silence et que tout le monde fait "Ouaaah !", ou que vous faites rire par votre caricature, ou toute autre situation qui pourrait être récompensée, vous gagnez un point de FU.
+
+----
+
+### Combien de points de FU au départ ?
+
+Le nombre de points de FU avec lesquels votre personnage commence doit être discuté avant le début de la partie. Plus vous aurez de points, plus vous aurez de chance d'avoir des succès. Si vous êtes impliqué dans des aventures rocambolesque, il est raisonnable de commencer avec 2 points de FU. Des super-héros peuvent débuter avec 3 points. Dans un jeu plus corsé, les joueurs peuvent démarrer avec un seul point de FU... voire aucun !
+
+### Est-ce que je peux donner / partager mes points ?
+
+C'est à vous de voir avec votre groupe. La règle par défaut dit "non", mais...
+
+### Les Narrateurs ont-ils droit à des points de FU ?
+
+Normalement, non, mais on peut allouer entre un et trois points à un méchant spécialement puissant, ou à un monstre.
+
+### Autres moyens pour gagner des FU
+
+Vous pouvez choisir de changer le moyen de gagner des points de FU. Vous pourriez les gagner en tuant des monstres, en achevant un des buts de votre personnage, ou en lançant un multiple 1 ou un multiple 6.
+
+C'est un bon outil pour changer le ton ou le style du jeu. Si vous voulez faire de l'exploration de donjon, récompensez les joueurs quand ils tuent un monstre. Vous êtes plongé dans une curelle dystopie ? Attribuez des points de FU quand les personnages perdent leur partie contre leur Ennemi. Décidez si ce sont les seuls moyens de gagner du FU ou s'ils s'ajoutent aux récompenses habituelles. Cette décision aura aussi un effet dramatique sur le ton de la partie. Regardez ce que vous voulez en faire.
+
+
+### Autres moyens de dépenser du FU
+
+Amusez-vous avec les points de FU. Expérimentez, modifiez-en l'usage en fonction de votre groupe de joueurs ou du type d'histoire que vous voulez interpréter. Voici quelques suggestions :
+
+#### FU comme des Points de Vie
+
+Au lieu d'avoir un nombre de points de FU variable, tous les personnages commencent avec 3 points. Ils peuvent être dépensés comme les autres, mais également perdus quand les personnages subissent des dommages physiques ou mentaux (blessures, fatigue, peur, etc...). Dans ces cas, les points de FU peuvent être récupérés (pour revenir au maximum de 3) en interprétant une scène (sans jet de dés) avec un autre personnage qui lèvera le voile sur leur relation.
+
+#### Tout relancer
+
+En dépensant un point de FU, vous pouvez relancer tous vos dés. C'est tout ou rien, aussi vous ne pourrez pas garder vos bons jets et relancer les autres. Utilisez cette variante au lieu de la relance classique.
+
+#### Changer un point
+
+On peut dépenser un point de FU pour augmenter ou diminuer le résultat obtenu d'un point. Cette option est plus fiable qu'une relance parce qu'elle peut changer un "non" en "oui". Si vous utilisez cette variante, la relance classique peut être ignorée.
+
+#### Utiliser une possession
+
+En dépensant un point de FU, vous pourrez transformer un élément d'équipement simple en Équipement pour la durée de la scène.
+
+#### Prouesses et Pouvoire
+
+Donnez des capacités spéciales à vos personnages, ou des pouvoirs qui ne peuvent être utilisées qu'en dépensant un point de FU. Ils doivent être plus puissants que des Descripteurs - faites-en des outils surpuissants, capables de passer outre une règle, comme la capacité de voler, de lire les esprits ou de se téléporter, par exemple.
+
+#### Prendre un coup
+
+Au lieu de lancer les dés, annoncez que vous "prenez un coup". Tous les dés sont considérés comme des "1" (oui, si vous avez 5 dés, ça fera cinq fois le score 1 !). En compensation de votre peine, vous gagnez un point de FU.
