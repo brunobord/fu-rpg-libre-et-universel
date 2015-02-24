@@ -279,3 +279,33 @@ Donnez des capacités spéciales à vos personnages, ou des pouvoirs qui ne peuv
 #### Prendre un coup
 
 Au lieu de lancer les dés, annoncez que vous "prenez un coup". Tous les dés sont considérés comme des "1" (oui, si vous avez 5 dés, ça fera cinq fois le score 1 !). En compensation de votre peine, vous gagnez un point de FU.
+
+----
+
+## Résumé des actions
+
+### 1 Présenter la scène
+
+Où la scène se tient-elle ? Qui est présent ? Que veulent-ils ? Avez-vous besoin de répartir la scène en tours ?
+
+### 2 Agir
+
+Jouez votre personnage et décrivez ce qui se passe. Convergez vers l'objectif.
+
+### 3 Posez une question
+
+Quand vous devez résoudre un conflit ou accomplir une action, posez une question fermée (par exemple: "Est-ce que je réussis ?")
+
+### 4 Factorisez les modificateurs
+
++1 dé de bonus pour chaque Descripteur, élément d'Équipement, Détail ou Condition ou autre chose qui rende l'action plus facile.
+
++1 dé de pénalité pour chaque Descripteur, élément d'Équipement, Détail, Condition ou autre chose qui rend l'action plus difficile.
+
+### 5 Lancez
+
+Lancez tous vos dés. Le résultat est celui du meilleur dé (si vous lancez un ou plusieurs dé(s) de bonus) ou celui du plus mauvais dé (si vous lancez un ou plusieurs dé(s) de malus).
+
+### 6 Décrivez le résultat
+
+Utilisez le dé de résultat pour décrire l'issue de l'action ou du conflit. Appliquez une Condition ou un Détail si nécessaire.
