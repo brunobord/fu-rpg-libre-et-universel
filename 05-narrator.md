@@ -44,3 +44,20 @@ Les joueurs veulent-ils changer le monde ? Que leur personnage augmente sa fortu
 Quels défis, quelles rencontres ou situations vous allez présenter aux personnages pour qu'ils fassent ce qu'ils attendent ? Avez-vous besoin de faire miroiter une belle récompense pour chaque défi ? Ferez-vous en sorte que chaque combat soit dur mais équitable ? Serez-vous impitoyable concernant les desseins des antagonistes ?
 
 Répondez à ces questions et tout le monde à la table y verra clair quant à son rôle dans l'aventure qui suivra.
+
+----
+
+## Récupération
+
+Pendant les parties les personnages peuvent subir des blessures, être poussé à bout physiquement ou mentalement, ou être affecté par des Conditions. Ces Conditions nécessiteront toujours un certain temps, relatif à l'histoire, pour être levées. C'est généralement une question de temps, mais ce n'est pas obligatoire. La règle classique, c'est qu'une ou plusieurs Conditions peuvent être levées entre deux scènes, bien que cela dépende du temps entre les scènes.
+
+## Récompenses
+
+Récompensez les joueurs pour un bon "roleplaying" et pour l'accomplissement de leur but en leur attribuant des points de FU. Vous pouvez aussi les récompenser pour d'autres raisons, comme le groupe le décidera (voir le chapitre sur les points de FU). Ces points peuvent être utilisés pour améliorer les chances de succès d'un personnage, ce qui est une récompense immédiate, tangible. Vous pouvez ne pas être le seul autour de la table à attribuer des récompenses. Tous les joueurs peuvent s'exprimer s'ils pensent que l'un d'entre eux a fait quelque chose de bien, d'amusant ou de formidable et lui donner un point de FU.
+
+
+**Combien ? Souvent ?** Soyez généreux dans vos récompenses ; attribuer des points de FU aidera à renforcer l'envie d'accomplir des actes héroïques, spectaculaires, ou de dépradation, au choix. Il faudra également prendre en compte le caractère "one-shot" de la partie, ou si elle s'étale sur plusieurs aventures, ou une campagne. Les joueurs auront tendance à dépenser leurs points de FU plus vite sur une session unique et auront besoin de recharger leurs réserves plus vite.
+
+## Personnages et obstacles
+
+Tous les personnages, monstres, pièges, adversaires, éléments du décor, créatures et obstacles rencontrés pendant l'histoire seront définis de la même manière que les personnages. Vous n'êtes confinés par aucune règle ou restriction en créant des personnages non-joueur ou des obstacles, la seule chose qui compte est de les rendre distrayants et intéressants.
