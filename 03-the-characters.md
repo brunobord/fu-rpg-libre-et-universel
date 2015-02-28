@@ -135,7 +135,6 @@ L'utilisation du qualificatif doit nous donner une vraie indication utile concer
 
 Comme les Descripteurs, le qualificatif de l'Équipement doit être clair - il ne peut pas prêter à confusion concernant la qualification de l'objet.
 
-
 ### Un seul adjectif
 
 La description de votre objet ne doit avoir qu'un seul qualificatif - ni plus, ni moins. Un Sabre Acéré, c'est bon, tout comme une Épée Magique, mais une Épée Magique Acérée n'est pas autorisée.
