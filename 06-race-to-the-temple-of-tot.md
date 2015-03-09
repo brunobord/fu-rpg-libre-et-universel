@@ -10,17 +10,17 @@ Avant de commencer à jouer, discutez du ton et du style du jeu. Le scénario es
 
 Lisez les textes d'ambiance ci-dessus (ceux en italique) et faites jaillir les idées sur ce que les joueurs autour de la table attendent de l'aventure. Notez tous ces éléments - quand l'action baissera, si vous êtes bloqué, empruntez une de ces idées et incorporez-la à l'histoire.
 
-## Scènes
+## Les Scènes
 
-The scenes presented here have a description of where the action takes place and suggest Descriptors you or the players might incorporate into the action. The italics set up the action of the scene and the objective. paraphrase the details for your players.
+Les scènes proposées ici comportent une description sur le lieu de l'action et suggèrent des Descripteurs que vous ou les joueurs pourront incorporer dans l'action. Les textes en italique mettent l'action en place et donnent les objectifs. Brodez les détails pour vos joueurs.
 
-### Challenges
+### Les défis
 
-The challenges and adversaries in this adventure are recorded in boxes with relevant Descriptors, Conditions and Notes. These are to guide you and do not have to be used. Your own cool ideas should always trump anything written here!
+Les défis et les adversaires de cette aventure sont notés dans des tableaux avec leurs Descripteurs, Conditions et Notes. Ce sont des guides et vous pouvez vous en passer. Vos propres idées géniales seront toujours meilleures que ce qui est écrit ici.
 
-### Escape the Bulak Market
+### S'échapper du Marché de Bulak
 
-**Scene**: Central Asia - a bustling market in the city of Bulak - midday. Tall stone and mud-brick buildings with narrow arched windows surround the central market; stalls and cafes, bars and emporiums run off in all directions along winding, narrow streets.
+**Scène**: Asie Centrale - un marché foisonnant au coeur de la ville de Bulak - mi-journée. La place du marché est entourée de bâtiments de pierre et de briques en terre cuite, aux fenêtres étroites décorées d'arches ; le long des rues étranglées et sinueuses, dans un grand désordre, on passe d'étales en cafés, de bars en commerces.
 
 **Descriptors**: Crowded streets, exotic goods.
 
