@@ -106,7 +106,7 @@ Les défis et les adversaires de cette aventure sont notés dans des tableaux av
 
 ### La Chambre de l'Idôle
 
-**Scène**: Une grande chambre de pierre illuminée de manière ingénieuse par des miroirs reflétant la lumière du soleil. L'Idôle de Tot - une statue dorée d'un singe à sept têtes - siège sur un piédestal de pierre au centre de la pièce.
+**Scène**: Une grande chambre de pierre illuminée de manière ingénieuse par des miroirs reflétant la lumière du soleil. L'Idôle de Tot - une statue dorée d'un singe à sept têtes - cise sur un piédestal de pierre au centre de la pièce.
 
 **Descripteurs**: Grands miroirs en bronze.
 
