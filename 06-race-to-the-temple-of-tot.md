@@ -78,50 +78,49 @@ Les défis et les adversaires de cette aventure sont notés dans des tableaux av
 
 **Qu'est-ce qui peut mal tourner ?** Le pont est démoli ; La carte est perdue ; Les personnages sont capturés.
 
-### The Temple
+### Le Temple
 
-**Scene**: An ancient temple fashioned into the side of a mountain. Grand statues of sinister looking gods and daemons line the walls. Dust covers everything. The tunnel leads deeper into the mountain.
+**Scène**: Un temple antique façonné dans la paroi d'une montagne. De grandes statues représentant des dieux et des démons sont alignées le long des murs. La poussière recouvre tout. Le tunnel mène au coeur de la montagne.
 
-**Descriptors**: Dark, Silent.
+**Descripteurs**: Sombre, Silencieuse.
 
-> The characters must penetrate the heart of the temple, but the map warned of nefarious traps and terrible guardians. Do they get past the traps and guardians?
+> Les personnages doivent entrer au coeur du temple, mais la carte signale qu'il y a des pièges funestes et des gardiens terrifiants. Survivront-ils aux pièges et aux gardiens ?
 
-| Nefarious Traps |                                   |
-|----------------:|:----------------------------------|
-| **Descriptors** | Hidden, Deadly                    |
-|        **Gear** | Poison Darts, Rusting Spears      |
-|  **Conditions** | ☐ Disarmed, ☐ Set-off, ☐ Revealed |
+|  Pièges Funestes |                                           |
+|-----------------:|:------------------------------------------|
+| **Descripteurs** | Dissimulé, Mortel                         |
+|   **Équipement** | Aiguilles empoisonnées, Pointes rouillées |
+|   **Conditions** | ☐ Désarmé, ☐ Déclenché, ☐ Exposé          |
 
-**Notes**: Challenge characters with one or two traps. Tell them the passage is trapped, but don’t tell them how, or where the traps are until they are sprung!
+**Notes**: Défiez les personnages avec un ou deux pièges. Dites-leur que le passage est piégé, mais ni comment, ni où les pièges se trouvent jusqu'à ce qu'ils se déclenchent !
 
-| Stone Statue Guardian |                                                       |
-|----------------------:|:------------------------------------------------------|
-|       **Descriptors** | Big, Heavy, Slow, Relentless                          |
-|              **Gear** | Heavy Stone Weapons                                   |
-|        **Conditions** | ☐ Damaged, ☐ Off balance, ☐ Ralenti, ☐ Hors de combat |
+| Gardiens de Pierre |                                                          |
+|-------------------:|:---------------------------------------------------------|
+|   **Descripteurs** | Grand, Lourd, Lent, Sans relâche                         |
+|     **Équipement** | Lourde arme de pierre                                    |
+|     **Conditions** | ☐ Endommagé, ☐ Déséquilibré, ☐ Ralenti, ☐ Hors de combat |
 
-**Notes**: There is one Statue Guardian for every two characters. The large, heavy weapons can strike multiple characters at once.
+**Notes**: Il y a un Gardien de pierre pour deux personnages. Leurs armes, lourdes et massives peuvent frapper plusieurs personnages à la fois.
 
-**What can go wrong?** Characters cannot get past traps; characters are injured by traps.
+**Qu'est-ce qui peut mal tourner ?** Les personnages ne franchissent pas les pièges ; Ils sont blessés par les pièges.
+
+### La Chambre de l'Idôle
+
+**Scène**: Une grande chambre de pierre illuminée de manière ingénieuse par des miroirs reflétant la lumière du soleil. L'Idôle de Tot - une statue dorée d'un singe à sept têtes - siège sur un piédestal de pierre au centre de la pièce.
+
+**Descripteurs**: Grands miroirs en bronze.
+
+> Les personnages entrent dans la chambre de l'idôle, pour y trouver Giles Fishburne et son escorte de Nazis ! Arriveront-ils à battre Giles et s'échapper avec l'Idôle ?
 
 
-### The Idol Chamber
+|  Giles Fishburne |                                                     |
+|-----------------:|:----------------------------------------------------|
+| **Descripteurs** | Intelligent, Arrogant, Escrimeur                    |
+|   **Équipement** | Sabre poli                                          |
+|   **Conditions** | ☐ Désorienté, ☐ Blessé, ☐ Ralenti, ☐ Hors de combat |
 
-**Scene**: A large stone chamber ingeniously lit by mirrors reflecting sunlight. The Idol of Tot - a golden statue of a seven-headed monkey - sits on a stone plinth in the centre of the room.
+**Notes**: Giles est cupide, arrogant, mais il n'est pas stupide. Si les choses tournent mal, il essaiera de s'échapper, de négocier ou de doubler quiconque se trouve sur son chemin. Il n'a aucune loyauté envers les Nazis !
 
-**Descriptors**: large bronze mirrors.
+## Personnages
 
-> The characters enter the chamber of the idol, only to find that Giles Fishburne and his Nazi goons are here too! Do they defeat Giles and escape with the Idol?
-
-
-| Giles Fishburne |                                                      |
-|----------------:|:-----------------------------------------------------|
-| **Descriptors** | Smart, Arrogant, Sword fighter                       |
-|        **Gear** | Polished Sabre                                       |
-|  **Conditions** | ☐ Désorienté, ☐ Injured, ☐ Ralenti, ☐ Hors de combat |
-
-**Notes**: Giles is a greedy, arrogant villain, but he isn’t stupid. If things start looking dire he will attempt to escape, make a deal and/or double-cross anyone in his way. He has no loyalty to the Nazis!
-
-## Characters
-
-Four pre-made characters can be found on the next page. They are each examples of classic pulp character archetypes. players may tweak or adjust them at the Narrator’s discretion, before play starts, perhaps changing a Descriptor or two, or switching out an item of Gear. Before starting the game each player should define one or two relationships, describing how the characters know each other. A quick and easy way to do this is for everyone to describe how they know the character to their left.
+Vous trouverez quatre personnages pré-générés ci-dessous. Ce sont des exemples typiques d'aventurier *pulp*. Les joueurs peuvent les ajuster avec l'accord du Narrateur, avant le début de la partie, en en changeant un Descripteur ou deux, ou d'échanger un ou deux éléments d'Équipement. Avant de démarrer le jeu chaque joueur devra définir une ou deux relations entre les personnages. Un bon moyen rapide consiste à ce que chacun décrive comment il a rencontré le personnage à sa gauche.
