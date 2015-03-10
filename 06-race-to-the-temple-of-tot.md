@@ -30,7 +30,7 @@ Les défis et les adversaires de cette aventure sont notés dans des tableaux av
 |     Brute Nazie |                                                    |
 |----------------:|:---------------------------------------------------|
 | **Descripteur** | Nombreux, Aryens musclés, Pas très malins          |
-|  **Équipement** | Automitrailleuse bruyante                          |
+|    **Matériel** | Automitrailleuse bruyante                          |
 |  **Conditions** | ☐ Désorienté, ☐ Piégé, ☐ Ralenti, ☐ Hors de combat |
 
 **Notes**: Le nombre d'ennemis est égal au nombre de personnages.
@@ -64,7 +64,7 @@ Les défis et les adversaires de cette aventure sont notés dans des tableaux av
 | Soldat Aérien Nazi |                                                     |
 |-------------------:|:----------------------------------------------------|
 |  **Descripteurrs** | Ils volent !, Agile                                 |
-|     **Équipement** | Harnais de vol fragile, Grenade défensive mortelle  |
+|       **Matériel** | Harnais de vol fragile, Grenade défensive mortelle  |
 |     **Conditions** | ☐ Désorienté, ☐ Au sol, ☐ Ralenti, ☐ Hors de combat |
 
 **Notes**: Il y a autant de soldat aérien que de personnages.
@@ -89,7 +89,7 @@ Les défis et les adversaires de cette aventure sont notés dans des tableaux av
 |  Pièges Funestes |                                           |
 |-----------------:|:------------------------------------------|
 | **Descripteurs** | Dissimulé, Mortel                         |
-|   **Équipement** | Aiguilles empoisonnées, Pointes rouillées |
+|     **Matériel** | Aiguilles empoisonnées, Pointes rouillées |
 |   **Conditions** | ☐ Désarmé, ☐ Déclenché, ☐ Exposé          |
 
 **Notes**: Défiez les personnages avec un ou deux pièges. Dites-leur que le passage est piégé, mais ni comment, ni où les pièges se trouvent jusqu'à ce qu'ils se déclenchent !
@@ -97,7 +97,7 @@ Les défis et les adversaires de cette aventure sont notés dans des tableaux av
 | Gardiens de Pierre |                                                          |
 |-------------------:|:---------------------------------------------------------|
 |   **Descripteurs** | Grand, Lourd, Lent, Sans relâche                         |
-|     **Équipement** | Lourde arme de pierre                                    |
+|       **Matériel** | Lourde arme de pierre                                    |
 |     **Conditions** | ☐ Endommagé, ☐ Déséquilibré, ☐ Ralenti, ☐ Hors de combat |
 
 **Notes**: Il y a un Gardien de pierre pour deux personnages. Leurs armes, lourdes et massives peuvent frapper plusieurs personnages à la fois.
@@ -116,11 +116,11 @@ Les défis et les adversaires de cette aventure sont notés dans des tableaux av
 |  Giles Fishburne |                                                     |
 |-----------------:|:----------------------------------------------------|
 | **Descripteurs** | Intelligent, Arrogant, Escrimeur                    |
-|   **Équipement** | Sabre poli                                          |
+|     **Matériel** | Sabre poli                                          |
 |   **Conditions** | ☐ Désorienté, ☐ Blessé, ☐ Ralenti, ☐ Hors de combat |
 
 **Notes**: Giles est cupide, arrogant, mais il n'est pas stupide. Si les choses tournent mal, il essaiera de s'échapper, de négocier ou de doubler quiconque se trouve sur son chemin. Il n'a aucune loyauté envers les Nazis !
 
 ## Personnages
 
-Vous trouverez quatre personnages pré-générés ci-dessous. Ce sont des exemples typiques d'aventurier *pulp*. Les joueurs peuvent les ajuster avec l'accord du Narrateur, avant le début de la partie, en en changeant un Descripteur ou deux, ou d'échanger un ou deux éléments d'Équipement. Avant de démarrer le jeu chaque joueur devra définir une ou deux relations entre les personnages. Un bon moyen rapide consiste à ce que chacun décrive comment il a rencontré le personnage à sa gauche.
+Vous trouverez quatre personnages pré-générés ci-dessous. Ce sont des exemples typiques d'aventurier *pulp*. Les joueurs peuvent les ajuster avec l'accord du Narrateur, avant le début de la partie, en en changeant un Descripteur ou deux, ou d'échanger un ou deux éléments de Matériel. Avant de démarrer le jeu chaque joueur devra définir une ou deux relations entre les personnages. Un bon moyen rapide consiste à ce que chacun décrive comment il a rencontré le personnage à sa gauche.

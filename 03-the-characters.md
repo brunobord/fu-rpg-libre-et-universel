@@ -65,7 +65,7 @@ Un bon Descripteur est compris par tout le monde autour de la table. Si vous ou 
 
 #### Les Descripteurs sont innés
 
-Chaque Descripteur est une partie intégrante et innée du personnage. Ils ne peuvent pas être volés, perdus ou supprimés (cependant, dans certaines circonstances, on peut les oublier). Ne faites pas de vos Descripteurs des éléments de votre équipement.
+Chaque Descripteur est une partie intégrante et innée du personnage. Ils ne peuvent pas être volés, perdus ou supprimés (cependant, dans certaines circonstances, on peut les oublier). Ne faites pas de vos Descripteurs des éléments de votre Matériel.
 
 #### La finitude des Descripteurs
 
@@ -93,19 +93,19 @@ Les quatre Descripteurs par défaut (Corps, Esprit, Atout et Faille) ne sont pas
 
 ----
 
-## Équipement
+## Matériel
 
-Tous les objets, gadgets, armes que le personnage utilisera dans ses aventures est compté comme un équipement. Tous les personnages ont leurs vêtements usuels et les objets qui sont en accord avec leur concept. L'Équipement, ce sont les choses importantes, voire déterminantes pour le personnage.
+Tous les objets, gadgets, armes que le personnage utilisera dans ses aventures est compté comme du Matériel. Tous les personnages ont leurs vêtements usuels et les objets qui sont en accord avec leur concept. Le Matériel, ce sont les choses importantes, voire déterminantes pour le personnage.
 
-Comme les Descripteurs, l'Équipement d'un personnage modifie ses chances lors d'un jet de dés. Ça peut être n'importe quoi : un pistolet ou un couteau, des vêtements à la mode, des cartes de crédit, un cheval, un téléphone mobile ou même un vaisseau spatial. Comme les Descripteurs, l'Équipement dépend du concept du personnage, de l'univers du jeu et des histoires que vous voulez raconter. A contrario, les Équipements sont composés d'un nom est d'un qualificatif : Épée Rouillée, Longue Corde, Cheval Rapide, Fusil à Longue-Portée, Armure Lourde.
+Comme les Descripteurs, le Matériel d'un personnage modifie ses chances lors d'un jet de dés. Ça peut être n'importe quoi : un pistolet ou un couteau, des vêtements à la mode, des cartes de crédit, un cheval, un téléphone mobile ou même un vaisseau spatial. Comme les Descripteurs, le Matériel dépend du concept du personnage, de l'univers du jeu et des histoires que vous voulez raconter. *A contrario*, l'élément du Matériel est composé d'un nom et d'un qualificatif : Épée Rouillée, Longue Corde, Cheval Rapide, Fusil à Longue-Portée, Armure Lourde.
 
-Votre personnage a deux éléments d'Équipement. Choisissez donc deux éléments pour votre personnage.
+Votre personnage a deux éléments de Matériel. Choisissez donc deux éléments pour votre personnage.
 
 > David a décidé que son explorateur avait un **Fouet Robuste**, puisqu'il avait déjà le talent de le manier. Il a également pris un **Blouson de cuir Élimé** pour le couvrir du froid et le protéger contre les égratignures et les chutes.
 >
 > Nina a réfléchi, et elle a opté pour des **Documents Officiels** indiquant le statut politique de son Émissaire Alien, ainsi que des **Robes Exotiques** conçues pour impressionner et imposer le respect.
 
-## Exemples d'équipements
+## Exemples de Matériel
 
 Comme pour les exemples de Descripteurs, cette liste n'est en aucun cas exaustive. Elle effleure à peine ce que votre personnage peut posséder.
 
@@ -119,21 +119,21 @@ Comme pour les exemples de Descripteurs, cette liste n'est en aucun cas exaustiv
 
 ----
 
-### Choisir son équipement
+### Choisir son Matériel
 
 Les objets doivent être à l'image de votre personnage. Pensez à la Tenue Noire de Batman, les Packs-Protoniques Instables de Ghostbusters, le Berretta Inusable de James Bond, ou la Lame Éclair de Zorro.
 
-Chaque élément de l'Équipement doit ajouter un détail à l'histoire de votre personnage, sa personnalité, ses objectifs. Il doit être l'affirmation de ce qu'est le personage, et ce qu'il fait.
+Chaque élément du Matériel doit ajouter un détail à l'histoire de votre personnage, sa personnalité, ses objectifs. Il doit être l'affirmation de ce qu'est le personage, et ce qu'il fait.
 
-### L'Équiment, c'est de l'équipement
+### Le Matériel, c'est du Matériel
 
-L'Équipement n'est pas inné - il peut être perdu, cassé ou volé. Un Bras Cybernétique n'est pas un Équipement, alors qu'un Gant de Puissance Blindé l'est.
+Le Matériel n'est pas inné - il peut être perdu, cassé ou volé. Un Bras Cybernétique n'est pas du Matériel, alors qu'un Gant de Puissance Blindé l'est.
 
-### Décrire son Équipement
+### Décrire son Matériel
 
 L'utilisation du qualificatif doit nous donner une vraie indication utile concernant l'élément. Une Épée Longue, soit, mais une Épée Brisée, c'est bien mieux !
 
-Comme les Descripteurs, le qualificatif de l'Équipement doit être clair - il ne peut pas prêter à confusion concernant la qualification de l'objet.
+Comme les Descripteurs, le qualificatif du Matériel doit être clair - il ne peut pas prêter à confusion concernant la qualification de l'objet.
 
 ### Un seul adjectif
 
@@ -143,19 +143,19 @@ La description de votre objet ne doit avoir qu'un seul qualificatif - ni plus, n
 
 Il est mieux d'utiliser un nom spécifique, précis : Sabre est mieux qu'Épée, Casquette de Baseball est mieux que Couvre-chef. Vous pouvez utiliser un nom multiple, mais tâchez de garder la description la plus concise possible.
 
-### Parlez de votre Équipement
+### Parlez de votre Matériel
 
-Discutez de votre Équipement. Tout le monde doit avoir une vision claire de ce que vous décrivez, son utilisation et quand l'outil devient un obstacle.
+Discutez de votre Matériel. Tout le monde doit avoir une vision claire de ce que vous décrivez, son utilisation et quand l'outil devient un obstacle.
 
-Un Équipement n'est pas "bon" ou "mauvais" en soi. C'est ce que vous en ferez et en fonction des situations que vous verrez dans quelle mesure il est utile ou pas.
+Un Matériel n'est pas "bon" ou "mauvais" en soi. C'est ce que vous en ferez et en fonction des situations que vous verrez dans quelle mesure il est utile ou pas.
 
-### Bon Équipement / Mauvais Équipement
+### Bon Matériel / Mauvais Matériel
 
 Vous pouvez, si vous voulez, imposer qu'un des éléments ait un "bon" qualificatif, tandis que l'autre en aura un "mauvais". Vous pouvez avoir un Blouson Chaud et un Pistolet Rouillé ; ou une Moto Rapide et une Carte de Crédit Vidée.
 
-### Les choses qui ne sont pas de l'Équipement
+### Les choses qui ne sont pas du Matériel
 
-Tous les objets, les "équipements" qui ne sont pas listés comme "Équipement" sont des items. Les items n'ont aucun effet sur les chances de succès ou d'échec dans une action - au mieux ils la permettent. Cependant, rien ne vous empêche d'emprunter, de voler ou d'échanger votre Équipement avec celui d'un autre pour vos actions.
+Tous les objets qui ne sont pas listés comme Matériel sont de l'équipement. Les équipements n'ont aucun effet sur les chances de succès ou d'échec dans une action - au mieux ils la permettent. Cependant, rien ne vous empêche d'emprunter, de voler ou d'échanger votre Matériel avec celui d'un autre pour vos actions.
 
 
 -----
@@ -230,7 +230,7 @@ Identifiez les quatre qualificatifs les plus importants ou intéressants à prop
 
 Chaque Descripteur doit être court, percutant, clair, inné et défini.
 
-### 3 Équipement
+### 3 Matériel
 
 Qu'est ce que votre personnage transporte de cool et "iconique" ?
 

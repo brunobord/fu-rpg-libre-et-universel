@@ -72,13 +72,13 @@ Une technique existe pour l'attribution des points de FU : placez un bol au cent
 
 FU n'est pas un jeu concerné par la "montée en niveau". Pendant que les personnages vivent des expériences variées et apprennent d'elles, la vraie progression intervient dans les changements opérés dans l'histoire et/ou le monde.
 
-Si besoin, les joueurs peuvent décider de changer un Descripteur entre les sessions. Cette altération doit être en lien avec les expériences et l'histoire vécues. Les Équipements peuvent être changés entre les sessions à la discrétion du Narrateur.
+Si besoin, les joueurs peuvent décider de changer un Descripteur entre les sessions. Cette altération doit être en lien avec les expériences et l'histoire vécues. Le Matériel peut être modifié entre les sessions à la discrétion du Narrateur.
 
 Les Motivations peuvent aussi changer entre les sessions. Laissez le temps aux joueurs pour revoir leurs objectifs au début de chaque session et les laisser les ajuster ou les changer si nécessaire.
 
 ### Garder la trace des obstacles
 
-Utilisez des post-its ou des fiches bristol pour garder trace des détails sur les personnages, les monstres ou les obstacles. Écrivez-y les Descripteurs, l'Équipement et les autres informations. S'ils sont atteints par une Condition, enregistrez-les sur les fiches.
+Utilisez des post-its ou des fiches bristol pour garder trace des détails sur les personnages, les monstres ou les obstacles. Écrivez-y les Descripteurs, le Matériel et les autres informations. S'ils sont atteints par une Condition, enregistrez-les sur les fiches.
 
 Utilisez les fiches pour y consigner les caractéristiques du terrain. Écrivez les Descripteurs associés à ces caractéristiques afin que les joueurs les intègrent dans leurs plans d'action.
 
@@ -86,6 +86,6 @@ Utilisez les fiches pour y consigner les caractéristiques du terrain. Écrivez 
 
 Certains groupes jouent ouvertement, sans secret à propos des Descripteurs et des détails des créatures et des montres. D'autres groupes (et/ou Narrateurs) cachent ces informations aux joueurs. Chacune de ces options impliquent des styles de jeu différents.
 
-Jouer sur une table ouverte signifie que tout le monde y voir clair sur ce qui se passe, quelles opportunités existent pour vivre des scènes et des actions vivantes. Les joueurs peuvent voir quels Équipements, Conditions et Descripteurs sont "en jeu" et s'incorporeront dans les scènes.
+Jouer sur une table ouverte signifie que tout le monde y voir clair sur ce qui se passe, quelles opportunités existent pour vivre des scènes et des actions vivantes. Les joueurs peuvent voir quels éléments de Matériel, Conditions et Descripteurs sont "en jeu" et s'incorporeront dans les scènes.
 
 En cachant aux joueurs les détails sur les adversaires, les pièges et les obstacles, vous les pousserez à aller à la rencontre de leurs ennemis, d'explorer l'environnement, et d'essayer de nouvelles choses. Ils peuvent se diriger vers des situations qu'ils pensent être à leur avantage. Il est toujours satisfaisant d'être récompensé d'un dé de bonus pour avoir deviné correctement le Descripteur d'un ennemi.

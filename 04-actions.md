@@ -59,14 +59,14 @@ Le fait de devoir vaincre les probabilités est au coeur de FU. Mais si la plupa
 >
 > Le Capitaine Vance se jette à couvert alors que les balles fusent au travers du mur derrière lui. Il s'empare de la radio endommagée, trifouille les boutons et essaie d'appeler des renforts. Vous lancez un d6 et c'est un 1. Vance n'arrive pas du tout à trouver la bonne fréquence et une balle perdue détruit la radio.
 
-| Jet | Obtenez-vous ce que vous voulez ?                                                           |
-| ---- | ------------------------------------------------------------------------------------------ |
-| 6    | **Oui, et...** Vous obtenez ce que vous voulez, et autre chose.                            |
-| 4    | **Oui...** Vous obtenez ce que vous voulez.                                                |
-| 2    | **Oui, mais...** Vous obtenez ce que vous voulez, mais il y a un coût                      |
-| 5    | **Non, mais...** Vous n'obtenez pas ce que vous voulez, mais ce n'est pas un échec total.  |
-| 3    | **Non...** Vous n'obtenez pas ce que vous vouliez.                                         |
-| 1    | **Non, et...** Vous n'obtenez pas ce que vous voulez, et les choses empirent               |
+| Jet | Obtenez-vous ce que vous voulez ?                                                         |
+|:----|:------------------------------------------------------------------------------------------|
+| 6   | **Oui, et...** Vous obtenez ce que vous voulez, et autre chose.                           |
+| 4   | **Oui...** Vous obtenez ce que vous voulez.                                               |
+| 2   | **Oui, mais...** Vous obtenez ce que vous voulez, mais il y a un coût                     |
+| 5   | **Non, mais...** Vous n'obtenez pas ce que vous voulez, mais ce n'est pas un échec total. |
+| 3   | **Non...** Vous n'obtenez pas ce que vous vouliez.                                        |
+| 1   | **Non, et...** Vous n'obtenez pas ce que vous voulez, et les choses empirent              |
 
 ----
 
@@ -80,14 +80,14 @@ Souvent vous n'aurez pas besoin de poser la question de manière explicite - ell
 
 Vous pouvez poser une question différemment si vous voulez, mais il vous faudra changer la table des résultats. Une question évidente pourrait être : "De quelle manière ai-je réussi ?", ce qui produirait les résultats suivants :
 
-| Jet  | De quelle manière ai-je réussi ? |
-| ---- | -------------------------------- |
-| 6    | Succès légendaire                |
-| 4    | Succès complet                   |
-| 2    | Juste un succès                  |
-| 5    | Échec au plus juste              |
-| 3    | Échec total                      |
-| 1    | Échec absolu, et pire encore     |
+| Jet | De quelle manière ai-je réussi ? |
+|:----|:---------------------------------|
+| 6   | Succès légendaire                |
+| 4   | Succès complet                   |
+| 2   | Juste un succès                  |
+| 5   | Échec au plus juste              |
+| 3   | Échec total                      |
+| 1   | Échec absolu, et pire encore     |
 
 Libre à vous de composer vos propres questions et réponses, en fonction des besoins de votre groupe, du jeu et de l'histoire.
 
@@ -95,14 +95,14 @@ Libre à vous de composer vos propres questions et réponses, en fonction des be
 
 Certains joueurs ne sont pas à l'aise avec les résultats en mode pair/impair. Ils préfèrent les résultats sous la forme 1-3 Mauvais, 4-6 Bon résultat. Dans ce cas la table des résultats ressemblera à ceci :
 
-| Jet  | Obtenez-vous ce que vous voulez ? |
-| ---- | --------------------------------- |
-| 6    | Oui, et...                        |
-| 4    | Oui...                            |
-| 2    | Oui, mais...                      |
-| 5    | Non, mais...                      |
-| 3    | Non...                            |
-| 1    | Non, et...                        |
+| Jet | Obtenez-vous ce que vous voulez ? |
+|:----|:----------------------------------|
+| 6   | Oui, et...                        |
+| 4   | Oui...                            |
+| 2   | Oui, mais...                      |
+| 5   | Non, mais...                      |
+| 3   | Non...                            |
+| 1   | Non, et...                        |
 
 ----
 
@@ -176,13 +176,13 @@ Les Détails peuvent avoir des effets instantanés ou sur la durée, en fonction
 
 ## Modificateurs
 
-Certaines circonstances, équipements et compétences, peuvent vous rendre la vie plus facile ou plus difficile. Les modificateurs changent le nombre de dés que vous aurez à lancer.
+Certaines circonstances, matériels et compétences, peuvent vous rendre la vie plus facile ou plus difficile. Les modificateurs changent le nombre de dés que vous aurez à lancer.
 
-**Rendre plus facile** : Lancez un dé supplémentaire pour chaque Descripteur, élément d'Équipement, Condition ou Détail qui fournit un avantage sur l'action à effectuer. Le résultat le plus avantageux sera retenu, au choix du joueur.
+**Rendre plus facile** : Lancez un dé supplémentaire pour chaque Descripteur, Matériel, Condition ou Détail qui fournit un avantage sur l'action à effectuer. Le résultat le plus avantageux sera retenu, au choix du joueur.
 
 > Dans les bois, Sire Camden essaie de traquer le Seigneur Kane. Vous soulignez que le chevalier est un **bon chasseur**, ce qui donne un d6 supplémentaire. Après avoir lancé 2d6, vous obtenez 5 et 4. Le joueur décide de garder le 4 et il conclut qu'après un petite recherche Sire Camden retrouve la trace du Seigneur Kane et la suit vers une citadelle sinistre...
 
-**Rendre plus difficile** : Lancez un dé supplémentaire pour chaque Descripteur, élément d'Équipement, Condition ou Détail qui rend l'action plus difficile. Le résultat se lit sur le plus mauvais dé.
+**Rendre plus difficile** : Lancez un dé supplémentaire pour chaque Descripteur, Matériel, Condition ou Détail qui rend l'action plus difficile. Le résultat se lit sur le plus mauvais dé.
 
 > Le Capitaine Vance décide de se ruer vers une jeep toute proche. Le Narrateur souligne qu'il n'y a **aucune couverture** entre l'endroit où se cache Vance et le véhicule. "Est-ce que Vance atteint la jeep sans être blessé ?". Après avoir lancé 2d6, vous avez un 3 et un 5. Il vous faut accepter le 3 et le Capitaine Vance est **blessé** avant d'atteindre la jeep.
 
@@ -270,7 +270,7 @@ On peut dépenser un point de FU pour augmenter ou diminuer le résultat obtenu 
 
 #### Utiliser une possession
 
-En dépensant un point de FU, vous pourrez transformer un élément d'équipement simple en Équipement pour la durée de la scène.
+En dépensant un point de FU, vous pourrez transformer un élément d'équipement simple en Matériel pour la durée de la scène.
 
 #### Prouesses et Pouvoire
 
@@ -298,9 +298,9 @@ Quand vous devez résoudre un conflit ou accomplir une action, posez une questio
 
 ### 4 Factorisez les modificateurs
 
-+1 dé de bonus pour chaque Descripteur, élément d'Équipement, Détail ou Condition ou autre chose qui rende l'action plus facile.
++1 dé de bonus pour chaque Descripteur, Matériel, Détail ou Condition ou autre chose qui rende l'action plus facile.
 
-+1 dé de pénalité pour chaque Descripteur, élément d'Équipement, Détail, Condition ou autre chose qui rend l'action plus difficile.
++1 dé de pénalité pour chaque Descripteur, Matériel, Détail, Condition ou autre chose qui rend l'action plus difficile.
 
 ### 5 Lancez
 
