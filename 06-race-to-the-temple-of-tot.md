@@ -22,60 +22,61 @@ Les défis et les adversaires de cette aventure sont notés dans des tableaux av
 
 **Scène**: Asie Centrale - un marché foisonnant au coeur de la ville de Bulak - mi-journée. La place du marché est entourée de bâtiments de pierre et de briques en terre cuite, aux fenêtres étroites décorées d'arches ; le long des rues étranglées et sinueuses, dans un grand désordre, on passe d'étales en cafés, de bars en commerces.
 
-**Descriptors**: Crowded streets, exotic goods.
+**Descripteurs**: rue surpeuplée, marchandises exotiques.
 
-> The characters have just acquired a map to the Temple of Tot. Unfortunately, Nazi goons have arrived and want the map, too. There are a lot of goons, and while the characters could fight them, it might be easier to flee. Do the characters escape?
-
-|     Nazi Goons |                                                  |
-|---------------:|:-------------------------------------------------|
-| **Descriptor** | Lots of goons, Beefy Aryans, Not too bright      |
-|       **Gear** | Noisy Sub-machine guns                           |
-| **Conditions** | ☐ Confused, ☐ Trapped, ☐ Slowed, ☐ Out of Action |
-
-**Notes**: There are a number of goon squads equal to the number of characters.
-
-**What can go wrong?** The characters are captured; The map is lost.
+> Les personnages viennent de se procurer la carte indiquant le Temple de Tot. Malheureusement, des racailles Nazies ont débarqué et veulent récupérer la carte. Il sont nombreux, et même si les personnages peuvent essayer de les combattre, il serait plus facile de s'enfuir. Est-ce que les personnages vont s'échapper ?
 
 
-### Translating the map
+|     Brute Nazie |                                                    |
+|----------------:|:---------------------------------------------------|
+| **Descripteur** | Nombreux, Aryens musclés, Pas très malins          |
+|  **Équipement** | Automitrailleuse bruyante                          |
+|  **Conditions** | ☐ Désorienté, ☐ Piégé, ☐ Ralenti, ☐ Hors de combat |
 
-**Scene**: A dark coffee lounge, cafe or back room, somewhere in the city of Bulak. The smell of strong coffee and exotic food permeates the room.
+**Notes**: Le nombre d'ennemis est égal au nombre de personnages.
 
-**Descriptors**: private.
+**Qu'est-ce qui peut mal tourner ?** Les personnages sont capturés ; La carte est perdue.
 
-> Tennessee Smith and his companions have the map but must now translate it, puzzling out the strange symbols and markings. Do they translate the map?
+### Déchiffrer la carte
 
-| Translating the Map |                                                 |
-|--------------------:|:------------------------------------------------|
-|      **Descriptor** | Ancient glyphs, Brittle paper                   |
-|      **Conditions** | ☐ Torn, ☐ Ruined, ☐ Smudged, ☐ Burnt to a crisp |
+**Scène**: Une salle sombre dans un café ou une arrière-salle, quelque part dans la ville de Bulak. De riches senteurs de café fort et d'épices exotiques emplissent la pièce.
 
-**What can go wrong?** The map is damaged; The characters misread the map; They cannot read the map and must get help from an expert in ancient languages.
+**Descripteurs**: Salle privée.
 
-### The Gou Zou Gorge
+> Tennessee Smith et ses compagnons ont la carte, mais il leur faut la traduire, déchiffrer les symboles et les marques étranges. Arriveront-ils à transcrire la carte ?
 
-**Scene**: The majestic Gou Zou Gorge, half a mile deep and crossed by a single iron girder railway bridge. Wide open plains lie on either side of the gorge and the Kow mountains lie in the distance.
+| Déchiffrer la carte |                                                    |
+|--------------------:|:---------------------------------------------------|
+|    **Descripteurs** | Glyphes anciens, Papier friable                    |
+|      **Conditions** | ☐ Déchiré, ☐ Détruit, ☐ Taché, ☐ Réduit en cendres |
 
-**Descriptors**: open plains, Impassible Gorge.
+**Qu'est-ce qui peut mal tourner ?** La carte est endommagée ; Les personnages se trompent dans leur traduction ; Ils n'arrivent pas à lire la carte et doivent faire appel à un expert en langues anciennes.
 
-> The characters follow the map to Gou Zou Gorge, by car or horse back. Giles Fishburne is approaching fast, aboard the German dirigible Der Vogel. Do the characters cross the bridge safely? Do they keep their lead on the Germans?
+### Les Gorges du Gou Zou
 
-| Nazi Bird Truppen |                                                   |
-|------------------:|:--------------------------------------------------|
-|   **Descriptors** | They Fly!, Agile                                  |
-|          **Gear** | Delicate Flying Harness, Deadly Stick Grenade     |
-|    **Conditions** | ☐ Confused, ☐ Grounded, ☐ Slowed, ☐ Out of Action |
+**Scène**: Les gorges du Gou Zou, majestueuses, sont profondes de 500m et seul un pont ferroviaire aux poutrelles de ferraille les franchit. De grandes plaines découvertes s'étendent de chaque côté des gorges et les monts Kow veillent, à distance.
 
-**Notes**: There are a number of Bird Truppen equal to the number of characters.
+**Descripteurs**: Grandes plaines, Gorges impassibles.
 
-|  Gou Zou Bridge |                                |
-|----------------:|:-------------------------------|
-| **Descriptors** | Wide but narrow                |
-|  **Conditions** | ☐ Rickety, ☐ Blown all to hell |
+> Les personnages suivent la carte vers les Gorges du Gou Zou, en voiture ou à dos de cheval. Giles Fishburne approche à grande vitesse, à bord du dirigeable Der Vogle. Est-ce que les personnages traverseront le pont sans domage ? Garderont-ils leur avance sur les Allemands ?
 
-**Notes**: You know you must introduce an approaching train, right?
 
-**What can go wrong?** The bridge is destroyed; The map is lost; the characters are captured.
+| Soldat Aérien Nazi |                                                     |
+|-------------------:|:----------------------------------------------------|
+|  **Descripteurrs** | Ils volent !, Agile                                 |
+|     **Équipement** | Harnais de vol fragile, Grenade défensive mortelle  |
+|     **Conditions** | ☐ Désorienté, ☐ Au sol, ☐ Ralenti, ☐ Hors de combat |
+
+**Notes**: Il y a autant de soldat aérien que de personnages.
+
+| Le pont sur le Gou Zou |                                  |
+|-----------------------:|:---------------------------------|
+|       **Descripteurs** | Long mais étroit                 |
+|         **Conditions** | ☐ Branlant, ☐ Totalement détruit |
+
+**Notes**: Vous savez que vous allez devoir faire surgir un train, n'est-ce pas ?
+
+**Qu'est-ce qui peut mal tourner ?** Le pont est démoli ; La carte est perdue ; Les personnages sont capturés.
 
 ### The Temple
 
@@ -93,11 +94,11 @@ Les défis et les adversaires de cette aventure sont notés dans des tableaux av
 
 **Notes**: Challenge characters with one or two traps. Tell them the passage is trapped, but don’t tell them how, or where the traps are until they are sprung!
 
-| Stone Statue Guardian |                                                     |
-|----------------------:|:----------------------------------------------------|
-|       **Descriptors** | Big, Heavy, Slow, Relentless                        |
-|              **Gear** | Heavy Stone Weapons                                 |
-|        **Conditions** | ☐ Damaged, ☐ Off balance, ☐ Slowed, ☐ Out of Action |
+| Stone Statue Guardian |                                                       |
+|----------------------:|:------------------------------------------------------|
+|       **Descriptors** | Big, Heavy, Slow, Relentless                          |
+|              **Gear** | Heavy Stone Weapons                                   |
+|        **Conditions** | ☐ Damaged, ☐ Off balance, ☐ Ralenti, ☐ Hors de combat |
 
 **Notes**: There is one Statue Guardian for every two characters. The large, heavy weapons can strike multiple characters at once.
 
@@ -113,11 +114,11 @@ Les défis et les adversaires de cette aventure sont notés dans des tableaux av
 > The characters enter the chamber of the idol, only to find that Giles Fishburne and his Nazi goons are here too! Do they defeat Giles and escape with the Idol?
 
 
-| Giles Fishburne |                                                  |
-|----------------:|:-------------------------------------------------|
-| **Descriptors** | Smart, Arrogant, Sword fighter                   |
-|        **Gear** | Polished Sabre                                   |
-|  **Conditions** | ☐ Confused, ☐ Injured, ☐ Slowed, ☐ Out of Action |
+| Giles Fishburne |                                                      |
+|----------------:|:-----------------------------------------------------|
+| **Descriptors** | Smart, Arrogant, Sword fighter                       |
+|        **Gear** | Polished Sabre                                       |
+|  **Conditions** | ☐ Désorienté, ☐ Injured, ☐ Ralenti, ☐ Hors de combat |
 
 **Notes**: Giles is a greedy, arrogant villain, but he isn’t stupid. If things start looking dire he will attempt to escape, make a deal and/or double-cross anyone in his way. He has no loyalty to the Nazis!
 
