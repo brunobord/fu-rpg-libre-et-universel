@@ -124,3 +124,49 @@ Les défis et les adversaires de cette aventure sont notés dans des tableaux av
 ## Personnages
 
 Vous trouverez quatre personnages pré-générés ci-dessous. Ce sont des exemples typiques d'aventurier *pulp*. Les joueurs peuvent les ajuster avec l'accord du Narrateur, avant le début de la partie, en en changeant un Descripteur ou deux, ou d'échanger un ou deux éléments de Matériel. Avant de démarrer le jeu chaque joueur devra définir une ou deux relations entre les personnages. Un bon moyen rapide consiste à ce que chacun décrive comment il a rencontré le personnage à sa gauche.
+
+
+### Tennessee Smith, Explorateur Intrépide
+
+|  Tennessee Smith |                                                                                                        |
+|-----------------:|:-------------------------------------------------------------------------------------------------------|
+| **Descripteurs** | Agile, Sensé, Manie le fouet, A le vertige                                                             |
+|     **Matériel** | Fouet de cuir, Blouson en cuir élimé                                                                   |
+|  **Motivations** | Trouver l'Idôle de Tot                                                                                 |
+|   **Conditions** | ☐ En colère, ☐ Effrayé, ☐ Fatigué, ☐ Prisonnier, ☐ Aveuglé, ☐ Affamé, ☐ Stupéfait, ☐ Blessé, ☐ Mourant |
+
+> Tennessee Smith est un professeur d'histoire, bien éduqué, mais dans ses temps libres il voyage dans les contrées sauvages pour retrouver des artefacts perdus et des trésors. Au charme rugueux, il allie une sorte de calme permanent, quel que soit le danger face à lui - et il a tendance à souvent se présenter.
+
+### Jimmy Sweet, Gamin courageux
+
+|      Jimmy Sweet |                                                                                                        |
+|-----------------:|:-------------------------------------------------------------------------------------------------------|
+| **Descripteurs** | Rapide, Sarcastique, Sous-estimé, Jeune                                                                |
+|     **Matériel** | Pétards bruyants, Casquette de baseball sale                                                           |
+|  **Motivations** | Voir les 7 merveilles du monde                                                                         |
+|   **Conditions** | ☐ En colère, ☐ Effrayé, ☐ Fatigué, ☐ Prisonnier, ☐ Aveuglé, ☐ Affamé, ☐ Stupéfait, ☐ Blessé, ☐ Mourant |
+
+> Jimmy Sweet est un gamin insouciant qui n'a jamais pu compter que sur lui-même. Il est élancé, résistant et rapide, avec un caractère effronté qui lui a souvent apporté des ennuis. Jimmy s'est embarqué clandestinement sur un cargo à vapeur avec comme but de parcourir le monde et d'y faire bonne fortune.
+
+### Harvey Reed, Boxeur à la retraite
+
+|      Harvey Reed |                                                                                                        |
+|-----------------:|:-------------------------------------------------------------------------------------------------------|
+| **Descripteurs** | Fort, Les pieds sur terre, Boxeur, Moche comme un pou                                                  |
+|     **Matériel** | Dix dollars en petite monnaie, Costume mal ajusté                                                      |
+|  **Motivations** | Couvrir les arrières de Tennessee Smith                                                                |
+|   **Conditions** | ☐ En colère, ☐ Effrayé, ☐ Fatigué, ☐ Prisonnier, ☐ Aveuglé, ☐ Affamé, ☐ Stupéfait, ☐ Blessé, ☐ Mourant |
+
+> Harvey Reed a récemment raccroché les gants de boxe. Sa nouvelle vie de sédentaire lui a paru peu trop ennuyeuse, aussi il a rejoint son vieil ami Tennessee dans ses aventures.
+
+
+### October Jones, Grande Reporter
+
+|    October Jones |                                                                                                        |
+|-----------------:|:-------------------------------------------------------------------------------------------------------|
+| **Descripteurs** | Belle, Spirituelle, Bonne mémoire, Curieuse                                                            |
+|     **Matériel** | Appareil photo fiable, Carnet de note épais                                                            |
+|  **Motivations** | Révéler la vérité sur le vrai Tennessee Smith                                                          |
+|   **Conditions** | ☐ En colère, ☐ Effrayé, ☐ Fatigué, ☐ Prisonnier, ☐ Aveuglé, ☐ Affamé, ☐ Stupéfait, ☐ Blessé, ☐ Mourant |
+
+> October Jones est une journaliste et aventurière, qui bénéficie des largesses de son père, lequel est extrêmement fortuné. Belle, intelligente et gâtée, c'est une femme qui a l'habitude d'obtenir ce qu'elle veut.
