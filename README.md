@@ -6,7 +6,10 @@ Le jeu originel est publié sous [Contrat Creative Commons (CC-BY)](http://creat
 
 ## Avertissement
 
-Ceci est un travail en cours, inachevé.
+Ceci est un travail en cours. Tous les chapitres ont été traduits, et doivent
+être relus.
+
+Considérons que cette version est la v1.0-BÊTA.
 
 ### Rédaction
 
@@ -16,7 +19,7 @@ Ceci est un travail en cours, inachevé.
 - [x] Action
 - [x] Le Narrateur
 - [x] À la recherche du Temple de Tot
-- [ ] Annexes
+- [x] Annexes
 
 ### Relecture et correctifs
 
