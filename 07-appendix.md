@@ -43,22 +43,22 @@ Cette liste n'est en aucun cas exhaustive, mais c'est un bon départ. Chaque él
 * **Sage**: capable de citer des proverbes, donner des conseils, associer deux indices apparemment sans relation, interpréter les réactions des gens, et dire "Je te l'avais bien dit".
 * **Spirituel**: savoir faire des commentaires légers, charmer ou amuser, et toujours avoir le dernier mot.
 
-## Edge Descriptors
+## Descripteurs d'Atout
 
-* **Acrobatics**: great for joining the circus, leaping through narrow gaps, and doing impressive flips.
-* **Arcane Knowledge**: good for identifying mystic artefacts, recognizing the presence of evil magic, and reading ancient scrolls.
-* **Courage**: handy when seeing something scary, telling your wife you forgot your anniversary, and attempting other dangerous acts.
-* **Driving**: great for car racing, car chases, and passing your driving exam.
-* **Fencing**: good for sword fighting and other civilized forms of melee.
-* **Good Memory**: handy for remembering names and faces, vital clues, and mathematical formulas.
-* **Hunting**: good when tracking and stalking, looking good in camouflage, and knowing what an angry rhinoceros sounds like.
-* **Keen Sight**: great for seeing a long way or even doing stuff by moonlight.
-* **Linguistics**: good for speaking one (or more) foreign languages and generally communicating with others.
-* **Magic**: great for knowing the mystic arts, casting spells, or acting like a stage magician.
-* **Medicine**: good for performing operations, diagnosing illness, and administering first aid.
-* **Nasty Bite**: great for really hurting someone in combat, chewing your own arm off, or winning a pie eating contest.
-* **Rich**: handy for buying luxury sports cars, getting invited to exclusive parties, and bribing city officials.
-* **Wrestling**: good for fighting unarmed combat, and pinning opponents to the ground.
+* **Acrobate**: pour intégrer un cirque, sauter par-dessus une fosse ou faire des saltos impressionnants.
+* **Connaissance des arcanes**: savoir identifier des artefacts mystiques, reconnaître la présence d'une magie maléfique, lire des parchemins antiques.
+* **Courage**: utile en présence d'un danger, pour avouer à votre épouse que vous avez oublié votre anniversaire de mariage ou tenter d'autres actes héroïques.
+* **Conduite**: faire des courses automobiles, des poursuites en voiture ou passer votre permis.
+* **Escrime**: combattre à l'épée ou toute autre forme de combat en mêlée entre gens de bonne tenue.
+* **Bonne mémoire**: pratique pour se souvenir du nom et des visages des gens, des indices vitaux ou des formules mathématiques.
+* **Chasseur**: savoir pister ou prendre en filature, savoir se camoufler efficacement, et connaître le cri d'un rhinocéros en colère.
+* **Vue perçante**: y voir à grande distance ou agir sans gêne à la lueur nocturne.
+* **Linguistique**: savoir parler une langue étrangère (ou plusieurs) et être plus à l'aise pour communiquer avec les autres.
+* **Magie**: connaître les arts occultes, jeter des sorts ou faire des numéros de prestidigitation.
+* **Médecine**: faire des opérations chirurgicales, diagnostiquer une maladie ou administrer les premiers soins.
+* **Morsure féroce**: arriver à blesser salement quelqu'un au combat, se mordre le bras ou gagner à un concours de mangeage de flamby.
+* **Riche**: pouvoir acheter des voitures de sport luxueuses, être invité à des fêtes ultra-select, avoir les moyens de corrompre les gens influents.
+* **Lutte**: pour se battre sans arme, et clouer un adversaire au sol.
 
 ## Flaw Descriptors
 
