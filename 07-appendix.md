@@ -60,18 +60,18 @@ Cette liste n'est en aucun cas exhaustive, mais c'est un bon départ. Chaque él
 * **Riche**: pouvoir acheter des voitures de sport luxueuses, être invité à des fêtes ultra-select, avoir les moyens de corrompre les gens influents.
 * **Lutte**: pour se battre sans arme, et clouer un adversaire au sol.
 
-## Flaw Descriptors
+## Descripteurs de Faille
 
-* **Blind**: a pain when doing anything that requires sight, such as shooting, navigating an unfamiliar space, or painting.
-* **Brave**: good for charging into mortal danger, acting foolhardy, and getting into deep trouble.
-* **Clumsy**: a problem when carrying a valuable vase, visiting an antique store, or trying to cross a booby-trapped room.
-* **Greedy**: a pain when resisting the urge to steal, lie, or in some other way keep or obtain wealth.
-* **in-Human Appearance**: a hindrance when trying not to get noticed, avoiding attention, or finding a pair of pants that fit just right.
-* **Missing Leg**: a problem when running, climbing, or performing any other activity that involves movement, without prosthetics or a wheel chair.
-* **Old**: a pain when trying to look cool, climb stairs, use a computer, or be positive about your health.
-* **Poor**: a hindrance when wanting to buy food or clothes, or trying to get into an exclusive party.
-* **Poor Sight**: a pain when trying to recognize someone or thing, driving at night, or noticing visual clues.
-* **Primitive**: a problem when using mobile phones, cars, and door bells, as well as interacting at more civilized social occasions.
-* **Smelly**: a hindrance when trying to impress people, or hiding from wild animals or trackers.
-* **Wanted**: a pain when trying to keep out of trouble, or needing something from your apartment.
-* **Young**: a problem when trying to get into clubs, be taken seriously by adults, avoid school, or see over the dash in a car.
+* **Aveugle**: très gênant pour toutes les tâches qui requièrent d'y voir, comme tirer au fusil, se déplacer dans un endroit inconnu, ou peindre.
+* **Courageux**: courir au devant d'un danger mortel, agir inconsidérément, et plonger plus encore dans le pétrin.
+* **Maladroit**: problématique pour transporter un vase de valeur, visiter un magasin d'antiquités ou traverser une pièces remplie de farces et attrapes.
+* **Cupide**: gênant quand il faut résister à l'envie de voler ou mentir dans le but de conserver ou gagner plus de richesses.
+* **Appearance inhumaine**: impossible de passer inaperçu, d'éviter l'attention ou trouver un pantalon qui sied à sa corpulence.
+* **Unijambiste**: difficile de courir, escalader ou toute autre action qui implique de se déplacer sans ses prothèses ou une chaise roulante.
+* **Âgé**: un problème pour avoir l'air cool, grimper à l'escalier, utiliser un ordinateur ou être optimiste concernant son état de santé.
+* **Pauvre**: problématique pour s'acheter à manger ou pour se vêtir ou s'incruster dans une fête select.
+* **Vue basse**: compliqué pour essayer de reconnaître une personne ou une chose, conduire la nuit, ou repérer des indices visuels.
+* **Primitif**: une gêne pour utiliser un téléphone mobile, conduire une voiture, sonner à une porte ou interagir de manière civilisée en société.
+* **Malodorant**: difficile d'impressionner les gens, ou passer inaperçu auprès de traqueurs ou d'animaux féroces à votre poursuite.
+* **Recherché**: on n'arrête d'être embêté à tout bout de champ, et c'est plus difficile de rentrer chez soi sans ennui.
+* **Jeune**: problématique pour entrer en boîte, être pris au sérieux par les adultes, sêcher l'école ou voir au-dessus du volant quand on conduit.
