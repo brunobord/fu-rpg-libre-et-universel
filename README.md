@@ -24,7 +24,7 @@ Considérons que cette version est la v1.0-BÊTA.
 ### Relecture et correctifs
 
 - [x] Introduction
-- [ ] Les bases
+- [x] Les bases
 - [ ] Les personnages
 - [ ] Action
 - [ ] Le Narrateur
