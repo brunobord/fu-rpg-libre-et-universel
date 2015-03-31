@@ -14,7 +14,7 @@ Bien évidemment, le concept du personnage doit correspondre à l'univers choisi
 
 ## Descripteurs
 
-Les Descripteurs sont des qualificatifs ou de très courtes expressions qui identifient les talents et les failles du personnage, les choses qui lui rendent la vie plus facile ou plus difficile et qui fait d'eux ce qu'ils sont. Ils indiquent les domaines dans lesquels les personnages sont bons, à travers leurs triats physiques et mentaux, et leurs capacités ou désavantages. Ce sont à la fois des guides concernant l'interprétation du personnage et des modificateurs pour les jets de dés.
+Les Descripteurs sont des qualificatifs ou de très courtes expressions qui identifient les talents et les failles du personnage, les choses qui lui rendent la vie plus facile ou plus difficile et qui fait d'eux ce qu'ils sont. Ils indiquent les domaines dans lesquels les personnages sont bons, à travers leurs traits physiques et mentaux, et leurs capacités ou désavantages. Ce sont à la fois des guides concernant l'interprétation du personnage et des modificateurs pour les jets de dés.
 
 Les personnages ont quatre descripteurs : Corps, Esprit, Atout et Faille. Choisissez un qualificatif ou une phrase pour décrire les caractéristiques les plus pertinentes de votre personnage.
 
@@ -55,7 +55,7 @@ Il est vraiment acceptable d'user de clichés quand on conçoit son concept. Les
 
 #### Choisir ses Descripteurs
 
-Il faut se forcer à être imaginatif et honnête. En considérant à la fois votre concept et l'univers du jeu. Donner comme Faille à un personnage **ne sait pas nager** alors que vous savez que l'histoire se tiendra dans un désert n'est pas vraiment "fait-play".
+Il faut se forcer à être imaginatif et honnête. En considérant à la fois votre concept et l'univers du jeu. Donner comme Faille à un personnage **ne sait pas nager** alors que vous savez que l'histoire se tiendra dans un désert n'est pas vraiment "fair-play".
 
 Soyez inventifs, gardez votre concept en tête, et discutez-en avec le Narrateur. Les possibilités sont infinies.
 
