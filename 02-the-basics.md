@@ -28,15 +28,15 @@ Avant tout, vous et vos amis devrez vous accorder sur le type de jeu auquel vous
 
 -----
 
-### Discuter avant de jouer !
+### Discutez avant de jouer !
 
-Conversez au sujet du type de jeu auquel vous jouerez, afin que tout le monde démarre avec les mêmes bases. Définissez un ton, un thème et/ou des attentes. Il est important de comprendre qui sera félicité ou honni pour une réaction exagérée, ou des actes de violence gratuite. Lancez des idées à propos du décor, des images, des scènes classiques et enthousiasmantes ou des chouettes clichés. De cette façon, tout le monde a une idée claire de ce à quoi le jeu peut ressembler.
+Conversez au sujet du type de jeu auquel vous jouerez, afin que tout le monde partent sur les mêmes bases. Définissez un ton, un thème et/ou des attentes. Il est important de comprendre qui sera félicité ou honni pour une réaction exagérée, ou des actes de violence gratuite. Lancez des idées à propos du décor, des images, des scènes classiques et enthousiasmantes ou des beaux clichés. De cette façon, tout le monde a une idée claire de ce à quoi le jeu peut ressembler.
 
-Cette discussion peut amener des éléments au Narrateur sur que veulent les joueurs (ou leurs besoins) en terme de jeu. Il saura alors si les joueurs veulent ressentir le soufflé de l'épopée, vivre en opprimés ou être de tragiques anti-héros.
+Cette discussion peut amener des éléments au Narrateur sur ce que veulent les joueurs (ou leurs besoins) en termes de jeu. Il saura si les joueurs veulent ressentir le souffle de l'épopée, vivre en opprimés ou être de tragiques anti-héros.
 
 ### Le Générateur Insta-Genre
 
-Pour des aventures en mode rapide, faites écrire à tout le monde deux genres ou décors sur des bouts de papier. Mettez-les dans un chapeau et tirez-en deux au sort. Vous obtiendrez : "Apocalypse Suburbaine", "Super-héros médiéval", "Université des Arts Martiaux" ou autre ; discutez du ton que vous voulez lui donner, des intrigues possibles et des personnages. Vous êtes prêts à jouer !
+Pour des aventures en mode rapide, faites écrire à tout le monde deux genres ou décors sur des bouts de papier. Mettez-les dans un chapeau et tirez-en deux au sort. Vous obtiendrez : "Apocalypse Suburbaine", "Super-héros Médiéval", "Université des Arts Martiaux", etc. Discutez du ton que vous voulez lui donner, des intrigues possibles et des personnages. Vous êtes prêts à jouer !
 
 ----
 
