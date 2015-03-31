@@ -18,4 +18,6 @@ Ce livre renferme deux types d'informations. Premièrement, les règles à propr
 
 Il y a également des encarts au fil des pages. Vous y trouverez des explications des règles, des exemples détaillés, des guides sur l'utilisation des règles en jeu, et des règles optionnelles que vous pourrez incorporer dans vos parties. Ces encarts sont facilement repérables puisqu'ils sont séparés du texte principal par une ligne, et présentés sous trois colonnes[^1]. Référez-vous à ces informations si vous avez besoin de comprendre le "comment" ou le "pourquoi" de certaines règles.
 
+----
+
 [^1] Note du Traducteur: Cette précision concerne le livre originel. Il va de soi que ce "Gitbook" n'intègre pas la mise en page en trois colonnes.

@@ -23,7 +23,7 @@ Considérons que cette version est la v1.0-BÊTA.
 
 ### Relecture et correctifs
 
-- [ ] Introduction
+- [x] Introduction
 - [ ] Les bases
 - [ ] Les personnages
 - [ ] Action
