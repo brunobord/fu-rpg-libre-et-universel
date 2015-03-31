@@ -12,23 +12,10 @@ Les Narrateurs qui aiment vivre des aventures "au fil de l'eau" apprécieront ce
 
 ## Comment utiliser ce livre
 
-Ce livre renferme deux types d'informations. Premièrement, les règles à proprement parler - celles qui expliquent comment jouer. Ces règles sont présentées de façon informative sur cette page, avec des titres et des sous-titres clairs. FU est assez limpide et vous n'aurez probablement pas besoin de vous référer au livre des règles après votre première partie. Tout ce que vous avez besoin de savoir est présenté comme cela.
+Ce livre renferme deux types d'informations. Premièrement, les règles à proprement parler - celles qui expliquent comment jouer. Ces règles sont présentées de façon informative sur cette page, avec des titres et des sous-titres clairs. FU est assez limpide et vous n'aurez probablement pas besoin de vous référer au livre des règles après votre première partie. Tout ce que vous avez besoin de savoir est présenté comme ceci.
 
-> Les exemples d'utilisation des règles sont formattés comme ceci. Ils sont répartis au milieu du texte principal et vous aident à voir comment utiliser les règles. Vous n'aurez probablement pas besoin de les relire après votre première partie.
+> Les exemples d'utilisation des règles sont formatés comme ceci. Ils sont répartis au milieu du texte principal et vous aident à voir comment utiliser les règles. Vous n'aurez probablement pas besoin de les relire après votre première partie.
 
-Il y a également des encarts au bas des pages. Vous y trouverez des explications des règles, des exemples détaillés, des guides sur l'utilisation des règles en jeu, et des règles optionnelles que vous pourrez incorporer dans vos parties. Ces encarts sont facilement repérables puisqu'ils sont séparés du texte principal par une ligne, et présentés sous trois colonnes. Référez-vous à ces informations si vous avez besoin de comprendre le "comment" ou le "pourquoi" de certaines règles.
+Il y a également des encarts au fil des pages. Vous y trouverez des explications des règles, des exemples détaillés, des guides sur l'utilisation des règles en jeu, et des règles optionnelles que vous pourrez incorporer dans vos parties. Ces encarts sont facilement repérables puisqu'ils sont séparés du texte principal par une ligne, et présentés sous trois colonnes[^1]. Référez-vous à ces informations si vous avez besoin de comprendre le "comment" ou le "pourquoi" de certaines règles.
 
-----
-
-FU: Free, Universal Roleplaying Game
-
-A game by Nathan Russell
-
-Art
-Jason Walton
-from Louis Porter Jr Design Image Portfolios
-
-Copyright © Nathan Russell, 2010
-
-This game was completed as part of NaGaDeMon.
-www.PerilPlanet.com/naga-demon
+[^1] Note du Traducteur: Cette précision concerne le livre originel. Il va de soi que ce "Gitbook" n'intègre pas la mise en page en trois colonnes.
