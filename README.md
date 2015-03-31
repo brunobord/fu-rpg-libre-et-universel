@@ -30,3 +30,16 @@ Considérons que cette version est la v1.0-BÊTA.
 - [ ] Le Narrateur
 - [ ] À la recherche du Temple de Tot
 - [ ] Annexes
+
+## Participer
+
+Pour toute remarque, suggestion, correction, (ou juste pour me faire plaisir)...
+plusieurs canaux :
+
+* si tu es *assez* geek, tu peux adresser une
+  [issue sur le projet Github](https://github.com/brunobord/fu-rpg-libre-et-universel)
+  qui est un clone du livre.
+* si tu es **très** geek, tu peux adresser une `pull-request` qui propose des
+  modifications ou des corrections.
+* si tu n'es *pas vraiment* geek, tu peux envoyer un e-mail à l'adresse suivante:
+  `bruno+fu@jehaisleprintemps.net`.
