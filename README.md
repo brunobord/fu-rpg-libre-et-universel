@@ -43,3 +43,7 @@ plusieurs canaux :
   modifications ou des corrections.
 * si tu n'es *pas vraiment* geek, tu peux envoyer un e-mail à l'adresse suivante:
   `bruno+fu@jehaisleprintemps.net`.
+
+## Copyright notice
+
+> This work is based on FU: The Freeform/Universal RPG (found at http://nathanrussell.net/fu), by Nathan Russell, and licensed for our use under the Creative Commons Attribution 3.0 Unported license (http://creativecommons.org/licenses/by/3.0/).
