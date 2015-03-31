@@ -9,9 +9,9 @@ Cette liste n'est en aucun cas exhaustive, mais c'est un bon départ. Chaque él
 * **Blond(e)**: les gens auront tendance à vous sous-estimer, en revanche c'est mauvais de rester trop longtemps au soleil.
 * **Bronzage orange artificiel**: il est plus facile de se faire passer pour une célébrité vieillissante et pour attirer l'attention.
 * **À fourrure / Poilu(e)**: utile pour résister aux grands froids ou vivre dans les bois.
-* **Beau (Belle)**: utile pour draguer, vendre, obtenir un rôle à la télévision, être top-model, populaire.
+* **Séduisant(e)**: utile pour draguer, vendre, obtenir un rôle à la télévision, être top-model, populaire.
 * **Gigantesque**: utile pour avoir l'air menaçant, atteindre les hauteurs, faire du body-building, ou se retrouver coincé dans un espace confiné.
-* **En surpoids**: c'est un problème pour faire de l'exercice ou emprunter des vêtements.
+* **Obèse**: c'est un problème pour faire de l'exercice ou emprunter des vêtements.
 * **Faible constitution**: un handicap pour la course de fond, résister aux dégâts, l'endurance, la récupération.
 * **Rapide**: un avantage pour sauter se mettre à couvert, les tours de passe-passe et les autres actions qui nécessitent de la vitesse.
 * **Griffes aiguisées comme des rasoirs**: parfait pour découper ses ennemis, trancher les légumes et éventuellement grimper aux arbres.

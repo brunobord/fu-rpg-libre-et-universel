@@ -1,14 +1,14 @@
 # Les personnages
 
-Dans FU, votre personnage est votre alter-ego. Pendant une histoire, vous décrivez ce que le personnage fait, comment il réagit aux situations, ou aux autres.
+Dans FU, votre personnage est votre alter-ego. Pendant une histoire, vous décrivez ce que le personnage fait, comment il réagit aux situations, ou comme il interagit avec les autres personnages.
 
 ## Concept
 
-Quand vous savez dans quel type d'univers ou quel genre d'aventures vous allez jouer, vous pouvez commencer à réfléchir à votre personnage. C'est le coeur de ce que sera votre personage, et il doit être résumé en quelques mots ou une phrase.
+Quand vous savez dans quel type d'univers ou quel genre d'aventures vous allez jouer, vous pouvez commencer à réfléchir à votre personnage. C'est le coeur de ce que sera votre personnage, et il doit être résumé en quelques mots ou une phrase.
 
 Le concept doit définir le type de personnage, ou son activité principale, comme "enquêteur du paranormal" ou "enfant prodige". Ou ce concept peut donner des indications sur sa personnalité, comme "noble sauvage" ou "professeur foldingue".
 
-Bien évidemment, le concept du personnage doit correspondre à l'univers choisi et au type d'aventures. Un "flic des rues" n'a pas sa place dans l'Angleterre médiévale, alors qu'un "Shérif du comté" sonnera plus juste. Inspirez-vous de l'environnement choisi pour votre personnage.
+Bien évidemment, le concept du personnage doit correspondre à l'univers choisi et au type d'aventures. Un "flic des rues" n'aura pas sa place dans l'Angleterre médiévale, alors qu'un "Shérif du comté" sonnera plus juste. Inspirez-vous de l'environnement choisi pour votre personnage.
 
 > À travers ce chapitre nous suivrons David et Nina lors de la création de leurs personnages. Avec Thomas, le Narrateur, ils ont décidé de jouer dans un univers inspiré des "pulps" des années 1930, et dans un ton mystérieux et plein d'action. David pense à ses films préférés et décide que le concept de son personnage sera "Explorateur intrépide". Nina a envie de jouer quelque chose de plus inhabituel, et après avoir discuté avec Thomas et David, elle décide que son personnage sera un "Ambassadeur Alien".
 
@@ -16,29 +16,29 @@ Bien évidemment, le concept du personnage doit correspondre à l'univers choisi
 
 Les Descripteurs sont des qualificatifs ou de très courtes expressions qui identifient les talents et les failles du personnage, les choses qui lui rendent la vie plus facile ou plus difficile et qui fait d'eux ce qu'ils sont. Ils indiquent les domaines dans lesquels les personnages sont bons, à travers leurs traits physiques et mentaux, et leurs capacités ou désavantages. Ce sont à la fois des guides concernant l'interprétation du personnage et des modificateurs pour les jets de dés.
 
-Les personnages ont quatre descripteurs : Corps, Esprit, Atout et Faille. Choisissez un qualificatif ou une phrase pour décrire les caractéristiques les plus pertinentes de votre personnage.
+Les personnages ont quatre Descripteurs : Corps, Esprit, Atout et Faille. Choisissez un qualificatif ou une phrase pour décrire les caractéristiques les plus pertinentes de votre personnage.
 
 > En pensant à son Explorateur intrépide, et tout ce qu'il a pu vivre dans sa vie, David a porté son choix sur les Descripteurs suivants :
 >
 >
-> Corps : Agile
-> Esprit : Équilibré
-> Atout : Maniement du fouet
-> Faille : A peur des hauteurs
+> **Corps** : Agile
+> **Esprit**: Équilibré
+> **Atout**: Maniement du fouet
+> **Faille** : A peur des hauteurs
 >
 >
 > Nina, inspirée par les classiques de la science-fiction a décidé d'utiliser les Descripteurs suivants pour son Ambassadeur Alien :
 >
-> Corps: Fragile
-> Esprit: Observatrice
-> Atout: Lit dans les pensées
-> Faille: Le point de vue Alien
+> **Corps** : Fragile
+> **Esprit** : Observatrice
+> **Atout** : Lit dans les pensées
+> **Faille** : Le point de vue Alien
 
 ### Exemples de Descripteurs
 
 Ceci n'est en aucun cas une liste exaustive, mais quelques idées pour vous aider. Chacun de ces Descripteurs est détaillé dans les Appendices.
 
-> **Corps**: Agile, Ambidextre, Blond(e), Couvert de fourrure, Bronzage orange factice, Séduisant(e), Gigantesque, Obèse, De faible constitution, Rapide, Griffes aiguisées comme des rasoirs, Petit(e), Lent(e), Fort(e), Grand(e), Élancé(e), Laid(e), Vigoureu(x)(se), Faible
+> **Corps**: Agile, Ambidextre, Blond(e), À fourrure / Poilu(e), Bronzage orange artificiel, Séduisant(e), Gigantesque, Obèse, Faible constitution, Rapide, Griffes aiguisées comme des rasoirs, Petit(e), Lent(e), Fort(e), Grand(e), Mince, Laid(e), Vigoureu(x)(se), Faible.
 >
 > **Esprit**: Perdu(e) dans ses pensées, Rat de bibliothèque, Génie de l'informatique, Gourde, Empathique, Concentré(e), Imaginati(f)(ve), Mathématicien(ne), Observat(eur)(trice), Lent(e), Illétré(e), Sage, Spirituel.
 >
