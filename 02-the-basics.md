@@ -1,14 +1,14 @@
 # Les bases
 
-FU est écrit avec comme prérequis qu'au moins un des joueurs est informé de ce qu'est le jeu de rôle et a au moins une vague idée de comment ils fonctionnent. Si vous n'avez aucune idée de ce qu'est un JdR, foncez trouver quelqu'un qui connaît.
+FU est écrit avec comme prérequis qu'au moins un des joueurs est au courant de ce qu'est le jeu de rôle et a au moins une vague idée de comment ils fonctionnent. Si vous n'avez aucune idée de ce qu'est un JdR, foncez trouver quelqu'un qui connaît.
 
 ## Vous aurez besoin de...
 
-Pour jouer à FU vous aurez besoin de quelques éléments matériels. Voici votre liste de courses :
+Pour jouer à FU vous aurez besoin d'un peu de matériel. Voici votre liste de courses :
 
-**Dés** : Des dés classiques à six faces sont utilisé pour résoudre les actions à FU. Il vous en faudra au moins un, mais il serait mieux que chaque joueur en ait environ trois. On fera souvent référence aux dés à six faces en utilisant le terme d6. Si un chiffre apparaît devant ce terme, (comme 2d6 ou 4d6), celui-ci indique le nombre de dés à lancer.
+**Dés** : Des dés classiques à six faces sont utilisés pour résoudre les actions à FU. Il vous en faudra au moins un, mais il serait mieux que chaque joueur en ait environ trois. On fera souvent référence aux dés à six faces en utilisant le terme d6. Si un chiffre apparaît devant ce terme, (comme 2d6 ou 4d6), celui-ci indique le nombre de dés à lancer.
 
-**Crayons et papier** : Les joueurs devront noter les détails de leurs personnages, prendre des notes à propos de leur mission, et toutes ces sortes de choses. Le Narrateur aura également besoin de prendre en note les différents éléments de son histoire.
+**Crayons et papier** : Les joueurs devront noter les informations sur leurs personnages, prendre des notes à propos de leur mission, et toutes ces sortes de choses. Le Narrateur aura également besoin de prendre en note les différents éléments de son histoire.
 
 **Papier brouillon** : Les Narrateurs pourront trouver utile d'avoir une réserve de feuilles de papier supplémentaire pour dessiner des plans ou des diagrammes, ou de garder une trace des événements de l'histoire. Un petit tableau blanc est également pratique pour ce genre de choses.
 
