@@ -219,15 +219,15 @@ Par exemple, le Seigneur Camden fait face aux hommes de main du Seigneur Kane. "
 
 Les points FU sont une ressource que vous pourrez dépenser pour augmenter les chances de succès de votre personnage pour une action. On peut les utiliser de deux manières :
 
-**Un dé de Bonus :** Dépensez un point de FU avant de lancer les dés pour ajouter un dé de bonus. C'est exactement comme un dé de bonus normal. Vous pouvez dépenser autant de points de FU que vous en avez, mais il faut qu'ils soient annoncés au même moment.
+**Un dé de Bonus :** Dépensez un point de FU avant de lancer les dés pour ajouter un dé de bonus. Il est considéré exactement comme un dé de bonus normal. Vous pouvez dépenser autant de points de FU que vous en avez, mais il faut qu'ils soient annoncés au même moment.
 
 **Relancer :** Dépenser un point de FU après votre jet de dé vous permet de relancer un seul dé. Le second résultat est conservé - on ne peut pas relancer une relance. Vous pouvez relancer autant de dés qu'il vous reste de points de FU, mais vous devez annoncer ces relances au même moment, en une seule fois.
 
 Vous pouvez dépenser plusieurs points de FU pour une unique action en cumulant les effets. Il est permis de dépenser un point de FU pour ajouter un dé de bonus avant le jet, et un autre pour relancer un dé après coup.
 
-> De retour au quartier général, le Captaine Vance essaie de convaincre le Général Wallace de lui confier le commandement de l'artillerie. Vance n'a pas trop d'atouts l'aider dans cette situation, en terme de Descripteurs, aussi il décide de dépenser deux points de FU pour ce jet. En plus de son dé de base, il lance donc deux dés de bonus, pour un score de 1, 1 et 3. Loin d'être satisfait, il dépense un dernier point de FU pour une relance. Il choisit un des "1" et relance son dé.
+> De retour au quartier général, le Captaine Vance essaie de convaincre le Général Wallace de lui confier le commandement de l'artillerie. Vance n'a pas trop d'atouts pour l'aider dans cette situation, en terme de Descripteurs, aussi il décide de dépenser deux points de FU pour ce jet. En plus de son dé de base, il lance donc deux dés de bonus, pour un score de 1, 1 et 3. Loin d'être satisfait, il dépense un dernier point de FU pour une relance. Il choisit un des "1" et relance son dé.
 
-**Récupérer des points de FU  :** Ces points peuvent être récupérés en jeu en accomplissant de belles actions ou en incarnant à la perfection votre rôle. Quand vous faites une action qui impose le silence et que tout le monde fait "Ouaaah !", ou que vous faites rire par votre caricature, ou toute autre situation qui pourrait être récompensée, vous gagnez un point de FU.
+**Récupérer des points de FU :** Ces points peuvent être récupérés en jeu en accomplissant de belles actions ou en incarnant à la perfection votre rôle. Quand vous faites une action qui impose le respect et que tout le monde fait "Ouaaah !", ou que vous faites rire par votre caricature, ou toute autre situation qui pourrait être récompensée, vous gagnez un point de FU.
 
 ----
 
@@ -241,14 +241,13 @@ C'est à vous de voir avec votre groupe. La règle par défaut dit "non", mais..
 
 ### Les Narrateurs ont-ils droit à des points de FU ?
 
-Normalement, non, mais on peut allouer entre un et trois points à un méchant spécialement puissant, ou à un monstre.
+Normalement, non, mais on peut allouer entre un et trois points à un méchant particulièrement puissant, ou à un monstre.
 
 ### Autres moyens pour gagner des FU
 
 Vous pouvez choisir de changer le moyen de gagner des points de FU. Vous pourriez les gagner en tuant des monstres, en achevant un des buts de votre personnage, ou en lançant un multiple 1 ou un multiple 6.
 
-C'est un bon outil pour changer le ton ou le style du jeu. Si vous voulez faire de l'exploration de donjon, récompensez les joueurs quand ils tuent un monstre. Vous êtes plongé dans une curelle dystopie ? Attribuez des points de FU quand les personnages perdent leur partie contre leur Ennemi. Décidez si ce sont les seuls moyens de gagner du FU ou s'ils s'ajoutent aux récompenses habituelles. Cette décision aura aussi un effet dramatique sur le ton de la partie. Regardez ce que vous voulez en faire.
-
+C'est un bon outil pour changer le ton ou le style du jeu. Si vous voulez faire de l'exploration de donjon, récompensez les joueurs quand ils tuent un monstre. Vous êtes plongé dans une cruelle dystopie ? Attribuez des points de FU quand les personnages perdent leur bataille contre leur Ennemi. Décidez si ce sont les seuls moyens de gagner du FU ou s'ils s'ajoutent aux récompenses habituelles. Cette décision aura aussi un effet dramatique sur le ton de la partie. Choisissez ce que vous voulez en faire.
 
 ### Autres moyens de dépenser du FU
 
@@ -266,11 +265,11 @@ En dépensant un point de FU, vous pouvez relancer tous vos dés. C'est tout ou 
 
 On peut dépenser un point de FU pour augmenter ou diminuer le résultat obtenu d'un point. Cette option est plus fiable qu'une relance parce qu'elle peut changer un "non" en "oui". Si vous utilisez cette variante, la relance classique peut être ignorée.
 
-#### Utiliser une possession
+#### Utiliser un équipement
 
 En dépensant un point de FU, vous pourrez transformer un élément d'équipement simple en Matériel pour la durée de la scène.
 
-#### Prouesses et Pouvoire
+#### Prouesses et Pouvoirs
 
 Donnez des capacités spéciales à vos personnages, ou des pouvoirs qui ne peuvent être utilisées qu'en dépensant un point de FU. Ils doivent être plus puissants que des Descripteurs - faites-en des outils surpuissants, capables de passer outre une règle, comme la capacité de voler, de lire les esprits ou de se téléporter, par exemple.
 
@@ -298,7 +297,7 @@ Quand vous devez résoudre un conflit ou accomplir une action, posez une questio
 
 +1 dé de bonus pour chaque Descripteur, Matériel, Détail ou Condition ou autre chose qui rende l'action plus facile.
 
-+1 dé de pénalité pour chaque Descripteur, Matériel, Détail, Condition ou autre chose qui rend l'action plus difficile.
++1 dé de pénalité pour chaque Descripteur, Matériel, Détail, Condition ou autre chose qui rende l'action plus difficile.
 
 ### 5 Lancez
 
@@ -308,5 +307,6 @@ Lancez tous vos dés. Le résultat est celui du meilleur dé (si vous lancez un 
 
 Utilisez le dé de résultat pour décrire l'issue de l'action ou du conflit. Appliquez une Condition ou un Détail si nécessaire.
 
+----
 
 [^1] NdT: même remarque qu'au chapitre "Les bases".
