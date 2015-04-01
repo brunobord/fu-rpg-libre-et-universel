@@ -174,11 +174,11 @@ Les Détails peuvent avoir des effets instantanés ou sur la durée, en fonction
 
 ## Modificateurs
 
-Certaines circonstances, matériels et compétences, peuvent vous rendre la vie plus facile ou plus difficile. Les modificateurs changent le nombre de dés que vous aurez à lancer.
+Certaines circonstances, matériels et compétences peuvent vous rendre la vie plus facile ou plus difficile. Les modificateurs changent le nombre de dés que vous pourrez lancer.
 
-**Rendre plus facile** : Lancez un dé supplémentaire pour chaque Descripteur, Matériel, Condition ou Détail qui fournit un avantage sur l'action à effectuer. Le résultat le plus avantageux sera retenu, au choix du joueur.
+**Rendre plus facile** : Lancez un dé supplémentaire pour chaque Descripteur, Matériel, Condition ou Détail qui fournit un avantage pour l'action à effectuer. Le résultat le plus avantageux sera retenu, au choix du joueur.
 
-> Dans les bois, Sire Camden essaie de traquer le Seigneur Kane. Vous soulignez que le chevalier est un **bon chasseur**, ce qui donne un d6 supplémentaire. Après avoir lancé 2d6, vous obtenez 5 et 4. Le joueur décide de garder le 4 et il conclut qu'après un petite recherche Sire Camden retrouve la trace du Seigneur Kane et la suit vers une citadelle sinistre...
+> Dans les bois, Sire Camden essaie de traquer le Seigneur Kane. Vous soulignez que le chevalier est un **bon chasseur**, ce qui donne un d6 supplémentaire. Après avoir lancé 2d6, vous obtenez 5 et 4. Le joueur décide de garder le 4 et il conclut qu'après un petite recherche Sire Camden retrouve la trace du Seigneur Kane et elle mène à une citadelle lugubre...
 
 **Rendre plus difficile** : Lancez un dé supplémentaire pour chaque Descripteur, Matériel, Condition ou Détail qui rend l'action plus difficile. Le résultat se lit sur le plus mauvais dé.
 
@@ -186,7 +186,7 @@ Certaines circonstances, matériels et compétences, peuvent vous rendre la vie 
 
 **Annulation des effets** : Un dé de bénéfice annule un dé de malus, aussi vous ne lancerez jamais un dé "négatif" et un "positif" au même moment.
 
-> Plus tard dans sa quête, Sire Camden doit escalader un paroi **très raide** (-). Le chevalier est **fort** (+) et possède une corde (+). En conclusion, il n'ya qu'un seul dé de bonus (la difficulté de la paroi et la force du personnage s'annulent, ce qui laisse la corde). Vous lancerez 2d6.
+> Plus tard dans sa quête, Sire Camden doit escalader une paroi **très raide** (-). Le chevalier est **fort** (+) et possède une corde (+). En conclusion, il n'ya qu'un seul dé de bonus (la difficulté de la paroi et la force du personnage s'annulent, ce qui laisse la corde). Vous lancerez 2d6.
 
 -----
 
@@ -196,20 +196,20 @@ Le Capitaine Vance, est lancé à pleine vitesse dans la jeep, quand soudain un 
 
 ### Pour les autres types de jets de dés ?
 
-Il n'y a pas de "jet d'opposition" ou de "jets de dommage" dans FU. Le jet de dés pour "ne pas faire d'impair" est le seul genre de lancer utilisé en jeu, que vous deviez conduire une voiture au milieu d'une galerie marchande, combattre un géant à mains nues ou d'ignorer la blessure causée par une balle perdue.
+Il n'y a pas de "jet d'opposition" ou de "jets de dommage" dans FU. Le jet de dés pour "ne pas faire d'impair" est le seul genre de lancer utilisé en jeu, que vous deviez conduire une voiture au milieu d'une galerie marchande, combattre un géant à mains nues ou ignorer la blessure causée par une balle perdue.
 
 
 ### Comment est-ce que les actions "en opposition" fonctionnent ?
 
-Pour commencer, seuls les joueurs lancent les dés. Il faut rassembler tous les bonus (+) et les malus (-) applicables au personnage. Puis il faut ajouter tous les facteurs applicables à l'opposant et les intégrer au jet de dés. Est-ce que l'opposant est faible ? Vous avez un dé de bonus. Est-ce un champion du monde de catch ? On rajoute un dé de malus. Et ainsi de suite, jusqu'à ce que tout soit intégré. Quand vous avez réduit les dés pour connaître le nombre à lancer, allez-y. En cas de résultat pair, vous gagnez le duel. Si le résultat est impair, votre adversaire a l'avantage.
+Pour commencer, seuls les joueurs lancent les dés. Il faut rassembler tous les bonus (+) et les malus (-) applicables au personnage. Puis il faut ajouter tous les facteurs applicables à l'opposant et les intégrer au jet de dés. Est-ce que l'opposant est faible ? Vous avez un dé de bonus. Est-ce un champion du monde de catch ? On rajoute un dé de malus. Et ainsi de suite, jusqu'à ce que tout soit intégré. Quand vous avez réduit les dés pour en connaître le nombre à lancer, allez-y. En cas de résultat pair, vous gagnez le duel. Si le résultat est impair, votre adversaire a l'avantage.
 
 ### Ajuster votre action
 
-Les combats à l'épée, les débats politiques, les courses spatiales, les guerres internationales, les disputes et les duels au révolver sont résolues par ces jets de dés. Pour ajuster vos actions, la clé réside dans la question à laquelle vous essayez de répondre par votre jet de dés. Vous pouvez vivre un combat à l'épée palpitant et vous échanger coups pour coups en plusieurs "Est-ce que je touche le Comte de Montief ?". Mais vous pourrez aussi réduire ce combat à un seul jet en demandant : "Est-ce que je triomphe du Comte de Montief dans ce duel ?". Ou passer encore à un niveau supérieur en demandant : "Est-ce que mes hommes et moi arrivons à prendre possession du château du Comte de Montief ?". À vous d'ajuster comme il vous semble !
+Les combats à l'épée, les débats politiques, les courses spatiales, les guerres internationales, les disputes et les duels au révolver sont résolues par ces jets de dés. Pour ajuster vos actions, la clé réside dans la question à laquelle vous essayez de répondre par votre jet de dés. Vous pouvez vivre un combat à l'épée palpitant et vous échanger coups pour coups en plusieurs "Est-ce que je touche le Comte de Montief ?". Mais vous pourrez aussi réduire ce combat à un seul jet en demandant : "Est-ce que je triomphe du Comte de Montief dans ce duel ?". Ou passer encore à un niveau supérieur en demandant : "Est-ce que mes hommes et moi arrivons à prendre possession du château du Comte de Montief ?". À vous d'ajuster comme bon vous semble !
 
 ### Option : grouper les dés !
 
-Si vous lancez des doubles ou des triples (ou des quadruples), ils peuvent encore améliorer ou empirer votre jet. Si le résultat des dés a une combinaison, ses effets s'accentueront. Vous pourrez ajouter un "et..." pour chaque dé qui correspond. Si l'action est un échec, elle sera pire. Si c'est un succès, chaque ajout rendra l'action encore plus brillante.
+Si vous lancez des doubles ou des triples (ou des quadruples), ils peuvent encore améliorer ou empirer votre jet. Si le résultat des dés est une combinaison, ses effets s'accentueront. Vous pourrez ajouter un "et..." pour chaque dé qui correspond. Si l'action est un échec, elle sera pire. Si c'est un succès, chaque ajout rendra l'action encore plus brillante.
 
 Par exemple, le Seigneur Camden fait face aux hommes de main du Seigneur Kane. "Est-ce que Sire Camden arrive a vaincre ces hommes ?". Il est blessé et en sous-nombre, aussi il doit lancer deux dés de pénalité. Son score est de 3, 3 et 2. Il faut prendre le pire résultat : le double 3 ! Normalement, ce devrait être un "**Non...**", mais le double 3 le transforme en "**Non, et...**". S'il avait été triplé, le résultat aurait été "**Non, et... et...**" !
 
