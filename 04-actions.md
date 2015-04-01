@@ -46,9 +46,9 @@ Les tours sont des règles optionnelles de la gestion du temps, ce qui est utile
 
 Quand un personnage tente une action dont l'issue n'est pas immédiatement et/ou compètement évidente, vous devez lancer les dés.
 
-Pour résoudre l'action, lancez un d6. Votre objectif est de ne "pas faire d'impair" en obtenant un score pair. Plus le chiffre est haut, meilleur est le résultat. Si vous obtenez un nombre impair, l'action a échoué, ou n'est pas aussi réussie qu'on l'attendait. Plus le chiffre est bas, pire est le résultat. Il y a un tableau ci-dessous pour illustrer cette idée.
+Pour résoudre l'action, lancez un d6. Votre objectif est de ne "pas faire d'impair"[^1] en obtenant un score pair. Plus le chiffre est haut, meilleur est le résultat. Si vous obtenez un nombre impair, l'action a échoué, ou n'est pas aussi réussie qu'on l'attendait. Plus le chiffre est bas, pire est le résultat. Il y a un tableau ci-dessous pour illustrer cette idée.
 
-Le fait de devoir vaincre les probabilités est au coeur de FU. Mais si la plupart du temps les nombres pairs sont des succès et les impairs sont décevants, c'est la situation qui confirmera la nature du résultat. Il se peut qu'un résultat de 1 n'indique pas forcément un échec total, mais peut-être un succès avec une marge de manoeuvre minimale.
+Le fait de devoir vaincre les probabilités est au coeur de FU. Mais si la plupart du temps les nombres pairs sont des succès et les impairs sont décevants, c'est la situation qui confirmera la nature du résultat. Il se peut qu'un résultat de 1 n'indique pas forcément un échec total, mais peut-être un succès avec une marge de manoeuvre minime.
 
 
 > Nous suivons les tribulations de deux personnages évoluants dans deux univers différents dans ce chapitre :
@@ -72,7 +72,7 @@ Le fait de devoir vaincre les probabilités est au coeur de FU. Mais si la plupa
 
 FU utilise des questions à choix multiples pour aider à résoudre une action. On ne répond à une question fermée que par un "oui" ou un "non". Quand vous atteignez une situation qui doit être résolue par un jet de dés, proposez une question fermée : "Est-ce que je saute au-dessus du gouffre ?", "Est-ce que je cogne cet imbécile sur le nez ?", "Est-ce la jolie serveuse de la taverne va succomber à mon charme et mon sourire ?". Le jet de dé donnera la réponse à la question et vous guidera.
 
-Souvent vous n'aurez pas besoin de poser la question de manière explicite - elle sera évidente à partir de l'action tentée : "tu prends ton élan et tu sautes depuis le rebord du gouffre. Lance le dé."
+Souvent vous n'aurez pas besoin de poser la question de manière explicite - elle apparaîtra évidente en fonction de l'action tentée : "tu prends ton élan et tu sautes depuis le rebord du gouffre. Lance le dé."
 
 ### Questions alternatives
 
@@ -122,11 +122,11 @@ Quand vous tentez une action, vous posez la question : "Est-ce que mon personnag
 >
 > Non, et...
 
-*Oui* and *Non* sont assez simples à comprendre - ils vous disent si l'action tentée est réussie ou non. Le *et* et le *mais* sont des qualificatifs qui infléchissent le niveau de l'échec et du succès. Quand vous obtenez un qualificatif vous avez un élément supplémentaire pour comprendre en quoi l'action a succédé ou échoué. Cet élément supplémentaire peut ajouter une Condition ou un Détail à propos de la scène.
+*Oui* and *Non* sont assez simples à comprendre - ils vous disent si l'action tentée est réussie ou non. Le *et* et le *mais* sont des qualificatifs qui infléchissent le niveau de l'échec et du succès. Quand vous obtenez un qualificatif vous avez un élément supplémentaire pour comprendre en quoi l'action a réussi ou échoué. Cet élément supplémentaire peut ajouter une Condition ou un Détail à propos de la scène.
 
-**Conditions**: Ce sont des effets physiques, mentaux ou sociaux qui changent le comportement d'un personnage ou influent ses chances de tenter une action.Les Conditions comprennent les termes *en colère*, *sonné*, *fatigué* and *inconscient*. Certains d'entre eux sont listés sur la feuille de personnage de FU, mais il y a des emplacements pour que vous puissiez intégrer les vôtres.
+**Conditions**: Ce sont des effets physiques, mentaux ou sociaux qui changent le comportement d'un personnage ou influent ses chances de tenter une action. Les Conditions comprennent les termes *en colère*, *sonné*, *fatigué* ou *inconscient*. Certains d'entre eux sont listés sur la feuille de personnage de FU, mais il y a des emplacements pour que vous puissiez intégrer les vôtres.
 
-**Détails**: Ce sont les caractéristiques de l'environnement ou de la scène qui peut influer sur le résultat d'une action. Un Détail peut se manifester par un rideau qui prend feu, une fenêtre qui se brise, un animal qui fuit, ou un moteur qui cale. Les Détails sont toujours liés intimement à la scène ou l'action en cours.
+**Détails**: Ce sont les caractéristiques de l'environnement ou de la scène qui peuvent influer sur le résultat d'une action. Un Détail peut se manifester par un rideau qui prend feu, une fenêtre qui se brise, un animal qui fuit, ou un moteur qui cale. Les Détails sont toujours liés intimement à la scène ou l'action en cours.
 
 ----
 
@@ -142,9 +142,9 @@ Quand vous tentez une action, vous posez la question : "Est-ce que mon personnag
 
 **Oui, mais** Sire Camden est désorienté et temporairement **confus**. C'est une Condition à infliger au personnage.
 
-**Non, mais** il repère une ouverture dans la haie plus loin. Ce Détail donne au personnage une opportunité pour continuer sa poursuite.
+**Non, mais** il repère une ouverture dans la haie plus loin. Ce Détail offre au personnage une opportunité pour continuer sa poursuite.
 
-**Non**, le cheval refuse l'obstacle. Il n'y a pas de et/mais, donc aucune Condition ou Détail est ajouté.
+**Non**, le cheval refuse l'obstacle. Il n'y a pas de et/mais, donc aucune Condition ou Détail n'est ajouté.
 
 **Non, et** son cheval rue, le projetant au sol, ce qui lui inflige une **blessure**. C'est une Condition.
 
@@ -156,9 +156,9 @@ Le Narrateur a toujours le dernier mot concernant la Condition ou le Détail à 
 
 ### Quand utiliser les Conditions ?
 
-Comme tous les qualificatifs, tout dépend de la situation. Dans les exemples précédents les Conditions sont imposées au joueur courant quand les événements ne se déroulent pas comme il le pensait (**Oui, mais / Non, et**). Les Conditions peuvent rendre la vie du personnage un petit peu plus difficile à cause d'un succès trop léger ou d'un échec cuisant.
+Comme tous les qualificatifs, tout dépend de la situation. Dans les exemples précédents, les Conditions sont imposées au joueur courant quand les événements ne se déroulent pas comme il le pensait (**Oui, mais / Non, et**). Les Conditions peuvent rendre la vie du personnage un petit peu plus difficile à cause d'un succès trop léger ou d'un échec cuisant.
 
-Vous pouvez aussi utiliser les Conditions à la cible d'une action, quand les événements se déroulent bien pour les personnages. Si vous débattez avec un bureaucrate et obtenez un **Oui, et**, vous pouvez imposer une Condition **confus** à votre opposant. Si vous essayez de semer un ennemi et que vous obtenez un **Non, mais**, peut-être que votre poursuivant vous rattrape, mais vous pouvez aussi lui infliger une Condition **fatigué**. En applicant ces Conditions vous donnerez une chance supplémentaire au personnage dans la suite de la scène.
+Vous pouvez aussi appliquer les Conditions à la cible d'une action, quand les événements se déroulent bien pour les personnages. Si vous débattez avec un bureaucrate et obtenez un **Oui, et**, vous pouvez imposer une Condition **confus** à votre opposant. Si vous essayez de semer un ennemi et que vous obtenez un **Non, mais**, peut-être que votre poursuivant vous rattrape, mais vous pouvez aussi lui infliger une Condition **fatigué**. En appliquant ces Conditions vous donnerez une chance supplémentaire au personnage dans la suite de la scène.
 
 ### Quand utiliser les Détails ?
 
@@ -168,7 +168,7 @@ Les Détails s'appliquent souvent quand le personnage qui agit obtient un avanta
 
 "Est-ce que j'arrive à me balancer au travers de la pièce à l'aide du chandelier ?" "**Oui, mais** une bougie en tombe et met le feu à la taverne."
 
-Les Détails peuvent avoir des effets instantanés ou sur la durée, en fonction des circonstances. Un passage dans la haie peut être immédiatement utilisé pour continuer la poursuite ; une taverne en feu reste un événement sans importance jusqu'à ce que le feu se propage !
+Les Détails peuvent avoir des effets instantanés ou sur la durée, en fonction des circonstances. Un passage dans la haie peut être immédiatement utilisé pour continuer la poursuite ; une taverne qui prend feu reste un événement sans importance jusqu'à ce que le feu se propage !
 
 ----
 
@@ -307,3 +307,6 @@ Lancez tous vos dés. Le résultat est celui du meilleur dé (si vous lancez un 
 ### 6 Décrivez le résultat
 
 Utilisez le dé de résultat pour décrire l'issue de l'action ou du conflit. Appliquez une Condition ou un Détail si nécessaire.
+
+
+[^1] NdT: même remarque qu'au chapitre "Les bases".
