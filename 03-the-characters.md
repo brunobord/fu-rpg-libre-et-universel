@@ -51,7 +51,7 @@ Ceci n'est en aucun cas une liste exaustive, mais donne quelques idées pour vou
 
 ### Les clichés sont vos amis !
 
-Il est vraiment acceptable d'user de clichés quand on conçoit son concept. Les clichés renferment des idées et des concepts avec lesquels on se sent immédiatement à l'aise. Quand quelqu'un dit que son personnage est un barbare, on se l'imagine automatiquement très musclé, et sans manières. Utiliser les clichés est une sorte de raccourci pour décrire votre personnage.
+Il est tout à fait acceptable d'user de clichés quand on conçoit son concept. Les clichés sont porteurs d'idées et des concepts avec lesquels on se sent immédiatement à l'aise. Quand quelqu'un dit que son personnage est un barbare, on se l'imagine automatiquement très musclé, et sans éducation. Utiliser les clichés est une sorte de raccourci pour décrire votre personnage.
 
 #### Choisir ses Descripteurs
 
@@ -69,17 +69,17 @@ Chaque Descripteur est une partie intégrante et innée du personnage. Ils ne pe
 
 #### La finitude des Descripteurs
 
-Chaque Descripteur doit avoir un ou deux cas d'utilisation spécifiques. Il peut aussi être utilisable dans des circonstances imprévues, mais vous découvrirez ces usages pendant le jeu. **Médecine** est un meilleur Descripteur que **Docteur**, par exemple, parce que le second peut avoir un grand nombre d'utilisation dans un domaine non-médical ("En tant que Docteur, je suis bien éduqué et fortuné...")
+Chaque Descripteur doit avoir un ou deux cas d'utilisation spécifiques. Il peut aussi être utilisable dans des circonstances imprévues, mais vous découvrirez ces usages pendant le jeu. **Médecine** est un meilleur Descripteur que **Docteur**, par exemple, parce que le second peut avoir un grand nombre d'utilisations dans un domaine non-médical (*"En tant que Docteur, je suis bien éduqué et fortuné..."*)
 
 #### De quelle sorte de Descripteur s'agit-il ?
 
-Certains Descripteurs peuvent facilement entrer dans plus d'une catégorie - **Bonne mémoire** peut être un Descripteur d'Esprit ou d'Atout ; **Laid(e)** peut être une Faille ou un Descripteur de Corps. Pas de problème. C'est à vous de choisir, entre le Narrateur et les autres joueurs de dire si un Descripteur est adapté ou pas aux histoires que vous allez raconter.
+Certains Descripteurs peuvent facilement entrer dans plus d'une catégorie ; **Bonne mémoire** peut être un Descripteur d'Esprit ou d'Atout ; **Laid(e)** peut être une Faille ou un Descripteur de Corps. Pas de problème. C'est à vous de choisir, à charge pour le Narrateur et les autres joueurs de dire si un Descripteur est adapté ou pas aux histoires que vous allez raconter.
 
-#### Qu'est-ce qui fait un bon Atout & Faille ?
+#### Qu'est-ce qui fait un bon Atout ou une bonne Faille ?
 
 Les choses qu'on appelle "talents", ou "spécialités" ou "avantages" dans les autres jeux font de très bon Atouts ; comme "**combattre à l'épée**", "**respirer sous l'eau**" ou "**un sourire ravageur**".
 
-Les meilleures Failles sont des traits de personnalité ou des incapacités physiques. Par exemple, **sent toujours mauvais** ou **sourd(e)** est un meilleur choix que **ne sait pas conduire** ou **ne parle pas français**. Évidemment, il y a des exceptions. Si le personnage est un espion Britannique pendant les guerres Napoléoniennes, ne pas connaître le français peut être un vrai handicap. De même, la Faille **ne sait pas nager** est tout à fait appropriée dans un univers de pirates et de combats navals. Essayez de trouver des situations où il faudra mettre votre personnage au défi, ajoutez du piment au jeu, et proposez-lui des obstacles à surpasser.
+Les meilleures Failles sont des traits de personnalité ou des incapacités physiques. Par exemple, **sent toujours mauvais** ou **sourd(e)** est un meilleur choix que **ne sait pas conduire** ou **ne parle pas français**. Évidemment, il y a des exceptions. Si le personnage est un espion Britannique au temps des guerres Napoléoniennes, ne pas connaître le français peut être un vrai handicap. De même, la Faille **ne sait pas nager** est tout à fait appropriée dans un univers de pirates et de combats navals. Essayez de trouver des situations où il faudra mettre votre personnage au défi, ajoutez du piment au jeu, et proposez-lui des obstacles à surmonter.
 
 #### Dois-je me spécialiser ?
 
