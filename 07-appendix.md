@@ -32,46 +32,46 @@ Cette liste n'est en aucun cas exhaustive, mais c'est un bon départ. Chaque él
 * **Génie de l'informatique**: savoir programmer, réparer son ordinateur portable, et se jeter à corps perdu dans une guerre de religion entre PC et Apple.
 * **Simple d'esprit**: problématique pour comprendre les blagues, comprendre une astuce ou tenir son rang en société.
 * **Empathique**: apte à lire les émotions, évaluer la psychologie d'une personne et comment réconforter les gens en détresse.
-* **Concentré**: savoir-être appliqué dans ses tâches, ne pas être distrait, et garder son sérieux.
-* **Pensée oblique**: pratique pour résoudre des énigmes ou des problèmes, en gardant une approche originale ou inattendue.
-* **Mathématicien**: intéressant pour faire des additions, résoudre des équations et remplir sa feuille d'impôts.
-* **Observateur**: repérer les indices cachés, noter les détails, jouer à "où est Charlie ?" ou déchiffrer le langage gestuel.
-* **Orateur**: savoir s'exprimer en public, débattre et convaincre les gens de se rallier à votre point de vue.
-* **Lent**: pénible quand il faut comprendre un plan d'attaque, ou apprendre de nouvelles choses.
-* **Tacticien**: faire des plans de bataille, se souvenir des hauts faits militaires de l'Histoire et citer Sun-Tsu.
-* **Sans éducation**: difficultés pour lire, calculer, se souvenir des dates importantes de l'Histoire et passer des examens scolaires.
+* **Concentré(e)**: savoir-être appliqué dans ses tâches, ne pas être distrait, et garder son sérieux.
+* **Imaginati(f)(ve)**: pratique pour résoudre des énigmes ou des problèmes, en gardant une approche originale ou inattendue.
+* **Mathématicien(ne)**: intéressant pour faire des additions, résoudre des équations et remplir sa feuille d'impôts.
+* **Observat(eur)(trice)**: repérer les indices cachés, noter les détails, jouer à "où est Charlie ?" ou déchiffrer le langage gestuel.
+* **Éloquent(e)**: savoir s'exprimer en public, débattre et convaincre les gens de se rallier à votre point de vue.
+* **Lent(e)**: pénible quand il faut comprendre un plan d'attaque, ou apprendre de nouvelles choses.
+* **Tacticien(ne)**: faire des plans de bataille, se souvenir des hauts faits militaires de l'Histoire et citer Sun-Tsu.
+* **Illétré(e)**: difficultés pour lire, calculer, se souvenir des dates importantes de l'Histoire et passer des examens scolaires.
 * **Sage**: capable de citer des proverbes, donner des conseils, associer deux indices apparemment sans relation, interpréter les réactions des gens, et dire "Je te l'avais bien dit".
-* **Spirituel**: savoir faire des commentaires légers, charmer ou amuser, et toujours avoir le dernier mot.
+* **Spirituel(le)**: savoir faire des commentaires légers, charmer ou amuser, et toujours avoir le dernier mot.
 
 ## Descripteurs d'Atout
 
 * **Acrobate**: pour intégrer un cirque, sauter par-dessus une fosse ou faire des saltos impressionnants.
-* **Connaissance des arcanes**: savoir identifier des artefacts mystiques, reconnaître la présence d'une magie maléfique, lire des parchemins antiques.
+* **Connaissance occultes**: savoir identifier des artefacts mystiques, reconnaître la présence d'une magie maléfique, lire des parchemins antiques.
 * **Courage**: utile en présence d'un danger, pour avouer à votre épouse que vous avez oublié votre anniversaire de mariage ou tenter d'autres actes héroïques.
 * **Conduite**: faire des courses automobiles, des poursuites en voiture ou passer votre permis.
 * **Escrime**: combattre à l'épée ou toute autre forme de combat en mêlée entre gens de bonne tenue.
 * **Bonne mémoire**: pratique pour se souvenir du nom et des visages des gens, des indices vitaux ou des formules mathématiques.
-* **Chasseur**: savoir pister ou prendre en filature, savoir se camoufler efficacement, et connaître le cri d'un rhinocéros en colère.
+* **Chasse**: savoir pister ou prendre en filature, savoir se camoufler efficacement, et connaître le cri d'un rhinocéros en colère.
 * **Vue perçante**: y voir à grande distance ou agir sans gêne à la lueur nocturne.
 * **Linguistique**: savoir parler une langue étrangère (ou plusieurs) et être plus à l'aise pour communiquer avec les autres.
 * **Magie**: connaître les arts occultes, jeter des sorts ou faire des numéros de prestidigitation.
 * **Médecine**: faire des opérations chirurgicales, diagnostiquer une maladie ou administrer les premiers soins.
 * **Morsure féroce**: arriver à blesser salement quelqu'un au combat, se mordre le bras ou gagner à un concours de mangeage de flamby.
 * **Riche**: pouvoir acheter des voitures de sport luxueuses, être invité à des fêtes ultra-select, avoir les moyens de corrompre les gens influents.
-* **Lutte**: pour se battre sans arme, et clouer un adversaire au sol.
+* **Bagarre**: pour se battre sans arme, et clouer un adversaire au sol.
 
 ## Descripteurs de Faille
 
 * **Aveugle**: très gênant pour toutes les tâches qui requièrent d'y voir, comme tirer au fusil, se déplacer dans un endroit inconnu, ou peindre.
-* **Courageux**: courir au devant d'un danger mortel, agir inconsidérément, et plonger plus encore dans le pétrin.
-* **Maladroit**: problématique pour transporter un vase de valeur, visiter un magasin d'antiquités ou traverser une pièces remplie de farces et attrapes.
+* **Téméraire**: courir au devant d'un danger mortel, agir inconsidérément, et plonger plus encore dans le pétrin.
+* **Maladroit(e)**: problématique pour transporter un vase de valeur, visiter un magasin d'antiquités ou traverser une pièces remplie de farces et attrapes.
 * **Cupide**: gênant quand il faut résister à l'envie de voler ou mentir dans le but de conserver ou gagner plus de richesses.
 * **Appearance inhumaine**: impossible de passer inaperçu, d'éviter l'attention ou trouver un pantalon qui sied à sa corpulence.
 * **Unijambiste**: difficile de courir, escalader ou toute autre action qui implique de se déplacer sans ses prothèses ou une chaise roulante.
-* **Âgé**: un problème pour avoir l'air cool, grimper à l'escalier, utiliser un ordinateur ou être optimiste concernant son état de santé.
+* **Âgé(e)**: un problème pour avoir l'air cool, grimper à l'escalier, utiliser un ordinateur ou être optimiste concernant son état de santé.
 * **Pauvre**: problématique pour s'acheter à manger ou pour se vêtir ou s'incruster dans une fête select.
-* **Vue basse**: compliqué pour essayer de reconnaître une personne ou une chose, conduire la nuit, ou repérer des indices visuels.
-* **Primitif**: une gêne pour utiliser un téléphone mobile, conduire une voiture, sonner à une porte ou interagir de manière civilisée en société.
-* **Malodorant**: difficile d'impressionner les gens, ou passer inaperçu auprès de traqueurs ou d'animaux féroces à votre poursuite.
-* **Recherché**: on n'arrête d'être embêté à tout bout de champ, et c'est plus difficile de rentrer chez soi sans ennui.
+* **Myope**: compliqué pour essayer de reconnaître une personne ou une chose, conduire la nuit, ou repérer des indices visuels.
+* **Primiti(f)(ve)**: une gêne pour utiliser un téléphone mobile, conduire une voiture, sonner à une porte ou interagir de manière civilisée en société.
+* **Puant(e)**: difficile d'impressionner les gens, ou passer inaperçu auprès de traqueurs ou d'animaux féroces à votre poursuite.
+* **Recherché(e)**: on n'arrête d'être embêté à tout bout de champ, et c'est plus difficile de rentrer chez soi sans ennui.
 * **Jeune**: problématique pour entrer en boîte, être pris au sérieux par les adultes, sêcher l'école ou voir au-dessus du volant quand on conduit.

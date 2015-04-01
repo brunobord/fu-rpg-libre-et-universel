@@ -36,15 +36,15 @@ Les personnages ont quatre Descripteurs : Corps, Esprit, Atout et Faille. Choisi
 
 ### Exemples de Descripteurs
 
-Ceci n'est en aucun cas une liste exaustive, mais quelques idées pour vous aider. Chacun de ces Descripteurs est détaillé dans les Appendices.
+Ceci n'est en aucun cas une liste exaustive, mais donne quelques idées pour vous aider. Chacun de ces Descripteurs est détaillé dans les Appendices.
 
 > **Corps**: Agile, Ambidextre, Blond(e), À fourrure / Poilu(e), Bronzage orange artificiel, Séduisant(e), Gigantesque, Obèse, Faible constitution, Rapide, Griffes aiguisées comme des rasoirs, Petit(e), Lent(e), Fort(e), Grand(e), Mince, Laid(e), Vigoureu(x)(se), Faible.
 >
-> **Esprit**: Perdu(e) dans ses pensées, Rat de bibliothèque, Génie de l'informatique, Gourde, Empathique, Concentré(e), Imaginati(f)(ve), Mathématicien(ne), Observat(eur)(trice), Lent(e), Illétré(e), Sage, Spirituel.
+> **Esprit**: Distrait(e), Rat de bibliothèque, Génie de l'informatique, Simple d'esprit, Empathique, Concentré(e), Imaginati(f)(ve), Mathématicien(ne), Observat(eur)(trice), Lent(e), Illétré(e), Sage, Spirituel(le).
 >
-> **Atout**: Acrobaties, Connaissances occultes, Courage, Meneu(r)(se), Escrime, Bonne mémoire, Chasse, Vue acérée, Linguistique, Magie, Médecine, Morsure vicieuse, Riche, Bagarre.
+> **Atout**: Acrobate, Connaissances occultes, Courage, Conduite, Escrime, Bonne mémoire, Chasse, Vue perçante, Linguistique, Magie, Médecine, Morsure féroce, Riche, Bagarre.
 >
-> **Faille**: Aveugle, Couard(e), Maladroit(e), Avare, Apparence inhumaine, Amputé(e) d'une jambe, Âgé(e), Pauvre, Myope, Primiti(f)(ve), Puant(e), Recherché(e), Jeune.
+> **Faille**: Aveugle, Couard(e), Maladroit(e), Cupide, Apparence inhumaine, Unijambiste, Âgé(e), Pauvre, Myope, Primiti(f)(ve), Puant(e), Recherché(e), Jeune.
 
 ----
 
