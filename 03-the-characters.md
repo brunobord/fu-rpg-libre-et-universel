@@ -99,7 +99,7 @@ Tous les objets, gadgets, armes que le personnage utilisera dans ses aventures e
 
 Comme les Descripteurs, le Matériel d'un personnage modifie ses chances lors d'un jet de dés. Ça peut être n'importe quoi : un pistolet ou un couteau, des vêtements à la mode, des cartes de crédit, un cheval, un téléphone mobile ou même un vaisseau spatial. Comme les Descripteurs, le Matériel dépend du concept du personnage, de l'univers du jeu et des histoires que vous voulez raconter. *A contrario*, l'élément du Matériel est composé d'un nom et d'un qualificatif : Épée Rouillée, Longue Corde, Cheval Rapide, Fusil à Longue-Portée, Armure Lourde.
 
-Votre personnage a deux éléments de Matériel. Choisissez donc deux éléments pour votre personnage.
+Votre personnage possède deux éléments de Matériel. Choisissez donc deux éléments pour votre personnage.
 
 > David a décidé que son explorateur avait un **Fouet Robuste**, puisqu'il avait déjà le talent de le manier. Il a également pris un **Blouson de cuir Élimé** pour le couvrir du froid et le protéger contre les égratignures et les chutes.
 >
@@ -111,11 +111,11 @@ Comme pour les exemples de Descripteurs, cette liste n'est en aucun cas exaustiv
 
 **Vêtements** : Jeans de Couturier, Petite Robe Noire (la "robe noire" est comptée comme un nom), Sous-vêtements Sales, Blouson Usé, Costume Spatial Dernier Cri, Costume de Soirée en Soie, Fedora Abimé, Haute Perruque Poudrée.
 
-**Armes** : Sabre Rouillé, Hache Lourde, Le Révolver de service de mon père, Dague Dissimulée, Lance-flamme Expérimental, Révolver Factice, AK-47 Fiable, Malette en Carton
+**Armes** : Sabre Rouillé, Hache Lourde, Le Révolver de service de mon père, Dague Dissimulée, Lance-flamme Expérimental, Révolver Factice, AK-47 Fiable, Malette en Carton.
 
-**Transport** : Cheval Fidèle, Buick en Bout de Course, Limousine Pare-Balles, Chaussures de Clown Couinantes, Voiture de Course Gonflée, Bicyclette de Fille, Coupé Déglingué, Chariot Bancal, Moto Rapide, Déambulateur de Grand-Mère
+**Transport** : Cheval Fidèle, Buick en Bout de Course, Limousine Pare-Balles, Chaussures de Clown Couinantes, Voiture de Course Surgonflée, Bicyclette de Fille, Coupé Déglingué, Chariot Bancal, Moto Rapide, Déambulateur de Grand-Mère.
 
-**Autres** : Énorme Sac à Dos, Drapeau Miniature, Ouvrages de JDR Pesants, Chien Fidèle, Poële à Fire Rouillée, Carnet de Notes Rongé par l'Humidité, Antique Livre de Sorts, Caillou Apprivoisé.
+**Autres** : Énorme Sac à Dos, Drapeau Miniature, Ouvrages de JDR Pesants, Chien Fidèle, Poële à Frire Rouillée, Carnet de Notes Rongé par l'Humidité, Antique Livre de Sorts, Caillou Apprivoisé.
 
 ----
 
@@ -123,7 +123,7 @@ Comme pour les exemples de Descripteurs, cette liste n'est en aucun cas exaustiv
 
 Les objets doivent être à l'image de votre personnage. Pensez à la Tenue Noire de Batman, les Packs-Protoniques Instables de Ghostbusters, le Berretta Inusable de James Bond, ou la Lame Éclair de Zorro.
 
-Chaque élément du Matériel doit ajouter un détail à l'histoire de votre personnage, sa personnalité, ses objectifs. Il doit être l'affirmation de ce qu'est le personage, et ce qu'il fait.
+Chaque élément du Matériel doit ajouter un détail à l'histoire de votre personnage, sa personnalité, ses objectifs. Il doit être l'affirmation de ce qu'est le personnage, et ce qu'il fait.
 
 ### Le Matériel, c'est du Matériel
 
@@ -135,7 +135,7 @@ L'utilisation du qualificatif doit nous donner une vraie indication utile concer
 
 Comme les Descripteurs, le qualificatif du Matériel doit être clair - il ne peut pas prêter à confusion concernant la qualification de l'objet.
 
-### Un seul adjectif
+### Un seul qualificatif
 
 La description de votre objet ne doit avoir qu'un seul qualificatif - ni plus, ni moins. Un Sabre Acéré, c'est bon, tout comme une Épée Magique, mais une Épée Magique Acérée n'est pas autorisée.
 
@@ -147,16 +147,15 @@ Il est mieux d'utiliser un nom spécifique, précis : Sabre est mieux qu'Épée,
 
 Discutez de votre Matériel. Tout le monde doit avoir une vision claire de ce que vous décrivez, son utilisation et quand l'outil devient un obstacle.
 
-Un Matériel n'est pas "bon" ou "mauvais" en soi. C'est ce que vous en ferez et en fonction des situations que vous verrez dans quelle mesure il est utile ou pas.
+Un Matériel n'est pas "bon" ou "mauvais" en soi. C'est ce que vous en ferez et en fonction des situations que vous verrez son (in)utilité.
 
 ### Bon Matériel / Mauvais Matériel
 
-Vous pouvez, si vous voulez, imposer qu'un des éléments ait un "bon" qualificatif, tandis que l'autre en aura un "mauvais". Vous pouvez avoir un Blouson Chaud et un Pistolet Rouillé ; ou une Moto Rapide et une Carte de Crédit Vidée.
+Vous pouvez, si vous voulez, imposer qu'un des éléments ait un "bon" qualificatif, tandis que l'autre en aurait un "mauvais". Vous pouvez avoir un Blouson Chaud et un Pistolet Rouillé ; ou une Moto Rapide et une Carte de Crédit Épuisée.
 
 ### Les choses qui ne sont pas du Matériel
 
 Tous les objets qui ne sont pas listés comme Matériel sont de l'équipement. Les équipements n'ont aucun effet sur les chances de succès ou d'échec dans une action - au mieux ils la permettent. Cependant, rien ne vous empêche d'emprunter, de voler ou d'échanger votre Matériel avec celui d'un autre pour vos actions.
-
 
 -----
 
