@@ -159,9 +159,9 @@ Tous les objets qui ne sont pas listés comme Matériel sont de l'équipement. L
 
 -----
 
-## Decription
+## Description
 
-À présent, vous avez une bonne idée de qui est votre personnage. Il est temps de parfaire les détails. C'est le moment de décrire l'apparence et la personnalité de ce personnage, son passé, ses buts, amis, ennemis et d'autres détails qui vous sembleront significatifs.
+À présent, vous avez une bonne idée de qui est votre personnage. Il est temps de parfaire les détails. C'est le moment de décrire l'apparence et le caractère de ce personnage, son passé, ses buts, amis, ennemis et d'autres détails qui vous sembleront significatifs.
 
 > David prend un moment pour prendre des notes sur son Explorateur Intrépide :
 >
@@ -173,7 +173,7 @@ Tous les objets qui ne sont pas listés comme Matériel sont de l'équipement. L
 
 ## Motivations
 
-Tous les personnages ont un objectif, un but qu'ils essaient d'atteindre. Ce n'est pas forcément un but trop ambitieux, comme changer le monde, même si ça peut être le cas. Il doit être important pour le personnage, pour le moins. Posez-vous les questions suivantes à propos du personnage :
+Tous les personnages ont un objectif, un but qu'ils essaient d'atteindre. Ce n'est pas forcément un but trop ambitieux, comme changer le monde, même si ça peut être le cas. Il doit au moins être important pour le personnage. Posez-vous les questions suivantes à propos du personnage :
 
 **Que voulez-vous ?** Quel est votre désir, la chose qui vous pousse à l'action ?
 
@@ -181,15 +181,14 @@ Tous les personnages ont un objectif, un but qu'ils essaient d'atteindre. Ce n'e
 
 **Qu'allez-vous faire ?** Quelle est la prochaine étape dans votre quête ? Que voulez-vous faire pour réussir ?
 
-> Tennessee Smith est à la recherche de l'Idôle de Tot, un artefact qu'il convoite depuis des décennies. Son rival, Giles Fishburne est également à la recherche de cette idole et semble toujours avoir une étape d'avance. Tenessee a vraiment envie de récupérer cette idôle - cependant il ne tuerait jamais pour elle.
+> Tennessee Smith est à la recherche de l'Idole de Tot, un artefact qu'il convoite depuis des années. Son rival, Giles Fishburne est également à la recherche de cette idole et semble toujours avoir une étape d'avance. Tenessee a vraiment envie de récupérer cette idole - cependant il ne tuerait jamais pour elle.
 >
-> Lumina veut la liberté pour le peuple de Jupiter. Le Terrible Seigneur Kang tient dans sa main de fer la planète, et ses agents sont sans arrêt aux trousses des rebelles. Lumina est prête à donner sa vie pour accomplir sa tâche.
+> Lumina veut la liberté pour le peuple de Jupiter. Le Terrible Seigneur Kang tient la planète dans sa main de fer, et ses agents sont sans arrêt aux trousses des rebelles. Lumina est prête à donner sa vie pour accomplir sa tâche.
 
 
 ## Relations
 
 Choisissez au moins un personnage qui prend part à l'histoire et écrivez une courte phrase pour décrire votre relation avec lui/elle/eux. Ce doit être clair et doit ajouter une profondeur supplémentaire aux historiques des deux personnages. Par exemple : Copains de Bistrot, Ont eu la même femme, Frères d'arme, Ont été entraînés par le même maître.
-
 
 > David écrit : Tennessee Smith et Lumina se sont rencontrés à Harvard alors que Lumina donnait une conférence sur les anciennes cultures de Jupiter. Nina est d'accord avec cette phrase, mais ajoute que, même si les deux personnes ont été attirées l'une et l'autre, Lumina est trop concentrée sur sa mission pour s'engager dans une relation amoureuse.
 
@@ -197,13 +196,13 @@ Choisissez au moins un personnage qui prend part à l'histoire et écrivez une c
 
 ### Maintenant, c'est du jeu de rôle !
 
-Votre Description, vos Motivations et Relations vous aideront à développer votre personnage et l'intégrer au "monde" de vos aventures. Le Narrateur peut occasionnellement vous donner un dé de bonus à vos jets à cause des informations contenues ici, mais ce n'est pas requis.
+Votre Description, vos Motivations et Relations vous aideront à développer votre personnage et l'intégrer au "monde" de vos aventures. Le Narrateur peut occasionnellement vous donner un dé de bonus à vos jets grâce aux informations contenues ici, mais ce n'est pas obligatoire.
 
 Utilisez vos Motivations et vos Relations pour donner des indications concernant votre façon d'incarner le personnage et comme il interagit avec le monde autour de lui et les autres personnages.
 
 ### Objectifs à court ou long terme ?
 
-Quand vous choisissez vos Motivations, vous êtes libres de vous arrêter sur du court-terme ou du long-terme. Si vous jouez pour une aventure sans suite (one- shot), il est plus facile de prendre un élément qui aura un impact immédiat sur l'histoire. Si vous avez en tête une série de parties (une campagne), il vaut mieux partir sur du long-terme.
+Quand vous choisissez vos Motivations, vous êtes libres de vous arrêter sur du court-terme ou du long-terme. Si vous jouez pour une aventure sans suite (one-shot), il est plus facile de prendre un élément qui aura un impact immédiat sur l'histoire. Si vous avez en tête une série de parties (une campagne), il vaut mieux partir sur du long-terme.
 
 ### Combien de Relations ?
 
@@ -211,7 +210,7 @@ Deux est un bon nombre de Relations pour commencer. Choisissez deux personnages 
 
 ### Ne soyez pas ennemis
 
-Ne créez pas de Motivations ou de Relations qui obligeront les personnages à se faire la guerre. Il peut être bien d'avoir des personnages qui ne peuvent pas se supporter (voire même, ça peut être amusant !), mais ne les faites pas se haïr. Ce que vous voulez, c'est que les personnages travaillent ensemble pour se débarrasser de leurs ennemis, résoudre le mystère ou achever leur mission !
+Ne créez pas de Motivations ou de Relations qui obligeront les personnages à se faire la guerre. Il peut être bien d'avoir des personnages qui ne peuvent pas se supporter (voire même, ça peut être amusant !), mais ne les faites pas se haïr. Ce que vous voulez, c'est que les personnages travaillent ensemble pour se débarrasser de leurs ennemis, résoudre le mystère ou accomplir leur mission !
 
 ----
 
@@ -233,7 +232,7 @@ Chaque Descripteur doit être court, percutant, clair, inné et défini.
 
 Qu'est ce que votre personnage transporte de cool et "iconique" ?
 
-Choisissez deux items, en le décrivant avec un adjectif et un nom (ex : Sabre Acéré, Moto Rapide)
+Choisissez deux items, en les décrivant avec un adjectif et un nom (ex : Sabre Acéré, Moto Rapide)
 
 ### 4 Description
 

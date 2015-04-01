@@ -25,7 +25,7 @@ Considérons que cette version est la v1.0-BÊTA.
 
 - [x] Introduction
 - [x] Les bases
-- [ ] Les personnages
+- [x] Les personnages
 - [ ] Action
 - [ ] Le Narrateur
 - [ ] À la recherche du Temple de Tot
