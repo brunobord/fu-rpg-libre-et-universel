@@ -1,6 +1,6 @@
 # À la recherche du Temple de Tot
 
-> Tennessee Smith, le célèbre explorateur a enfin un piste solide concernant l'antique Idôle de Tot, un objet dont on dit qu'il a des pouvoir surnaturels. Malheureusement, l'ennemi juré de Smith, Giles Fishburne est lui aussi sur les traces de l'Idôle et a fait alliance avec les Nazis !
+> Tennessee Smith, le célèbre explorateur a enfin un piste solide concernant l'antique Idole de Tot, un objet dont on dit qu'il a des pouvoir surnaturels. Malheureusement, l'ennemi juré de Smith, Giles Fishburne est lui aussi sur les traces de l'Idole et a fait alliance avec les Nazis !
 
 Cette courte aventure vous plongera rapidement dans l'action. Elle montre une manière de préparer votre propre aventure, avec ses adversaires et ses obstacles. Utilisez les personnages pré-générés qui se trouvent à la fin. *À la recherche du Temple de Tot* est composée d'une série de rencontres / scènes conçues pour être utilisées, réarrangées ou ignorées à votre discrétion. Souvenez-vous que les jets de dés amèneront à tout un tas de rebondissements intéressants et qu'une fois les aventuriers lancés, tout est envisageable !
 
@@ -104,13 +104,13 @@ Les défis et les adversaires de cette aventure sont notés dans des tableaux av
 
 **Qu'est-ce qui peut mal tourner ?** Les personnages ne franchissent pas les pièges ; Ils sont blessés par les pièges.
 
-### La Chambre de l'Idôle
+### La Chambre de l'Idole
 
-**Scène**: Une grande chambre de pierre illuminée de manière ingénieuse par des miroirs reflétant la lumière du soleil. L'Idôle de Tot - une statue dorée d'un singe à sept têtes - cise sur un piédestal de pierre au centre de la pièce.
+**Scène**: Une grande chambre de pierre illuminée de manière ingénieuse par des miroirs reflétant la lumière du soleil. L'Idole de Tot - une statue dorée d'un singe à sept têtes - cise sur un piédestal de pierre au centre de la pièce.
 
 **Descripteurs**: Grands miroirs en bronze.
 
-> Les personnages entrent dans la chambre de l'idôle, pour y trouver Giles Fishburne et son escorte de Nazis ! Arriveront-ils à battre Giles et s'échapper avec l'Idôle ?
+> Les personnages entrent dans la chambre de l'idole, pour y trouver Giles Fishburne et son escorte de Nazis ! Arriveront-ils à battre Giles et s'échapper avec l'Idole ?
 
 
 |  Giles Fishburne |                                                     |
@@ -132,7 +132,7 @@ Vous trouverez quatre personnages pré-générés ci-dessous. Ce sont des exempl
 |-----------------:|:-------------------------------------------------------------------------------------------------------|
 | **Descripteurs** | Agile, Sensé, Manie le fouet, A le vertige                                                             |
 |     **Matériel** | Fouet de cuir, Blouson en cuir élimé                                                                   |
-|  **Motivations** | Trouver l'Idôle de Tot                                                                                 |
+|  **Motivations** | Trouver l'Idole de Tot                                                                                 |
 |   **Conditions** | ☐ En colère, ☐ Effrayé, ☐ Fatigué, ☐ Prisonnier, ☐ Aveuglé, ☐ Affamé, ☐ Stupéfait, ☐ Blessé, ☐ Mourant |
 
 > Tennessee Smith est un professeur d'histoire, bien éduqué, mais dans ses temps libres il voyage dans les contrées sauvages pour retrouver des artefacts perdus et des trésors. Au charme rugueux, il allie une sorte de calme permanent, quel que soit le danger face à lui - et il a tendance à souvent se présenter.
