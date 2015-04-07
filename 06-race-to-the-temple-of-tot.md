@@ -1,8 +1,8 @@
 # À la recherche du Temple de Tot
 
-> Tennessee Smith, le célèbre explorateur a enfin un piste solide concernant l'antique Idole de Tot, un objet dont on dit qu'il a des pouvoir surnaturels. Malheureusement, l'ennemi juré de Smith, Giles Fishburne est lui aussi sur les traces de l'Idole et a fait alliance avec les Nazis !
+> Tennessee Smith, le célèbre explorateur a enfin un piste solide concernant l'antique Idole de Tot, un objet dont on dit qu'il a des pouvoirs surnaturels. Malheureusement, l'ennemi juré de Smith, Giles Fishburne est lui aussi sur les traces de l'Idole et a fait alliance avec les Nazis !
 
-Cette courte aventure vous plongera rapidement dans l'action. Elle montre une manière de préparer votre propre aventure, avec ses adversaires et ses obstacles. Utilisez les personnages pré-générés qui se trouvent à la fin. *À la recherche du Temple de Tot* est composée d'une série de rencontres / scènes conçues pour être utilisées, réarrangées ou ignorées à votre discrétion. Souvenez-vous que les jets de dés amèneront à tout un tas de rebondissements intéressants et qu'une fois les aventuriers lancés, tout est envisageable !
+Cette courte aventure vous plongera rapidement dans l'action. Elle montre une manière de préparer votre propre aventure, avec ses adversaires et ses obstacles. Utilisez les personnages pré-générés qui se trouvent à la fin. *À la recherche du Temple de Tot* est composée d'une série de rencontres / scènes conçues pour être utilisées, réarrangées ou ignorées à votre discrétion. Souvenez-vous que les jets de dés amèneront tout un tas de rebondissements et qu'une fois les aventuriers lancés, tout est envisageable !
 
 ## Avant de commencer
 
@@ -12,7 +12,7 @@ Lisez les textes d'ambiance ci-dessus (ceux en italique) et faites jaillir les i
 
 ## Les Scènes
 
-Les scènes proposées ici comportent une description sur le lieu de l'action et suggèrent des Descripteurs que vous ou les joueurs pourront incorporer dans l'action. Les textes en italique mettent l'action en place et donnent les objectifs. Brodez les détails pour vos joueurs.
+Les scènes proposées ici comportent une description du lieu de l'action et suggèrent des Descripteurs que vous ou les joueurs pourrez incorporer dans l'action. Les textes en italique mettent l'action en place et donnent les objectifs. Brodez les détails pour vos joueurs.
 
 ### Les défis
 
@@ -27,7 +27,7 @@ Les défis et les adversaires de cette aventure sont notés dans des tableaux av
 > Les personnages viennent de se procurer la carte indiquant le Temple de Tot. Malheureusement, des racailles Nazies ont débarqué et veulent récupérer la carte. Il sont nombreux, et même si les personnages peuvent essayer de les combattre, il serait plus facile de s'enfuir. Est-ce que les personnages vont s'échapper ?
 
 
-|     Brute Nazie |                                                    |
+|   Brutes Nazies |                                                    |
 |----------------:|:---------------------------------------------------|
 | **Descripteur** | Nombreux, Aryens musclés, Pas très malins          |
 |    **Matériel** | Automitrailleuse bruyante                          |
@@ -54,20 +54,20 @@ Les défis et les adversaires de cette aventure sont notés dans des tableaux av
 
 ### Les Gorges du Gou Zou
 
-**Scène**: Les gorges du Gou Zou, majestueuses, sont profondes de 500m et seul un pont ferroviaire aux poutrelles de ferraille les franchit. De grandes plaines découvertes s'étendent de chaque côté des gorges et les monts Kow veillent, à distance.
+**Scène**: Les gorges du Gou Zou, majestueuses, sont profondes de 500m et seul un pont ferroviaire aux poutrelles de ferraille les franchit. De grandes plaines s'étendent de chaque côté des gorges et les monts Kow veillent, à distance.
 
 **Descripteurs**: Grandes plaines, Gorges impassibles.
 
-> Les personnages suivent la carte vers les Gorges du Gou Zou, en voiture ou à dos de cheval. Giles Fishburne approche à grande vitesse, à bord du dirigeable Der Vogle. Est-ce que les personnages traverseront le pont sans domage ? Garderont-ils leur avance sur les Allemands ?
+> Les personnages suivent la carte vers les Gorges du Gou Zou, en voiture ou à dos de cheval. Giles Fishburne approche à grande vitesse, à bord du dirigeable Der Vogle. Est-ce que les personnages traverseront le pont sans dommage ? Garderont-ils leur avance sur les Allemands ?
 
 
 | Soldat Aérien Nazi |                                                     |
 |-------------------:|:----------------------------------------------------|
-|  **Descripteurrs** | Ils volent !, Agile                                 |
+|   **Descripteurs** | Ils volent !, Agiles                                |
 |       **Matériel** | Harnais de vol fragile, Grenade défensive mortelle  |
 |     **Conditions** | ☐ Désorienté, ☐ Au sol, ☐ Ralenti, ☐ Hors de combat |
 
-**Notes**: Il y a autant de soldat aérien que de personnages.
+**Notes**: Il y a autant de soldats aériens que de personnages.
 
 | Le pont sur le Gou Zou |                                  |
 |-----------------------:|:---------------------------------|
@@ -82,7 +82,7 @@ Les défis et les adversaires de cette aventure sont notés dans des tableaux av
 
 **Scène**: Un temple antique façonné dans la paroi d'une montagne. De grandes statues représentant des dieux et des démons sont alignées le long des murs. La poussière recouvre tout. Le tunnel mène au coeur de la montagne.
 
-**Descripteurs**: Sombre, Silencieuse.
+**Descripteurs**: Sombre, Silencieux.
 
 > Les personnages doivent entrer au coeur du temple, mais la carte signale qu'il y a des pièges funestes et des gardiens terrifiants. Survivront-ils aux pièges et aux gardiens ?
 
@@ -123,7 +123,7 @@ Les défis et les adversaires de cette aventure sont notés dans des tableaux av
 
 ## Personnages
 
-Vous trouverez quatre personnages pré-générés ci-dessous. Ce sont des exemples typiques d'aventurier *pulp*. Les joueurs peuvent les ajuster avec l'accord du Narrateur, avant le début de la partie, en en changeant un Descripteur ou deux, ou d'échanger un ou deux éléments de Matériel. Avant de démarrer le jeu chaque joueur devra définir une ou deux relations entre les personnages. Un bon moyen rapide consiste à ce que chacun décrive comment il a rencontré le personnage à sa gauche.
+Vous trouverez quatre personnages pré-générés ci-dessous. Ce sont des exemples typiques d'aventurier *pulp*. Les joueurs peuvent les ajuster avec l'accord du Narrateur, avant le début de la partie, en changeant un Descripteur ou deux, ou d'échanger un ou deux éléments de Matériel. Avant de démarrer le jeu chaque joueur devra définir une ou deux relations entre les personnages. Un bon moyen rapide consiste demander que chacun décrive comment il a rencontré le personnage à sa gauche.
 
 
 ### Tennessee Smith, Explorateur Intrépide
@@ -146,7 +146,7 @@ Vous trouverez quatre personnages pré-générés ci-dessous. Ce sont des exempl
 |  **Motivations** | Voir les 7 merveilles du monde                                                                         |
 |   **Conditions** | ☐ En colère, ☐ Effrayé, ☐ Fatigué, ☐ Prisonnier, ☐ Aveuglé, ☐ Affamé, ☐ Stupéfait, ☐ Blessé, ☐ Mourant |
 
-> Jimmy Sweet est un gamin insouciant qui n'a jamais pu compter que sur lui-même. Il est élancé, résistant et rapide, avec un caractère effronté qui lui a souvent apporté des ennuis. Jimmy s'est embarqué clandestinement sur un cargo à vapeur avec comme but de parcourir le monde et d'y faire bonne fortune.
+> Jimmy Sweet est un gamin insouciant qui n'a jamais pu compter que sur lui-même. Il est élancé, résistant et rapide, doté d'un caractère effronté qui lui a souvent apporté des ennuis. Jimmy s'est embarqué clandestinement sur un cargo à vapeur avec comme but de parcourir le monde et d'y faire bonne fortune.
 
 ### Harvey Reed, Boxeur à la retraite
 
@@ -169,4 +169,4 @@ Vous trouverez quatre personnages pré-générés ci-dessous. Ce sont des exempl
 |  **Motivations** | Révéler la vérité sur le vrai Tennessee Smith                                                          |
 |   **Conditions** | ☐ En colère, ☐ Effrayé, ☐ Fatigué, ☐ Prisonnier, ☐ Aveuglé, ☐ Affamé, ☐ Stupéfait, ☐ Blessé, ☐ Mourant |
 
-> October Jones est une journaliste et aventurière, qui bénéficie des largesses de son père, lequel est extrêmement fortuné. Belle, intelligente et gâtée, c'est une femme qui a l'habitude d'obtenir ce qu'elle veut.
+> October Jones est journaliste et aventurière, qui bénéficie des largesses de son père, lequel est extrêmement fortuné. Belle, intelligente et gâtée, c'est une femme qui a l'habitude d'obtenir ce qu'elle veut.
