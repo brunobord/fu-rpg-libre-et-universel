@@ -23,4 +23,8 @@ plusieurs canaux :
 
 > The Powered By FU logo is (c) Nathan Russell and is used with permission.
 
-FU RPG est (c) 2010 Nathan Russel, Traduction en français (c) 2015 Bruno Bord.
+----
+
+FU RPG est (c) 2010 Nathan Russel.
+
+Ce document est la version 1.0 de la traduction en français (c) 2015 Bruno Bord.
