@@ -7,23 +7,23 @@ Cette liste n'est en aucun cas exhaustive, mais c'est un bon départ. Chaque él
 * **Agile**: utile pour danser, sauter, faire des acrobaties, ramper dans des espaces réduits, l'équilibre.
 * **Ambidextre**: sert à utiliser une arme à feu dans chaque main, pour les tours de passe-passe.
 * **Blond(e)**: les gens auront tendance à vous sous-estimer, en revanche c'est mauvais de rester trop longtemps au soleil.
-* **Bronzage orange artificiel**: il est plus facile de se faire passer pour une célébrité vieillissante et pour attirer l'attention.
+* **Bronzage orange artificiel**: il est plus facile de se faire passer pour une célébrité vieillissante et d'attirer l'attention.
 * **À fourrure / Poilu(e)**: utile pour résister aux grands froids ou vivre dans les bois.
 * **Séduisant(e)**: utile pour draguer, vendre, obtenir un rôle à la télévision, être top-model, populaire.
 * **Gigantesque**: utile pour avoir l'air menaçant, atteindre les hauteurs, faire du body-building, ou se retrouver coincé dans un espace confiné.
 * **Obèse**: c'est un problème pour faire de l'exercice ou emprunter des vêtements.
 * **Faible constitution**: un handicap pour la course de fond, résister aux dégâts, l'endurance, la récupération.
-* **Rapide**: un avantage pour sauter se mettre à couvert, les tours de passe-passe et les autres actions qui nécessitent de la vitesse.
-* **Griffes aiguisées comme des rasoirs**: parfait pour découper ses ennemis, trancher les légumes et éventuellement grimper aux arbres.
+* **Rapide**: un avantage pour sauter, se mettre à couvert, les tours de passe-passe et les autres actions qui nécessitent de la vitesse.
+* **Griffes aiguisées comme des rasoirs**: parfait pour découper ses ennemis, trancher des légumes et éventuellement grimper aux arbres.
 * **Petit(e)**: c'est compliqué pour atteindre l'étagère du haut, mais bien plus simple pour se faufiler sous des meubles ou se fondre dans une foule.
-* **Lent(e)**: des problèmes pour courir, equiver, ou réagir rapidement.
+* **Lent(e)**: des problèmes pour courir, esquiver, ou réagir rapidement.
 * **Fort(e)**: pratique pour soulever, transporter, détruire ou lancer des objets. De même pour lutter et éviter de se faire écraser.
 * **Grand(e)**: intéressant pour atteindre l'étagère du haut, grimper, voir par-dessus les autres.
 * **Mince**: pratique pour se faufiler dans des espaces ou des vêtements étroits, se cacher derrière un poteau ou défiler sur les podiums.
 * **Laid(e)**: problématique pour séduire, ou obtenir un rôle à l'écran.
 * **Vigoureu(x)(se)**: résister aux poisons, courir sur de grandes distances et avoir de l'endurance.
 * **Faible**: difficile de soulever, transporter, détruire ou lancer des objets.
-* **Pieds palmés**: remarquable pour nager, mais une plaie pour trouver des chaussures.
+* **Pieds palmés**: remarquable pour nager, mais une plaie pour trouver chaussure à son pied.
 
 ## Descripteurs d'Esprit
 
@@ -51,12 +51,12 @@ Cette liste n'est en aucun cas exhaustive, mais c'est un bon départ. Chaque él
 * **Conduite**: faire des courses automobiles, des poursuites en voiture ou passer votre permis.
 * **Escrime**: combattre à l'épée ou toute autre forme de combat en mêlée entre gens de bonne tenue.
 * **Bonne mémoire**: pratique pour se souvenir du nom et des visages des gens, des indices vitaux ou des formules mathématiques.
-* **Chasse**: savoir pister ou prendre en filature, savoir se camoufler efficacement, et connaître le cri d'un rhinocéros en colère.
+* **Chasse**: savoir pister ou prendre en filature, savoir se camoufler efficacement, et reconnaître le cri d'un rhinocéros en colère.
 * **Vue perçante**: y voir à grande distance ou agir sans gêne à la lueur nocturne.
 * **Linguistique**: savoir parler une langue étrangère (ou plusieurs) et être plus à l'aise pour communiquer avec les autres.
 * **Magie**: connaître les arts occultes, jeter des sorts ou faire des numéros de prestidigitation.
 * **Médecine**: faire des opérations chirurgicales, diagnostiquer une maladie ou administrer les premiers soins.
-* **Morsure féroce**: arriver à blesser salement quelqu'un au combat, se mordre le bras ou gagner à un concours de mangeage de flamby.
+* **Morsure féroce**: arriver à blesser salement quelqu'un au combat, se mordre le bras ou gagner à un concours de gobage de flamby.
 * **Riche**: pouvoir acheter des voitures de sport luxueuses, être invité à des fêtes ultra-select, avoir les moyens de corrompre les gens influents.
 * **Bagarre**: pour se battre sans arme, et clouer un adversaire au sol.
 
@@ -73,5 +73,5 @@ Cette liste n'est en aucun cas exhaustive, mais c'est un bon départ. Chaque él
 * **Myope**: compliqué pour essayer de reconnaître une personne ou une chose, conduire la nuit, ou repérer des indices visuels.
 * **Primiti(f)(ve)**: une gêne pour utiliser un téléphone mobile, conduire une voiture, sonner à une porte ou interagir de manière civilisée en société.
 * **Puant(e)**: difficile d'impressionner les gens, ou passer inaperçu auprès de traqueurs ou d'animaux féroces à votre poursuite.
-* **Recherché(e)**: on n'arrête d'être embêté à tout bout de champ, et c'est plus difficile de rentrer chez soi sans ennui.
+* **Recherché(e)**: on n'arrête pas d'être embêté à tout bout de champ, et c'est plus difficile de rentrer chez soi sans ennui.
 * **Jeune**: problématique pour entrer en boîte, être pris au sérieux par les adultes, sêcher l'école ou voir au-dessus du volant quand on conduit.

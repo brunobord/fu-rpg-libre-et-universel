@@ -29,7 +29,7 @@ Considérons que cette version est la v1.0-BÊTA.
 - [x] Action
 - [x] Le Narrateur
 - [x] À la recherche du Temple de Tot
-- [ ] Annexes
+- [x] Annexes
 
 ## Participer
 
