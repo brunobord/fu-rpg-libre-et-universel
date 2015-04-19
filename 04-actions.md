@@ -4,13 +4,13 @@ Dans FU, vous et les autres joueurs allez travailler à l'élaboration d'une his
 
 ## Scènes & Tours
 
-Le jeu est divisé en scènes et tours. Une scène est une période de l'histoire, dans une situation donnée, un lieu ou pour un groupe de personnages. Les scènes sont la première brique de construction de l'histoire et peuvent s'étaler sur plusieurs heures ou quelques secondes. Chaque scène doit avoir un objectif spécifique et elle se terminera si l'objectif arrive à son terme. Une scène doit faire progresser l'intrigue de l'histoire, révéler des informations à propos d'un personnage, ou introduire un élément d'arrière-plan aux événements décrits. Souvent, une scène fait tout cela à la fois.
+Le jeu est divisé en scènes et tours. Une scène est une moment de l'histoire évoquant une situation donnée, un lieu ou un groupe de personnages. Les scènes sont la première brique de construction de l'histoire et peuvent s'étaler sur plusieurs heures ou quelques secondes. Chaque scène doit avoir un objectif spécifique et elle se terminera si l'objectif arrive à son terme. Une scène doit faire progresser l'intrigue de l'histoire, révéler des informations à propos d'un personnage, ou introduire un élément d'arrière-plan aux événements décrits. Souvent, une scène fait tout cela à la fois.
 
 Pendant une scène les joueurs et le Narrateur décrivent ce que les personnages font. Les joueurs "jouent la comédie" pour interpréter leurs personnages, étant leur voix et leur corps, tandis que le Narrateur fait de même pour tous les autres personnages, les créatures et les monstres de la scène.
 
 Les scènes peuvent donner lieu à des jets de dés, mais ce n'est pas obligatoire. Il est même possible que l'objectif d'une scène soit de jouer simplement un dialogue ou une interaction entre des personnages. Quand il est important de savoir quelles sont les actions des personnages et dans quel ordre elles interviennent, on divise une scène en tours. Un tour est une période assez longue pour que chaque personnage puisse faire une action, que ce soit attaquer, déclamer un discours d'encouragement, jeter un objet vers un compagnon, regarder une information sur son téléphone ou une tâche de ce genre.
 
-Les joueurs déclarent l'action que leur personnage doit effectuer, alors que le Narrateur décide ce que les autres personnages et autres créatures feront. Tout le monde décide ensemble dans quel ordre ces événements se passent. Quand tous les personnages ont eu l'opportunité d'agir, le tour prend fin. Un nouveau tour commence, si nécessaire.
+Les joueurs déclarent l'action que leur personnage entreprend, alors que le Narrateur décide ce que les autres personnages et autres créatures feront. Tout le monde décide ensemble dans quel ordre ces événements se passent. Quand tous les personnages ont eu l'opportunité d'agir, le tour prend fin. Un nouveau tour commence, si nécessaire.
 
 Il est important de signaler que seuls les joueurs lancent les dés. Ceci laisse au Narrateur les mains et l'esprit libre pour élaborer l'intrigue et préparer les scènes suivantes.
 
@@ -44,7 +44,7 @@ Les tours sont des règles optionnelles de la gestion du temps, ce qui est utile
 
 ## Ne pas faire d'impair
 
-Quand un personnage tente une action dont l'issue n'est pas immédiatement et/ou compètement évidente, vous devez lancer les dés.
+Quand un personnage tente une action dont l'issue n'est pas immédiatement et/ou complètement évidente, vous devez lancer les dés.
 
 Pour résoudre l'action, lancez un d6. Votre objectif est de ne "pas faire d'impair"[^1] en obtenant un score pair. Plus le chiffre est haut, meilleur est le résultat. Si vous obtenez un nombre impair, l'action a échoué, ou n'est pas aussi réussie qu'on l'attendait. Plus le chiffre est bas, pire est le résultat. Il y a un tableau ci-dessous pour illustrer cette idée.
 
@@ -63,14 +63,14 @@ Le fait de devoir vaincre les probabilités est au coeur de FU. Mais si la plupa
 | 4   | **Oui...** Vous obtenez ce que vous voulez.                                               |
 | 2   | **Oui, mais...** Vous obtenez ce que vous voulez, mais il y a un coût                     |
 | 5   | **Non, mais...** Vous n'obtenez pas ce que vous voulez, mais ce n'est pas un échec total. |
-| 3   | **Non...** Vous n'obtenez pas ce que vous vouliez.                                        |
+| 3   | **Non...** Vous n'obtenez pas ce que vous voulez.                                        |
 | 1   | **Non, et...** Vous n'obtenez pas ce que vous voulez, et les choses empirent              |
 
 ----
 
 ### Questions fermées
 
-FU utilise des questions à choix multiples pour aider à résoudre une action. On ne répond à une question fermée que par un "oui" ou un "non". Quand vous atteignez une situation qui doit être résolue par un jet de dés, proposez une question fermée : "Est-ce que je saute au-dessus du gouffre ?", "Est-ce que je cogne cet imbécile sur le nez ?", "Est-ce la jolie serveuse de la taverne va succomber à mon charme et mon sourire ?". Le jet de dé donnera la réponse à la question et vous guidera.
+FU utilise des questions à choix multiples pour aider à résoudre une action. On ne répond à une question fermée que par un "oui" ou un "non". Quand vous atteignez une situation qui doit être résolue par un jet de dés, proposez une question fermée : "Est-ce que je saute au-dessus du gouffre ?", "Est-ce que je cogne cet imbécile sur le nez ?", "Est-ce que la jolie serveuse de la taverne va succomber à mon charme et mon sourire ?". Le jet de dé donnera la réponse à la question et vous guidera.
 
 Souvent vous n'aurez pas besoin de poser la question de manière explicite - elle apparaîtra évidente en fonction de l'action tentée : "tu prends ton élan et tu sautes depuis le rebord du gouffre. Lance le dé."
 
@@ -96,10 +96,10 @@ Certains joueurs ne sont pas à l'aise avec les résultats en mode pair/impair. 
 | Jet | Obtenez-vous ce que vous voulez ? |
 |:----|:----------------------------------|
 | 6   | Oui, et...                        |
-| 4   | Oui...                            |
-| 2   | Oui, mais...                      |
-| 5   | Non, mais...                      |
-| 3   | Non...                            |
+| 5   | Oui...                            |
+| 4   | Oui, mais...                      |
+| 3   | Non, mais...                      |
+| 2   | Non...                            |
 | 1   | Non, et...                        |
 
 ----
@@ -196,7 +196,7 @@ Le Capitaine Vance, est lancé à pleine vitesse dans la jeep, quand soudain un 
 
 ### Pour les autres types de jets de dés ?
 
-Il n'y a pas de "jet d'opposition" ou de "jets de dommage" dans FU. Le jet de dés pour "ne pas faire d'impair" est le seul genre de lancer utilisé en jeu, que vous deviez conduire une voiture au milieu d'une galerie marchande, combattre un géant à mains nues ou ignorer la blessure causée par une balle perdue.
+Il n'y a pas de "jet d'opposition" ou de "jet de dommage" dans FU. Le jet de dés pour "ne pas faire d'impair" est le seul genre de lancer utilisé en jeu, que vous deviez conduire une voiture au milieu d'une galerie marchande, combattre un géant à mains nues ou ignorer la blessure causée par une balle perdue.
 
 
 ### Comment est-ce que les actions "en opposition" fonctionnent ?
@@ -205,7 +205,7 @@ Pour commencer, seuls les joueurs lancent les dés. Il faut rassembler tous les 
 
 ### Ajuster votre action
 
-Les combats à l'épée, les débats politiques, les courses spatiales, les guerres internationales, les disputes et les duels au révolver sont résolues par ces jets de dés. Pour ajuster vos actions, la clé réside dans la question à laquelle vous essayez de répondre par votre jet de dés. Vous pouvez vivre un combat à l'épée palpitant et vous échanger coups pour coups en plusieurs "Est-ce que je touche le Comte de Montief ?". Mais vous pourrez aussi réduire ce combat à un seul jet en demandant : "Est-ce que je triomphe du Comte de Montief dans ce duel ?". Ou passer encore à un niveau supérieur en demandant : "Est-ce que mes hommes et moi arrivons à prendre possession du château du Comte de Montief ?". À vous d'ajuster comme bon vous semble !
+Les combats à l'épée, les débats politiques, les courses spatiales, les guerres internationales, les disputes et les duels au revolver sont résolues par ces jets de dés. Pour ajuster vos actions, la clé réside dans la question à laquelle vous essayez de répondre par votre jet de dés. Vous pouvez vivre un combat à l'épée palpitant et vous échanger coups pour coups en plusieurs "Est-ce que je touche le Comte de Montief ?". Mais vous pourrez aussi réduire ce combat à un seul jet en demandant : "Est-ce que je triomphe du Comte de Montief dans ce duel ?". Ou passer encore à un niveau supérieur en demandant : "Est-ce que mes hommes et moi arrivons à prendre possession du château du Comte de Montief ?". À vous d'ajuster comme bon vous semble !
 
 ### Option : grouper les dés !
 
