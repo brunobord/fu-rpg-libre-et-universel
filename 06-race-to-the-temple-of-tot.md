@@ -20,7 +20,7 @@ Les défis et les adversaires de cette aventure sont notés dans des tableaux av
 
 ### S'échapper du Marché de Bulak
 
-**Scène**: Asie Centrale - un marché foisonnant au coeur de la ville de Bulak - mi-journée. La place du marché est entourée de bâtiments de pierre et de briques en terre cuite, aux fenêtres étroites décorées d'arches ; le long des rues étranglées et sinueuses, dans un grand désordre, on passe d'étales en cafés, de bars en commerces.
+**Scène**: Asie Centrale - un marché foisonnant au coeur de la ville de Bulak - mi-journée. La place du marché est entourée de bâtiments de pierre et de briques en terre cuite, aux fenêtres étroites décorées d'arches ; le long des rues étranglées et sinueuses, dans un grand désordre, on passe d'étals en cafés, de bars en commerces.
 
 **Descripteurs**: rue surpeuplée, marchandises exotiques.
 
@@ -106,7 +106,7 @@ Les défis et les adversaires de cette aventure sont notés dans des tableaux av
 
 ### La Chambre de l'Idole
 
-**Scène**: Une grande chambre de pierre illuminée de manière ingénieuse par des miroirs reflétant la lumière du soleil. L'Idole de Tot - une statue dorée d'un singe à sept têtes - cise sur un piédestal de pierre au centre de la pièce.
+**Scène**: Une grande chambre de pierre illuminée de manière ingénieuse par des miroirs reflétant la lumière du soleil. L'Idole de Tot - une statue dorée d'un singe à sept têtes - sise sur un piédestal de pierre au centre de la pièce.
 
 **Descripteurs**: Grands miroirs en bronze.
 
