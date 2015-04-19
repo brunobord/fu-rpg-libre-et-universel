@@ -65,7 +65,7 @@ Tous les personnages, monstres, pièges, adversaires, éléments du décor, cré
 
 ### Le bol
 
-Une technique existe pour l'attribution des points de FU : placez un bol au centre de la table, rempli de jetons ou de perles de verre. Chaque jeton est un point de FU. Quand le Narrateur dit aux joueurs "prends un point de FU dans le bol", ils peuvent l'atteindre et récompenser le joueur méritant. Cela nécessite toute confiance entre les joueurs et le Narrateur, mais ça fluidifie la partie parce que personne ne pense à poser la question : "Est-ce que ça mérite un point de FU ?"
+Une technique existe pour l'attribution des points de FU : placez un bol au centre de la table, rempli de jetons ou de perles de verre. Chaque jeton est un point de FU. Quand le Narrateur dit à un joueur "prends un point de FU dans le bol" ou que les autres joueurs trouvent cela approprié, ils peuvent l'atteindre et récompenser le joueur méritant. Cela nécessite toute confiance entre les joueurs et le Narrateur, mais ça fluidifie la partie parce que personne ne pense à poser la question : "Est-ce que ça mérite un point de FU ?"
 
 ### Progression
 
