@@ -39,7 +39,7 @@ Cette liste n'est en aucun cas exhaustive, mais c'est un bon départ. Chaque él
 * **Éloquent(e)**: savoir s'exprimer en public, débattre et convaincre les gens de se rallier à votre point de vue.
 * **Lent(e)**: pénible quand il faut comprendre un plan d'attaque, ou apprendre de nouvelles choses.
 * **Tacticien(ne)**: faire des plans de bataille, se souvenir des hauts faits militaires de l'Histoire et citer Sun-Tsu.
-* **Illétré(e)**: difficultés pour lire, calculer, se souvenir des dates importantes de l'Histoire et passer des examens scolaires.
+* **Illettré(e)**: difficultés pour lire, calculer, se souvenir des dates importantes de l'Histoire et passer des examens scolaires.
 * **Sage**: capable de citer des proverbes, donner des conseils, associer deux indices apparemment sans relation, interpréter les réactions des gens, et dire "Je te l'avais bien dit".
 * **Spirituel(le)**: savoir faire des commentaires légers, charmer ou amuser, et toujours avoir le dernier mot.
 
@@ -66,7 +66,7 @@ Cette liste n'est en aucun cas exhaustive, mais c'est un bon départ. Chaque él
 * **Téméraire**: courir au devant d'un danger mortel, agir inconsidérément, et plonger plus encore dans le pétrin.
 * **Maladroit(e)**: problématique pour transporter un vase de valeur, visiter un magasin d'antiquités ou traverser une pièces remplie de farces et attrapes.
 * **Cupide**: gênant quand il faut résister à l'envie de voler ou mentir dans le but de conserver ou gagner plus de richesses.
-* **Appearance inhumaine**: impossible de passer inaperçu, d'éviter l'attention ou trouver un pantalon qui sied à sa corpulence.
+* **Apparence inhumaine**: impossible de passer inaperçu, d'éviter l'attention ou trouver un pantalon qui sied à sa corpulence.
 * **Unijambiste**: difficile de courir, escalader ou toute autre action qui implique de se déplacer sans ses prothèses ou une chaise roulante.
 * **Âgé(e)**: un problème pour avoir l'air cool, grimper à l'escalier, utiliser un ordinateur ou être optimiste concernant son état de santé.
 * **Pauvre**: problématique pour s'acheter à manger ou pour se vêtir ou s'incruster dans une fête select.
@@ -74,4 +74,4 @@ Cette liste n'est en aucun cas exhaustive, mais c'est un bon départ. Chaque él
 * **Primiti(f)(ve)**: une gêne pour utiliser un téléphone mobile, conduire une voiture, sonner à une porte ou interagir de manière civilisée en société.
 * **Puant(e)**: difficile d'impressionner les gens, ou passer inaperçu auprès de traqueurs ou d'animaux féroces à votre poursuite.
 * **Recherché(e)**: on n'arrête pas d'être embêté à tout bout de champ, et c'est plus difficile de rentrer chez soi sans ennui.
-* **Jeune**: problématique pour entrer en boîte, être pris au sérieux par les adultes, sêcher l'école ou voir au-dessus du volant quand on conduit.
+* **Jeune**: problématique pour entrer en boîte, être pris au sérieux par les adultes, sécher l'école ou voir au-dessus du volant quand on conduit.
