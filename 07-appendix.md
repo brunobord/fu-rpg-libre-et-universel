@@ -75,3 +75,11 @@ Cette liste n'est en aucun cas exhaustive, mais c'est un bon départ. Chaque él
 * **Puant(e)**: difficile d'impressionner les gens, ou passer inaperçu auprès de traqueurs ou d'animaux féroces à votre poursuite.
 * **Recherché(e)**: on n'arrête pas d'être embêté à tout bout de champ, et c'est plus difficile de rentrer chez soi sans ennui.
 * **Jeune**: problématique pour entrer en boîte, être pris au sérieux par les adultes, sécher l'école ou voir au-dessus du volant quand on conduit.
+
+## Feuille de personnage
+
+Grâce aux bons soins de la communauté, une feuille de personnage est disponible en téléchargement à l'adresse suivante :
+
+[https://raw.githubusercontent.com/brunobord/fu-rpg-libre-et-universel/master/feuille-de-personnage.pdf](https://raw.githubusercontent.com/brunobord/fu-rpg-libre-et-universel/master/feuille-de-personnage.pdf)
+
+Note : les termes employés diffèrent très légèrement de ceux choisis dans cette traduction, mais ils ne devraient pas entraver le cours du jeu.
