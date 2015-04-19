@@ -1,6 +1,6 @@
 # Les bases
 
-FU est écrit avec comme prérequis qu'au moins un des joueurs est au courant de ce qu'est le jeu de rôle et a au moins une vague idée de comment ils fonctionnent. Si vous n'avez aucune idée de ce qu'est un JdR, foncez trouver quelqu'un qui connaît.
+FU est écrit avec comme prérequis qu'au moins un des joueurs est au courant de ce qu'est le jeu de rôle et a au moins une vague idée de comment il fonctionne. Si vous n'avez aucune idée de ce qu'est un JdR, foncez trouver quelqu'un qui connaît.
 
 ## Vous aurez besoin de...
 
@@ -20,7 +20,7 @@ Le jeu est une sorte de conversation, dans laquelle tout le monde participe pour
 
 ## Comment le ferez-vous ?
 
-Pour résoudre une action dont l'issue est incertaine, lancez un d6. Votre but est de "ne pas faire d'impair"[^1] en réussissant un résultat pair. Plus le chiffre pair sera haut, meilleur sera le résultat. Si vous avez un score impair, l'action échouera, ou ne sera pas aussi positive que voulue ou attendue. Plus le nombre impair sera faible, plus le résultat sera mauvais. En fonction de l'environnement, vos talents, votre équipement ou vos habilités, une action pourra être plus facile ou plus difficile, et vous devrez lancer plusieurs dés pour ne conserver que le meilleur ou le pire résultat.
+Pour résoudre une action dont l'issue est incertaine, lancez un d6. Votre but est de "ne pas faire d'impair"[^1] en réussissant un résultat pair. Plus le chiffre pair sera haut, meilleur sera le résultat. Si vous avez un score impair, l'action échouera, ou ne sera pas aussi positive que voulue ou attendue. Plus le nombre impair sera faible, plus le résultat sera mauvais. En fonction de l'environnement, de vos talents, de votre équipement ou de vos habilités, une action pourra être plus facile ou plus difficile, et vous devrez lancer plusieurs dés pour ne conserver que le meilleur ou le pire résultat.
 
 ## Avant de jouer
 
@@ -30,7 +30,7 @@ Avant tout, vous et vos amis devrez vous accorder sur le type de jeu auquel vous
 
 ### Discutez avant de jouer !
 
-Conversez au sujet du type de jeu auquel vous jouerez, afin que tout le monde partent sur les mêmes bases. Définissez un ton, un thème et/ou des attentes. Il est important de comprendre qui sera félicité ou honni pour une réaction exagérée, ou des actes de violence gratuite. Lancez des idées à propos du décor, des images, des scènes classiques et enthousiasmantes ou des beaux clichés. De cette façon, tout le monde a une idée claire de ce à quoi le jeu peut ressembler.
+Conversez au sujet du type de jeu auquel vous jouerez, afin que tout le monde parte sur les mêmes bases. Définissez un ton, un thème et/ou des attentes. Il est important de comprendre qui sera félicité ou honni pour une réaction exagérée, ou des actes de violence gratuite. Lancez des idées à propos du décor, des images, des scènes classiques et enthousiasmantes ou des beaux clichés. De cette façon, tout le monde a une idée claire de ce à quoi le jeu peut ressembler.
 
 Cette discussion peut amener des éléments au Narrateur sur ce que veulent les joueurs (ou leurs besoins) en termes de jeu. Il saura si les joueurs veulent ressentir le souffle de l'épopée, vivre en opprimés ou être de tragiques anti-héros.
 
