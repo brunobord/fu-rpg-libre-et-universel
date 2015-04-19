@@ -27,4 +27,6 @@ plusieurs canaux :
 
 FU RPG est (c) 2010 Nathan Russel.
 
-Ce document est la version 1.0 de la traduction en français (c) 2015 Bruno Bord.
+Ce document est la v1.1 de la traduction en français (c) 2015 Bruno Bord
+
+Relecture par Ackinty Strappa, Feuille de personnage par Nolendur.
