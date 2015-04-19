@@ -4,7 +4,7 @@ Dans FU, votre personnage est votre alter-ego. Pendant une histoire, vous décri
 
 ## Concept
 
-Quand vous savez dans quel type d'univers ou quel genre d'aventures vous allez jouer, vous pouvez commencer à réfléchir à votre personnage. C'est le coeur de ce que sera votre personnage, et il doit être résumé en quelques mots ou une phrase.
+Quand vous savez dans quel type d'univers ou quel genre d'aventures vous allez jouer, vous pouvez commencer à réfléchir à votre personnage. C'est le coeur de ce que sera votre personnage, et il doit être résumé en quelques mots ou en une phrase.
 
 Le concept doit définir le type de personnage, ou son activité principale, comme "enquêteur du paranormal" ou "enfant prodige". Ou ce concept peut donner des indications sur sa personnalité, comme "noble sauvage" ou "professeur foldingue".
 
@@ -36,11 +36,11 @@ Les personnages ont quatre Descripteurs : Corps, Esprit, Atout et Faille. Choisi
 
 ### Exemples de Descripteurs
 
-Ceci n'est en aucun cas une liste exaustive, mais donne quelques idées pour vous aider. Chacun de ces Descripteurs est détaillé dans les Appendices.
+Ceci n'est en aucun cas une liste exhaustive, mais donne quelques idées pour vous aider. Chacun de ces Descripteurs est détaillé dans les Appendices.
 
 > **Corps**: Agile, Ambidextre, Blond(e), À fourrure / Poilu(e), Bronzage orange artificiel, Séduisant(e), Gigantesque, Obèse, Faible constitution, Rapide, Griffes aiguisées comme des rasoirs, Petit(e), Lent(e), Fort(e), Grand(e), Mince, Laid(e), Vigoureu(x)(se), Faible.
 >
-> **Esprit**: Distrait(e), Rat de bibliothèque, Génie de l'informatique, Simple d'esprit, Empathique, Concentré(e), Imaginati(f)(ve), Mathématicien(ne), Observat(eur)(trice), Lent(e), Illétré(e), Sage, Spirituel(le).
+> **Esprit**: Distrait(e), Rat de bibliothèque, Génie de l'informatique, Simple d'esprit, Empathique, Concentré(e), Imaginati(f)(ve), Mathématicien(ne), Observat(eur)(trice), Lent(e), Illetré(e), Sage, Spirituel(le).
 >
 > **Atout**: Acrobate, Connaissances occultes, Courage, Conduite, Escrime, Bonne mémoire, Chasse, Vue perçante, Linguistique, Magie, Médecine, Morsure féroce, Riche, Bagarre.
 >
@@ -51,7 +51,7 @@ Ceci n'est en aucun cas une liste exaustive, mais donne quelques idées pour vou
 
 ### Les clichés sont vos amis !
 
-Il est tout à fait acceptable d'user de clichés quand on conçoit son concept. Les clichés sont porteurs d'idées et des concepts avec lesquels on se sent immédiatement à l'aise. Quand quelqu'un dit que son personnage est un barbare, on se l'imagine automatiquement très musclé, et sans éducation. Utiliser les clichés est une sorte de raccourci pour décrire votre personnage.
+Il est tout à fait acceptable d'user de clichés quand on propose son concept. Les clichés sont porteurs d'idées et des concepts avec lesquels on se sent immédiatement à l'aise. Quand quelqu'un dit que son personnage est un barbare, on se l'imagine automatiquement très musclé, et sans éducation. Utiliser les clichés est une sorte de raccourci pour décrire votre personnage.
 
 #### Choisir ses Descripteurs
 
@@ -67,7 +67,7 @@ Un bon Descripteur est compris par tout le monde autour de la table. Si vous ou 
 
 Chaque Descripteur est une partie intégrante et innée du personnage. Ils ne peuvent pas être volés, perdus ou supprimés (cependant, dans certaines circonstances, on peut les oublier). Ne faites pas de vos Descripteurs des éléments de votre Matériel.
 
-#### La finitude des Descripteurs
+#### La portée des Descripteurs
 
 Chaque Descripteur doit avoir un ou deux cas d'utilisation spécifiques. Il peut aussi être utilisable dans des circonstances imprévues, mais vous découvrirez ces usages pendant le jeu. **Médecine** est un meilleur Descripteur que **Docteur**, par exemple, parce que le second peut avoir un grand nombre d'utilisations dans un domaine non-médical (*"En tant que Docteur, je suis bien éduqué et fortuné..."*)
 
@@ -107,15 +107,15 @@ Votre personnage possède deux éléments de Matériel. Choisissez donc deux él
 
 ## Exemples de Matériel
 
-Comme pour les exemples de Descripteurs, cette liste n'est en aucun cas exaustive. Elle effleure à peine ce que votre personnage peut posséder.
+Comme pour les exemples de Descripteurs, cette liste n'est en aucun cas exhaustive. Elle effleure à peine ce que votre personnage peut posséder.
 
 **Vêtements** : Jeans de Couturier, Petite Robe Noire (la "robe noire" est comptée comme un nom), Sous-vêtements Sales, Blouson Usé, Costume Spatial Dernier Cri, Costume de Soirée en Soie, Fedora Abimé, Haute Perruque Poudrée.
 
-**Armes** : Sabre Rouillé, Hache Lourde, Le Révolver de service de mon père, Dague Dissimulée, Lance-flamme Expérimental, Révolver Factice, AK-47 Fiable, Malette en Carton.
+**Armes** : Sabre Rouillé, Hache Lourde, Le Revolver de service de mon père, Dague Dissimulée, Lance-flamme Expérimental, Revolver Factice, AK-47 Fiable, Malette en Carton.
 
 **Transport** : Cheval Fidèle, Buick en Bout de Course, Limousine Pare-Balles, Chaussures de Clown Couinantes, Voiture de Course Surgonflée, Bicyclette de Fille, Coupé Déglingué, Chariot Bancal, Moto Rapide, Déambulateur de Grand-Mère.
 
-**Autres** : Énorme Sac à Dos, Drapeau Miniature, Ouvrages de JDR Pesants, Chien Fidèle, Poële à Frire Rouillée, Carnet de Notes Rongé par l'Humidité, Antique Livre de Sorts, Caillou Apprivoisé.
+**Autres** : Énorme Sac à Dos, Drapeau Miniature, Ouvrages de JDR Pesants, Chien Fidèle, Poêle à Frire Rouillée, Carnet de Notes Rongé par l'Humidité, Antique Livre de Sorts, Caillou Apprivoisé.
 
 ----
 
@@ -147,7 +147,7 @@ Il est mieux d'utiliser un nom spécifique, précis : Sabre est mieux qu'Épée,
 
 Discutez de votre Matériel. Tout le monde doit avoir une vision claire de ce que vous décrivez, son utilisation et quand l'outil devient un obstacle.
 
-Un Matériel n'est pas "bon" ou "mauvais" en soi. C'est ce que vous en ferez et en fonction des situations que vous verrez son (in)utilité.
+Un Matériel n'est pas "bon" ou "mauvais" en soi. C'est ce que vous en ferez, en fonction des situations, qui vous montrera son (in)utilité.
 
 ### Bon Matériel / Mauvais Matériel
 
@@ -169,7 +169,7 @@ Tous les objets qui ne sont pas listés comme Matériel sont de l'équipement. L
 >
 > La description de Nina pour son Ambassadeur Alien est la suivante :
 >
-> Lumina est une diplomate importante en provenance de Jupiter, qui est dirigée par le Terrible Seigneur Kang. Comme ses semblables, elle a la peau violette, le crâne chauve et les traits délicats. Lumina travaille pour le mouvement Jupiter Clandestin, qui tente de reverser le Seigneur Kang.
+> Lumina est une diplomate importante en provenance de Jupiter, qui est dirigée par le Terrible Seigneur Kang. Comme ses semblables, elle a la peau violette, le crâne chauve et les traits délicats. Lumina travaille pour le mouvement Jupiter Clandestin, qui tente de renverser le Seigneur Kang.
 
 ## Motivations
 
