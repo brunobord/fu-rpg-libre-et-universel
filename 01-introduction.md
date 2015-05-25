@@ -4,7 +4,7 @@ FU est un jeu d'action et d'aventure amusant ! C'est un jeu de rôle avec de gra
 
 FU est avant tout un jeu simple. Ce livre vous aidera à passer d'une idée du style : *"Et si on faisait un jeu de rôle dans cet univers..."* à la concrétisation du jeu en quelques minutes. La création des personnages est rapide et intuitive, permettant de jouer n'importe quel type de personnage, et le jeu en lui-même est rapide à apprendre et simple d'utilisation.
 
-FU est universel. Ou générique. Ou quelle que soit le nom que vous voulez lui donner. Ces règles de base ne sont pas liées à un univers spécifique, et s'attachent à ne surtout rien présupposer de celui-ci. C'est un système basique autour duquel vous pourrez créer vos propres univers de jeu et vos histoires. Cela dit, FU a quelques préférences concernant la manière de jouer.
+FU est universel. Ou générique. Peu importe l'adjectif que vous employez. Ces règles de base ne sont pas liées à un univers spécifique, et s'attachent à ne surtout rien présupposer de celui-ci. C'est un système basique autour duquel vous pourrez créer vos propres univers de jeu et vos histoires. Cela dit, FU a quelques préférences concernant la manière de jouer.
 
 FU est normalement adapté à votre convenance, avec un minimum de préparation.
 
@@ -12,7 +12,7 @@ Les Narrateurs qui aiment vivre des aventures "au fil de l'eau" apprécieront ce
 
 ## Comment utiliser ce livre
 
-Ce livre renferme deux types d'informations. Premièrement, les règles à proprement parler - celles qui expliquent comment jouer. Ces règles sont présentées de façon informative sur cette page, avec des titres et des sous-titres clairs. FU est assez limpide et vous n'aurez probablement pas besoin de vous référer au livre des règles après votre première partie. Tout ce que vous avez besoin de savoir est présenté comme ceci.
+Ce livre renferme plusieurs types d'informations. Premièrement, les règles à proprement parler - celles qui expliquent comment jouer. Ces règles sont présentées de façon informative sur cette page, avec des titres et des sous-titres clairs. FU est assez limpide et vous n'aurez probablement pas besoin de vous référer au livre des règles après votre première partie. Tout ce que vous avez besoin de savoir est présenté comme ceci.
 
 > Les exemples d'utilisation des règles sont formatés comme ceci. Ils sont répartis au milieu du texte principal et vous aident à voir comment utiliser les règles. Vous n'aurez probablement pas besoin de les relire après votre première partie.
 

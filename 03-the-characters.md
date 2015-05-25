@@ -38,7 +38,7 @@ Les personnages ont quatre Descripteurs : Corps, Esprit, Atout et Faille. Choisi
 
 Ceci n'est en aucun cas une liste exhaustive, mais donne quelques idées pour vous aider. Chacun de ces Descripteurs est détaillé dans les Appendices.
 
-> **Corps**: Agile, Ambidextre, Blond(e), À fourrure / Poilu(e), Bronzage orange artificiel, Séduisant(e), Gigantesque, Obèse, Faible constitution, Rapide, Griffes aiguisées comme des rasoirs, Petit(e), Lent(e), Fort(e), Grand(e), Mince, Laid(e), Vigoureu(x)(se), Faible.
+> **Corps**: Agile, Ambidextre, Blond(e), À fourrure / Poilu(e), Bronzage artificiel, Séduisant(e), Gigantesque, Obèse, Faible constitution, Rapide, Griffes aiguisées comme des rasoirs, Petit(e), Lent(e), Fort(e), Grand(e), Mince, Laid(e), Vigoureu(x)(se), Faible.
 >
 > **Esprit**: Distrait(e), Rat de bibliothèque, Génie de l'informatique, Simple d'esprit, Empathique, Concentré(e), Imaginati(f)(ve), Mathématicien(ne), Observat(eur)(trice), Lent(e), Illetré(e), Sage, Spirituel(le).
 >
@@ -61,7 +61,7 @@ Soyez inventifs, gardez votre concept en tête, et discutez-en avec le Narrateur
 
 #### Les Descripteurs sont clairs
 
-Un bon Descripteur est compris par tout le monde autour de la table. Si vous ou un autre joueur estime que le Descripteur est ambigu, parlez-en. Il se peut qu'il nécessite d'être mieux défini, ou pas. Il faut juste que tout le monde soit à la page quand il s'agira de l'utiliser.
+Un bon Descripteur est compris par tout le monde autour de la table. Si vous ou un autre joueur estime que le Descripteur est ambigu, parlez-en. Il se peut qu'il nécessite d'être mieux défini, ou pas. Il faut juste que, le moment venu, tous lui donnent la même signification.
 
 #### Les Descripteurs sont innés
 
