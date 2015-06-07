@@ -122,7 +122,8 @@ Quand vous tentez une action, vous posez la question : "Est-ce que mon personnag
 >
 > Non, et...
 
-*Oui* and *Non* sont assez simples à comprendre - ils vous disent si l'action tentée est réussie ou non. Le *et* et le *mais* sont des qualificatifs qui infléchissent le niveau de l'échec et du succès. Quand vous obtenez un qualificatif vous avez un élément supplémentaire pour comprendre en quoi l'action a réussi ou échoué. Cet élément supplémentaire peut ajouter une Condition ou un Détail à propos de la scène.
+*Oui* et *Non* sont assez simples à comprendre - ils vous disent si l'action tentée est réussie ou non. Le *et* et le *mais* sont des qualificatifs qui infléchissent le niveau de l'échec et du succès. Quand vous obtenez un qualificatif vous avez un élément supplémentaire pour comprendre en quoi l'action a réussi ou échoué. Cet élément supplémentaire peut ajouter une Condition ou un Détail à propos de la scène.
+et
 
 **Conditions**: Ce sont des effets physiques, mentaux ou sociaux qui changent le comportement d'un personnage ou influent ses chances de tenter une action. Les Conditions comprennent les termes *en colère*, *sonné*, *fatigué* ou *inconscient*. Certains d'entre eux sont listés sur la feuille de personnage de FU, mais il y a des emplacements pour que vous puissiez intégrer les vôtres.
 
