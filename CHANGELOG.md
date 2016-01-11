@@ -1,10 +1,11 @@
 # Changelog
 
-## master
+## v1.2
 
-(unreleased)
+(11 janvier 2015)
 
 * Quelques modifications mineures apportées par Étienne Bar et Michel Chevalier. Que leurs dés tombent toujours sur un nombre pair.
+* Deux modifications mineures via la PR de @nferrari (#10).
 
 ## v1.1
 
